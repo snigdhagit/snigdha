@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Snigdha Panigrahi
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Statistics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Michigan
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Statistics
     institution: Stanford University
-    year: 2012
+    year: 2018
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
