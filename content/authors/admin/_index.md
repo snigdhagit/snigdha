@@ -15,7 +15,7 @@ role: Assistant Professor of Statistics
 # Organizations/Affiliations
 organizations:
 - name: University of Michigan
-  url: ""
+  url: "https://lsa.umich.edu/stats"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Statistics
+  - course: Ph.D. in Statistics
     institution: Stanford University
     year: 2018
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Master in Statistics
+    institution: Indian Statistical Institute
+    year: 2013
+  - course: Bachelor in Statistics
+    institution: Indian Statistical Institute
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
