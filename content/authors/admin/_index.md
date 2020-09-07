@@ -20,10 +20,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-Research interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+Interests:
+- Selective inference
+- Multivariate gaussian processes
+- Path properties of random fields
+- Statistical genomics
 
 education:
   courses:
@@ -70,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-I am a statistician exploring the potential of new methods at the intersections of machine learning, probabilistic modeling, data science and genomics. My current research activities are specially focused on reconciling between inferential coherence and adaptive modeling, a conﬂict unavoidable with many large-scale complex data analyses. My work aims at advancing methodology backed by theory and developing algorithms to translate these methods into practice.
+I am a statistician exploring the potential of new methods at the intersections of machine learning, probabilistic modeling, data science and genomics. My current research activities are specially focused on reconciling between inferential coherence and adaptive modeling, a conﬂict unavoidable with many large-scale, complex data analyses. My work aims at advancing methodology backed by theory and developing algorithms to translate these methods into practice.
 
 
 
