@@ -71,8 +71,7 @@ user_groups:
 - Visitors
 ---
 
-I am a statistician exploring the potential of new methods at the intersections of machine learning, probabilistic modeling, data science and genomics. My current research activities are specially focused on reconciling between inferential coherence and adaptive modeling, a conﬂict unavoidable with many large-scale, complex data analyses. My work aims at advancing methodology backed by theory and developing algorithms to translate these methods into practice.
+I am a statistician with wide-ranging interests, which aim at understanding massive and complex datasets. Broadly, my work explores the potential of new methodology at the intersections of machine learning, probabilistic modeling, statistical inference and genomics. A special focus is on reconciling between inferential coherence and adaptive modeling, a conﬂict unavoidable in present-day data science. 
 
+A little bit about my history: I received my Bachelor of Statistics (Honors) and Master of Statistics degrees from the Indian Statistical Institute, Kolkata. Before joining the University of Michigan as an Assistant Professor of Statistics in 2018, I completed my doctoral thesis at Stanford University with Jonathan Taylor in the same year. 
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
