@@ -26,7 +26,7 @@ bio: My research interests include selective inference, multivariate gaussian pr
 #- Statistical genomics
 
 #education:
-#  courses:
+  courses:
 #  - course: Ph.D. in Statistics
 #    institution: Stanford University
 #    year: 2018
