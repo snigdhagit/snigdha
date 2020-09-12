@@ -25,17 +25,17 @@ bio: My research interests include selective inference, multivariate gaussian pr
 #- Path properties of random fields
 #- Statistical genomics
 
-education:
-  courses:
-  - course: Ph.D. in Statistics
-    institution: Stanford University
-    year: 2018
-  - course: Master in Statistics
-    institution: Indian Statistical Institute
-    year: 2013
-  - course: Bachelor in Statistics
-    institution: Indian Statistical Institute
-    year: 2011
+#education:
+#  courses:
+#  - course: Ph.D. in Statistics
+#    institution: Stanford University
+#    year: 2018
+#  - course: Master in Statistics
+#    institution: Indian Statistical Institute
+#    year: 2013
+#  - course: Bachelor in Statistics
+#    institution: Indian Statistical Institute
+#    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
