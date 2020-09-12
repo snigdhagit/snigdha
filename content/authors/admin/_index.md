@@ -73,5 +73,5 @@ user_groups:
 
 I am a statistician with wide-ranging interests, which aim at understanding massive and complex datasets. Broadly, my work explores the potential of new methodology at the intersections of machine learning, probabilistic modeling, statistical inference and genomics. A special focus is on reconciling between inferential coherence and adaptive modeling, a conﬂict unavoidable in present-day data science. 
 
-A little bit about my history: I received my Bachelor of Statistics (Honors) and Master of Statistics degrees from the Indian Statistical Institute, Kolkata. Before joining the University of Michigan as an Assistant Professor of Statistics in 2018, I completed my doctoral thesis at Stanford University with Jonathan Taylor in the same year. 
+**A little bit about my history**: I received my Bachelor of Statistics (Honors) and Master of Statistics degrees from the Indian Statistical Institute, Kolkata. Before joining the University of Michigan as an Assistant Professor of Statistics in 2018, I completed my doctoral thesis at Stanford University with [Jonathan Taylor](http://statweb.stanford.edu/~jtaylo/) in the same year. 
 
