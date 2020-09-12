@@ -20,13 +20,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include selective inference, multivariate gaussian processes and applications in statistical genomics.
 
-#interests:
+interests:
 - Selective inference
-- Multivariate gaussian processes
 - Path properties of random fields
 - Statistical genomics
 
-#education:
+education:
   courses:
   - course: Ph.D. in Statistics
     institution: Stanford University
