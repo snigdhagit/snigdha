@@ -72,7 +72,7 @@ email: ""
 
 I am a statistician with wide-ranging interests, which aim at understanding big, diverse and complex datasets. Broadly, my work explores the potential of new methodology at the intersections of machine learning, probabilistic modeling, statistical inference and genomics. A special focus is on reconciling between inferential coherence and adaptive modeling of data, a conﬂict unavoidable in present-day data science. 
 
-In my pursuit of **scalable**-**interpretable**-**reproducible** methods, I am always open to interdisciplinary and interesting collaborations. Details of some my recent multidisciplinary projects can be found  
+In my pursuit of **<u>scalable</u>**--**<u>interpretable</u>**-<u>-**reproducible**</u> methods, I am always open to interdisciplinary and interesting collaborations. Details of some my recent multidisciplinary projects can be found  
 
 
 
