@@ -74,7 +74,11 @@ I am a statistician with wide-ranging interests, which aim at understanding big,
 
 In my pursuit of **scalable**-**interpretable**-**reproducible** methods, I am always open to interdisciplinary and interesting collaborations. Details of some my recent multidisciplinary projects can be found  
 
-**My educational journey**:  I received my Bachelor of Statistics (Honors) and Master of Statistics degrees from the *Indian Statistical Institute, Kolkata*. Before joining the *University of Michigan* as an Assistant Professor of Statistics in 2018, I completed my doctoral thesis at *Stanford University* with [Jonathan Taylor](http://statweb.stanford.edu/~jtaylo/) in the same year. 
+
+
+
+
+**SNAPSHOT OF MY EDUCATIONAL JOURNEY**:  I received my Bachelor of Statistics (Honors) and Master of Statistics degrees from the *Indian Statistical Institute, Kolkata*. Before joining the *University of Michigan* as an Assistant Professor of Statistics in 2018, I completed my doctoral thesis at *Stanford University* with [Jonathan Taylor](http://statweb.stanford.edu/~jtaylo/) in the same year. 
 
 
 
