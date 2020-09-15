@@ -70,19 +70,13 @@ email: ""
 #- Visitors
 ---
 
-I am a statistician with wide-ranging interests, directed towards understanding big, diverse and complex data. Broadly, my work explores the potential of new methodology at the intersections of machine learning, probabilistic modeling, statistical inference and genomics. A special focus is on reconciling between inferential coherence and adaptive modeling of data--- a confrontation inevitable with the richness and scale of modern datasets. 
+I am a statistician with wide-ranging interests, directed towards understanding big, diverse and complex data. Before joining the *University of Michigan* in 2018, I completed my doctoral thesis at *Stanford University* with [Jonathan Taylor](http://statweb.stanford.edu/~jtaylo/) in the same year.  Broadly, my work explores the potential of new methodology at the intersections of machine learning, probabilistic modeling, statistical inference and genomics. A special focus is on reconciling between inferential coherence and adaptive modeling of data--- a confrontation inevitable with the richness and scale of modern datasets. 
 
-In my pursuit of **scalable**--**interpretable**--**reproducible** methods, I am always open to interdisciplinary and interesting collaborations. Details of some my recent multidisciplinary projects can be found  
+In my pursuit of **scalable**--**interpretable**--**reproducible** methods, I am always open to interdisciplinary and interesting collaborations. Some my recent multidisciplinary projects   
 
 
-
-<br>
 
 <br>
-
-<br>
-
-**SNAPSHOT OF MY EDUCATIONAL JOURNEY**:  I received my Bachelor of Statistics (Honors) and Master of Statistics degrees from the *Indian Statistical Institute, Kolkata*. Before joining the *University of Michigan* as an Assistant Professor in 2018, I completed my doctoral thesis at *Stanford University* with [Jonathan Taylor](http://statweb.stanford.edu/~jtaylo/) in the same year.  
 
 
 
