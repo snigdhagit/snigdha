@@ -42,18 +42,18 @@ bio: My research interests include selective inference, multivariate gaussian pr
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=2SRjDW8AAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/snigdhagit/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,7 +74,7 @@ email: ""
 
 I am a statistician with wide-ranging interests, directed towards understanding big, diverse and complex data. Before joining the *University of Michigan* in 2018, I completed my doctoral thesis at *Stanford University* with [Jonathan Taylor](http://statweb.stanford.edu/~jtaylo/) in the same year.  Broadly, my work explores the potential of new methodology at the intersections of machine learning, probabilistic modeling, statistical inference and genomics. A special focus is on reconciling between inferential coherence and adaptive modeling of data--- a confrontation inevitable with the richness and scale of modern datasets. 
 
-In my pursuit of **scalable**--**interpretable**--**reproducible** methods, I am always open to interdisciplinary and interesting collaborations. Some my recent multidisciplinary projects   
+In my pursuit of **scalable**--**interpretable**--**reproducible** methods, I am always open to interdisciplinary and interesting collaborations. Some of my recent multidisciplinary projects   
 
 
 
