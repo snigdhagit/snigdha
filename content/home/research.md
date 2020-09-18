@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
-title = "Academic Kickstart"
+title = "Ongoing research themes"
 subtitle = ""
 
 [design]
@@ -40,6 +40,7 @@ subtitle = ""
   text_color_light = false
 
 [design.spacing]
+
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["20px", "0", "20px", "0"]
 
