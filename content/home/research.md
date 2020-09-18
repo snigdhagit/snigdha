@@ -8,10 +8,11 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
-title = "Ongoing research themes"
+title = "**Ongoing research themes**"
 subtitle = ""
 
 [design]
+
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 
@@ -55,6 +56,14 @@ subtitle = ""
 Welcome to the **Academic Kickstart** template!
 
 Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
+
+<h2>Unordered List without Bullets</h2>
+
+<ul style="list-style-type:none;">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>  
 
 For inspiration, check out [the Markdown files](https://sourcethemes.com/academic/docs/install/#demo-content) which power the [personal demo](https://academic-demo.netlify.app). The easiest way to publish your new site to the internet is with [Netlify](https://sourcethemes.com/academic/docs/deployment/).
 
