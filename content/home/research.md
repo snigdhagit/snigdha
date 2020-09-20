@@ -56,7 +56,7 @@ subtitle = ""
 
 
 
-[Multidisciplinary projects with a focus on genomics]({{< ref "/publication/snigdha-panigrahi/index.md" >}})
+[Multidisciplinary projects with a focus on genomics]({{< ref "/publication/index.md" >}})
 
 <p>
   .....
