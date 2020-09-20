@@ -56,7 +56,7 @@ subtitle = ""
 
 
 
-[Multidisciplinary projects with a focus on genomics]({{< ref "multidisresearch.md" >}})
+[Multidisciplinary projects with a focus on genomics]({{< ref "https://github.com/snigdhagit/academic-kickstart/content/home/multidisresearch.md" >}})
 
 <p>
   .....
