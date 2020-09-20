@@ -51,13 +51,17 @@ subtitle = ""
 
  # CSS class.
  css_class = ""
+
 +++
 
-Welcome to the **Academic Kickstart** template!
 
-Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
 
-<h2>Unordered List without Bullets</h2>
+<h2>Multidisciplinary projects with a focus on genomics</h2>
+
+<p>
+  .....
+</p>
+<br>
 
 <ul style="list-style-type:none;">
   <li>Coffee</li>
