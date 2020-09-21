@@ -54,9 +54,11 @@ subtitle = ""
 
 +++
 
+<br>
 
 
-[Multidisciplinary projects with a focus on genomics]({{< ref "/projects/_index.md" >}})
+
+<font size="+2">[Multidisciplinary projects with a focus on genomics]</font>({{< ref "/projects/_index.md" >}})
 
 <p>
   .....
