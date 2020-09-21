@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Multidisciplinary projects with a focus on genomics
 
 # View.
 #   1 = List
