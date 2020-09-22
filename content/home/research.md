@@ -72,9 +72,10 @@ subtitle = ""
 <style>
 .alert {
   padding: 20px;
-  background-color: #f44336;
-  color: white;
+  background-color: #abd8ec;
+  color: #091f29;
   }
+
 
   .closebtn {
   margin-left: 15px;
@@ -94,14 +95,11 @@ subtitle = ""
 </head>
 
 
-
-<h2>Alert Messages</h2>
-
-<p>Click on the "x" symbol to close the alert message.</p>
 <div class="alert">
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
-  <strong>Danger!</strong> Indicates a dangerous or potentially negative action.
+  <strong>Include description here!</strong> ...
 </div>
+
 </body>
 
 
