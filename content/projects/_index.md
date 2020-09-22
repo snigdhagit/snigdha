@@ -17,19 +17,8 @@ header:
 
 
 
-<ul style="list-style-type:none;">
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>  
-
-
-
-
-
 <table border="0", width="800px"> <tbody> <tr> <td style="padding-top: 0px">
 
-<div style="font-size: 14pt; font-weight: bold;"> Selective Inference </div>
 <br>
 
 <div style="margin-left: 200px; margin-right: 100px; text-align:left; font-size: 11pt;">
