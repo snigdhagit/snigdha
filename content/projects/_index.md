@@ -46,12 +46,9 @@ header:
 
 <br> <br> <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jelena Markovic and Jonathan Taylor.
 <b> An MCMC-free approach to post-selective inference.</b> 2017.
-<!--<i>Journal of Machine Learning Research</i>, 15, 2014.-->
-<!--[<a href="http://jmlr.org/papers/volume15/wager14a/wager14a.pdf">paper</a>,-->
+
 [<a href="https://arxiv.org/abs/1703.06154">arxiv</a>]
 [<a href="https://github.com/snigdhagit/selective-inference/tree/master/selection/approx_ci">code</a>]
-
-    <!--<a href="https://github.com/swager/randomForestCI">software</a>]-->
 
 <br><br> Xiaoying Tian Harris, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jelena Markovic, Nan Bi and Jonathan Taylor.
     <b>Selective sampling after solving a convex problem.</b> 2016.
