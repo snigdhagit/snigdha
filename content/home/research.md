@@ -72,10 +72,9 @@ subtitle = ""
 <style>
 .alert {
   padding: 20px;
-  background-color: #abd8ec;
+  background-color: #B2EBF2;
   color: #091f29;
   }
-
 
   .closebtn {
   margin-left: 15px;
@@ -94,9 +93,7 @@ subtitle = ""
 </style>
 </head>
 
-
-<div class="alert">
-  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+<div class="alert"> 
   <strong>Include description here!</strong> ...
 </div>
 
