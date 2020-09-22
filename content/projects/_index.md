@@ -27,13 +27,8 @@ header:
 
 
 
-<table border="0", width="800px"> 
+<table border="0", width="800px"> <tbody> <tr> <td style="padding-top: 0px">
 
-  <tbody> 
-    
-    <tr> 
-      
-      <td style="padding-top: 0px">
 <div style="font-size: 14pt; font-weight: bold;"> Selective Inference </div>
 <br>
 
@@ -64,13 +59,5 @@ header:
 
  [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>]    
 
-
-
-</td> 
-
-</tr> 
-
-</tbody> 
-
-</table> 
+</td> </tr> </tbody> </table> 
 
