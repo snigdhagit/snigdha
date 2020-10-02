@@ -101,9 +101,10 @@ subtitle = ""
 <style>
 .alert {
   padding: 20px;
-  background-color: #B2EBF2;
+  background-color: #ABEBC6;
   color: #091f29;
   }
+
 
   .closebtn {
   margin-left: 15px;
