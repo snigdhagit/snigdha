@@ -88,7 +88,7 @@ Broadly, my work explores the potential of new methodology at the intersections 
 
 
 
-In my pursuit of **scalable**--**interpretable**--**reproducible** methods, I greatly enjoy interdisciplinary and exciting collaborations. Some of my recent projects with multidisciplinary teams are listed under [research]({{< ref "/projects/_index.md" >}}).
+In my pursuit of **scalable**--**interpretable**--**reproducible** methods, I greatly enjoy interdisciplinary and exciting collaborations. Some of my recent work with multidisciplinary teams are listed here [projects]({{< ref "/projects/_index.md" >}}).
 
 
 
