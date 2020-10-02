@@ -56,7 +56,7 @@ subtitle = ""
 
 <br>
 
-[<font size="+2">Structure aware inference via reuse of data </font>]({{< ref "/hero/_index.md" >}})
+[<font size="+2">Structure aware inference via prudent reuse of data </font>]({{< ref "/hero/_index.md" >}})
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
