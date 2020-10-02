@@ -56,7 +56,7 @@ subtitle = ""
 
 <br>
 
-[<font size="+2">Stochastic processes and their geometric properties </font>]({{< ref "/projects/_index.md" >}})
+[<font size="+2">Stochastic processes and their geometric properties </font>]({{< ref "/hero/_index.md" >}})
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
