@@ -2,57 +2,111 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 90  # Order that this section will appear.
 
-title = "Academic"
+title = "Projects"
+subtitle = ""
 
-# Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "hero-academic.png"
+[content]
+
+  # Page type to display. E.g. project.
+
+  page_type = "project"
+
+  # Filter toolbar (optional).
+
+  # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
+
+  # To show all items, set `tag` to "*".
+
+  # To filter by a specific tag, set `tag` to an existing tag name.
+
+  # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
+
+  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
+
+  filter_default = 0
+
+  # [[content.filter_button]]
+
+  #   name = "All"
+
+  #   tag = "*"
+
+  # [[content.filter_button]]
+
+  #   name = "Deep Learning"
+
+  #   tag = "Deep Learning"
+
+  # [[content.filter_button]]
+
+  #   name = "Other"
+
+  #   tag = "Demo"
+
+[design]
+
+  # Choose how many columns the section has. Valid values: 1 or 2.
+
+  columns = "2"
+
+  # Toggle between the various page layout types.
+
+  #   1 = List
+
+  #   2 = Compact
+
+  #   3 = Card
+
+  #   5 = Showcase
+
+  view = 3
+
+  # For Showcase view, flip alternate rows?
+
+  flip_alt_rows = false
 
 [design.background]
+
   # Apply a background color, gradient, or image.
+
   #   Uncomment (by removing `#`) an option to apply it.
+
   #   Choose a light or dark text color by setting `text_color_light`.
+
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
+
   # color = "navy"
-  
+
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
-  
+
+  # gradient_start = "DeepSkyBlue"
+
+  # gradient_end = "SkyBlue"
+
   # Background image.
-  # image = ""  # Name of image in `static/media/`.
+
+  # image = "background.jpg"  # Name of image in `static/media/`.
+
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
-  
+
   # Text color (true=light or false=dark).
-  text_color_light = true
 
-# Call to action links (optional).
-#   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
-#   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "https://sourcethemes.com/academic/docs/install/"
-  label = "Get Started"
-  icon_pack = "fas"
-  icon = "download"
-  
-[cta_alt]
-  url = "https://sourcethemes.com/academic/"
-  label = "View Documentation"
+  # text_color_light = true  
 
-# Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+[advanced]
+
+ # Custom CSS. 
+
+ css_style = ""
+
+ # CSS class.
+
+ css_class = ""
+
 +++
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
-
-Build **Anything** with Widgets
-
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
