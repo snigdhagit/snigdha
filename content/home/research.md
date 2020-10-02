@@ -58,7 +58,7 @@ subtitle = ""
 
 
 
-[<font size="+2">Interdisciplinary data science projects </font>]({{< ref "/multidisprojects/_index.md" >}})
+[<font size="+2">Interdisciplinary data science projects </font>]({{< ref "/projects/_index.md" >}})
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
