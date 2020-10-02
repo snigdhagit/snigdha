@@ -48,15 +48,17 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=2SRjDW8AAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/snigdhagit/
-- icon: arxiv
-  icon_pack: ai
-  link: https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Snigdha+panigrahi&terms-0-field=author&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first
+
+###uncomment these for the icons########
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=2SRjDW8AAAAJ&hl=en
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/snigdhagit/
+#- icon: arxiv
+#  icon_pack: ai
+#  link: https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-#term=Snigdha+panigrahi&terms-0-field=author&classification-#physics_archives=all&classification-include_cross_list=include&date-#filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-#date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
