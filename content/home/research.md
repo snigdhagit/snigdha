@@ -56,7 +56,7 @@ subtitle = ""
 
 <br>
 
-[<font size="+2">Stochastic processes and their geometric properties </font>]({{< ref "/multidisprojects/_index.md" >}})
+[<font size="+2">Stochastic processes and their geometric properties </font>]({{< ref "/projects/_index.md" >}})
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -66,7 +66,6 @@ subtitle = ""
   background-color: #B2EBF2;
   color: #091f29;
   }
-
 
   .closebtn {
   margin-left: 15px;
@@ -95,7 +94,7 @@ subtitle = ""
 
 <br>
 
-[<font size="+2">Interdisciplinary data science projects </font>]({{< ref "/multidisprojects/_index.md" >}})
+[<font size="+2">Interdisciplinary data science projects </font>]({{< ref "/projects/_index.md" >}})
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
