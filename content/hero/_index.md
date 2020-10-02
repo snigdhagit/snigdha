@@ -1,5 +1,5 @@
 ---
-title: Multidisciplinary projects 
+title: Stochastic processes and their geometric properties 
 
 # View.
 #   1 = List
