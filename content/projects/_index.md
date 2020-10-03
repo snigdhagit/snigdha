@@ -1,5 +1,5 @@
 ---
-title: Multidisciplinary projects 
+title: Interdisciplinary investigations in data science 
 
 # View.
 #   1 = List
