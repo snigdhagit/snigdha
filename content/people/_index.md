@@ -25,7 +25,7 @@ header:
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Shariq Mohammad, Arvind Rao and Veerabhadran Baladandayuthapani.
    <b> Integrative Bayesian models using Post-selective Inference: a case study
- in Radiogenomics.</b> 2020.[<a href="https://arxiv.org/abs/2004.12012">arxiv</a>]
+ in Radiogenomics.</b> 2020.  [<a href="https://arxiv.org/abs/2004.12012">arxiv</a>]
 
 <br>
 
@@ -35,7 +35,7 @@ header:
 <br>
 
   <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Junjie Zhu and Chiara Sabatti.
-   <b> Selection-adjusted inference: an application to confidence intervals for cis-eQTL effect sizes.</b> 2019.[<a href="https://arxiv.org/abs/1801.08686">arxiv</a>]
+   <b> Selection-adjusted inference: an application to confidence intervals for cis-eQTL effect sizes.</b> 2019. Biostatistics.   [<a href="https://arxiv.org/abs/1801.08686">arxiv</a>];      [<a href="https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxz024/5532132?redirectedFrom=fulltext">journal</a>]
 
 <br>
 
@@ -50,12 +50,12 @@ header:
 <br>
 
 Qingyuan Zhao and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
-    <b>Selective Inference for Effect Modication: An Empirical Investigation.</b> 2019.  [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>]    
+    <b>Selective Inference for Effect Modication: An Empirical Investigation.</b> 2019. Observational Studies: Special issue devoted to ACIC. [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>];  [<a href="https://obsstudies.org/277-2/">journal</a>]
 
 <br>
 
  <b><font color=#2B0539>Snigdha Panigrahi</font></b> and Jonathan Taylor.
-    <b>Scalable methods for Bayesian selective inference.</b> 2018. [<a href="https://arxiv.org/abs/1703.06176">arxiv</a>]
+    <b>Scalable methods for Bayesian selective inference.</b> 2018. Electronic Journal of Statistics. [<a href="https://arxiv.org/abs/1703.06176">arxiv</a>]; [<a href="https://projecteuclid.org/euclid.ejs/1532484333">journal</a>]
 
 <br>
 
