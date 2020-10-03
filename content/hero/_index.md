@@ -20,7 +20,7 @@ header:
 <table border="0", width="800px"> <tbody> <tr> <td style="padding-top: 0px">
 <br>
 
-<div style="margin-left: 200px; margin-right: 100px; text-align:left; font-size: 12pt;">
+<div style="margin-left: 200px; margin-right: 100px; text-align:left; font-size: 13pt;">
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jonathan Taylor and Sreekar Vadlamani.
 <b>Kinematic Formula for Heterogeneous Gaussian Related Fields.</b> 2018.  Stochastic processes and their applications. [<a href="https://arxiv.org/abs/1705.04643">arxiv</a>]; [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304414918303314">journal</a>]
