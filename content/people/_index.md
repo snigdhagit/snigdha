@@ -44,12 +44,12 @@ header:
 
 <br>
 
-<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jonathan Taylor and Asaf Weinstein.
+<b><font color=#2B0539>Snigdha Panigrahi</font></b>, <font color=#2B0539> Jonathan Taylor and Asaf Weinstein.
     <b><font color=#00008B>Integrative methods for post-selection inference under convex constraints.</b> 2019.  [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>]    
 
 <br>
 
-Qingyuan Zhao and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
+<font color=#2B0539>Qingyuan Zhao and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
     <b>Selective Inference for Effect Modication: An Empirical Investigation.</b> 2019. Observational Studies: Special issue devoted to ACIC. [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>];  [<a href="https://obsstudies.org/277-2/">journal</a>]
 
 <br>
