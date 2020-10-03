@@ -21,9 +21,53 @@ header:
 <br>
 
 <div style="margin-left: 200px; margin-right: 100px; text-align:left; font-size: 12pt;">
- <b><font color=#2B0539>Snigdha Panigrahi</font></b> and Jonathan Taylor.
-    <b>Scalable methods for Bayesian selective inference.</b> 2017. 
 
+
+<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Shariq Mohammad, Arvind Rao and Veerabhadran Baladandayuthapani.
+   <b> Integrative Bayesian models using Post-selective Inference: a case study
+ in Radiogenomics.</b> 2020. 
+
+[<a href="https://arxiv.org/abs/2004.12012">arxiv</a>]
+
+<br> <br>
+
+  <b><font color=#2B0539>Snigdha Panigrahi</font></b> and Jonathan Taylor.
+   <b> Approximate selective inference via maximum likelihood.</b> 2019. 
+
+[<a href="https://arxiv.org/abs/1902.07884">arxiv</a>]
+
+<br> <br>
+
+  <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Junjie Zhu and Chiara Sabatti.
+   <b> Selection-adjusted inference: an application to confidence intervals for cis-eQTL effect sizes.</b> 2019. 
+
+[<a href="https://arxiv.org/abs/1801.08686">arxiv</a>]
+
+<br> <br>
+
+ <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
+   <b> Carving model-free inference.</b> 2019. 
+
+[<a href="https://arxiv.org/abs/1811.03142">arxiv</a>]
+
+<br> <br>
+
+<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jonathan Taylor and Asaf Weinstein.
+    <b>Integrative methods for post-selection inference under convex constraints.</b> 2019. 
+
+ [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>]    
+
+<br> <br>
+
+Qingyuan Zhao and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
+    <b>Selective Inference for Effect Modication: An Empirical Investigation.</b> 2019. 
+
+ [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>]    
+
+<br> <br>
+
+ <b><font color=#2B0539>Snigdha Panigrahi</font></b> and Jonathan Taylor.
+    <b>Scalable methods for Bayesian selective inference.</b> 2018. 
 
 [<a href="https://arxiv.org/abs/1703.06176">arxiv</a>]
 
@@ -41,12 +85,7 @@ header:
 
  [<a href="https://arxiv.org/abs/1609.05609">arxiv</a>]
 
-<br><br>
 
-<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jonathan Taylor and Asaf Weinstein.
-    <b>Bayesian Post-Selection Inference in the Linear Model.</b> 2016. 
-
- [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>]    
 
 </td> </tr> </tbody> </table> 
 
