@@ -18,35 +18,23 @@ header:
 
 
 <table border="0", width="800px"> <tbody> <tr> <td style="padding-top: 0px">
-
 <br>
 
 <div style="margin-left: 200px; margin-right: 100px; text-align:left; font-size: 11pt;">
- <b><font color=#2B0539>Snigdha Panigrahi</font></b> and Jonathan Taylor.
-    <b>Scalable methods for Bayesian selective inference.</b> 2017. 
 
-[<a href="https://arxiv.org/abs/1703.06176">arxiv</a>]
+<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jonathan Taylor and Sreekar Vadlamani.
+<b>Kinematic Formula for Heterogeneous Gaussian Related Fields.</b> 2018.  Stochastic processes and their applications. [<a href="https://arxiv.org/abs/1705.04643">arxiv</a>]; [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304414918303314">journal</a>]
 
 <br> <br>
 
- <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jelena Markovic and Jonathan Taylor.
-<b> An MCMC-free approach to post-selective inference.</b> 2017.
 
-[<a href="https://arxiv.org/abs/1703.06154">arxiv</a>]
 
-<br><br>
+Snigdha Panigrahi</font></b>, Parthanil Roy and Yimin Xiao.
+    <b>Maximal Moments and Uniform Modulus of Continuity for Stable Random Fields.</b>
 
- Xiaoying Tian Harris, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jelena Markovic, Nan Bi and Jonathan Taylor.
-    <b>Selective sampling after solving a convex problem.</b> 2016.
+    2017.  [<a href="https://arxiv.org/abs/1709.07135">arxiv</a>]
 
- [<a href="https://arxiv.org/abs/1609.05609">arxiv</a>]
 
-<br><br>
-
-<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jonathan Taylor and Asaf Weinstein.
-    <b>Bayesian Post-Selection Inference in the Linear Model.</b> 2016. 
-
- [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>]    
 
 </td> </tr> </tbody> </table> 
 
