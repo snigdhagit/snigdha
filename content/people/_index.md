@@ -40,12 +40,12 @@ header:
 <br>
 
  <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
-   <b> Carving model-free inference.</b> 2019.  [<a href="https://arxiv.org/abs/1811.03142">arxiv</a>]
+   <b> <font color=#00008B>Carving model-free inference.</b> 2019.  [<a href="https://arxiv.org/abs/1811.03142">arxiv</a>]
 
 <br>
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jonathan Taylor and Asaf Weinstein.
-    <b>Integrative methods for post-selection inference under convex constraints.</b> 2019.  [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>]    
+    <b><font color=#00008B>Integrative methods for post-selection inference under convex constraints.</b> 2019.  [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>]    
 
 <br>
 
