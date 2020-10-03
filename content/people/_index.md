@@ -1,5 +1,5 @@
 ---
-title: Stochastic processes and their geometric properties 
+title: Structure aware inference anchored in data-assisted learning
 
 # View.
 #   1 = List
