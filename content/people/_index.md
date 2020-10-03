@@ -18,12 +18,12 @@ header:
 
 
 <table border="0", width="800px"> <tbody> <tr> <td style="padding-top: 0px">
-
 <br>
 
-<div style="margin-left: 200px; margin-right: 100px; text-align:left; font-size: 11pt;">
+<div style="margin-left: 200px; margin-right: 100px; text-align:left; font-size: 12pt;">
  <b><font color=#2B0539>Snigdha Panigrahi</font></b> and Jonathan Taylor.
     <b>Scalable methods for Bayesian selective inference.</b> 2017. 
+
 
 [<a href="https://arxiv.org/abs/1703.06176">arxiv</a>]
 
