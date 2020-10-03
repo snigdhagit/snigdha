@@ -56,7 +56,7 @@ subtitle = ""
 
 <br>
 
-[<font size="+2">Structure aware inference via prudent reuse of data </font>]({{< ref "/hero/_index.md" >}})
+[<font size="+2">Structure aware inference anchored in data-assisted learning </font>]({{< ref "/hero/_index.md" >}})
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -132,7 +132,7 @@ subtitle = ""
 
 <br>
 
-[<font size="+2">Interdisciplinary data science projects </font>]({{< ref "/projects/_index.md" >}})
+[<font size="+2">Interdisciplinary investigations in data science </font>]({{< ref "/projects/_index.md" >}})
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
