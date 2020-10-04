@@ -85,8 +85,8 @@ subtitle = ""
 </head>
 
 <div class="alert"> 
-  <strong>Include description here!</strong> ...
-  {{< figure library="true" src="winners_curse.png" title="A caption" >}}
+  {{< figure library="true" src="winners_curse.png" title="A caption" align="left">}}
+  <p>Include description here!.</p>
 </div>
 
 </body>
