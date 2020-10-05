@@ -58,6 +58,12 @@ subtitle = ""
 
 [<font size="+2">Structure aware inference anchored in data-assisted learning </font>]({{< ref "/people/_index.md" >}})
 
+{{<figure library="true" src="winners_curse.png" title="A caption" height="300"       width="400" style="float: left; margin: 3px 5px 3px 0px; border: 1px solid #000000;">}}
+
+
+
+
+
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -85,7 +91,6 @@ subtitle = ""
 </head>
 
 <div class="alert"> 
-     {{<figure library="true" src="winners_curse.png" title="A caption" height="300"       width="400" style="float: left; margin: 3px 5px 3px 0px; border: 1px solid #000000;">}}
     <p>Include description here!..............................
   ...........................................................Include description here!..............................
   ...........................................................Include description here!..............................
@@ -95,6 +100,7 @@ subtitle = ""
   ...........................................................Include description here!..............................
   ...........................................................Include description here!</p>
 </div>
+
 </body>
 
 <br>
