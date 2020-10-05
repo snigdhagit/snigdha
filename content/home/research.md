@@ -85,10 +85,7 @@ subtitle = ""
 </head>
 
 <div class="alert"> 
-  <div class="row">
-    <div class="column">
      {{<figure library="true" src="winners_curse.png" title="A caption" height="300"       width="400" style="float: left; margin: 3px 5px 3px 0px; border: 1px solid #000000;">}}
-     </div>  <div class="column">
     <p>Include description here!..............................
   ...........................................................Include description here!..............................
   ...........................................................Include description here!..............................
@@ -97,7 +94,7 @@ subtitle = ""
   ...........................................................Include description here!..............................
   ...........................................................Include description here!..............................
   ...........................................................Include description here!</p>
-</div> </div> </div>
+</div>
 </body>
 
 <br>
