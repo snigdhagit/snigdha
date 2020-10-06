@@ -90,7 +90,7 @@ subtitle = ""
 
 <div style="width: 400px; float:left; height:300px;">
   {{<figure library="true" src="winners_curse.png" title="A caption" height="300"       width="400" style="float: left; margin: 3px 5px 3px 0px; border: 1px solid #000000;">}}
-</div> <div class="alert" style="width: 600px; float:right; height:300px"> 
+</div> <div class="alert" style="width: 700px; float:right; height:300px"> 
     <p>Include description here!............................</p>
 </div>
 
