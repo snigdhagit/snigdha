@@ -91,8 +91,8 @@ subtitle = ""
 
 
  <div style="width: 400px; float:left; height:300px;">
-  {{<figure library="true" src="winners_curse.png" height="300" width="400" style="float: left; margin: 0px 0px 0px 0px; border: 0px solid #000000;">}}
-</div> <div class="alert" style="width: 720px; float:right; height:250px"> <p>Include description here!............................</p> </div> 
+  {{<figure library="true" src="winners_curse.png" height="300px" width="400px" style="float: left; margin: 0px 0px 0px 0px; border: 0px solid #000000;">}}
+</div> <div class="alert" style="width: 700px; float:right; height:250px"> <p>Include description here!............................</p> </div> 
 
 
 
