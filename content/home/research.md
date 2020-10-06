@@ -118,8 +118,6 @@ subtitle = ""
 
 <div style="clear: both;"></div><br>
 
-<br><br>
-
 
 
 
