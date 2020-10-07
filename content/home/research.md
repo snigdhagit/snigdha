@@ -211,8 +211,13 @@ subtitle = ""
 </style>
 </head>
 
-<div class="alert"> 
-  <strong>Include description here!</strong> ...
-</div>
-</body>
+<div style="width: 400px; float:right; height:300px;">
+  {{<figure library="true" src="winners_curse.png" height="300px" width="400px" style="float: left; margin: 0px 0px 0px 0px; border: 0px solid #000000;">}}
+</div> <div class="alert" style="width: 700px; float:right; height:250px"> <p>Include description here!............................</p> </div> 
+
+
+
+
+
+<div style="clear: both;"></div><br>
 
