@@ -210,8 +210,8 @@ subtitle = ""
 </style>
 </head>
 
-<div style="width: 400px; float:left; height:250px;">
-  {{<figure library="true" src="effect_sizes.png" height="250px" width="400px" style="float: left; margin: 0px 0px 0px 0px; border: 0px solid #000000;">}}
+<div style="width: 300px; float:left; height:250px;">
+  {{<figure library="true" src="effect_sizes.png" height="250px" width="300px" style="float: left; margin: 0px 0px 0px 0px; border: 0px solid #000000;">}}
 </div> <div class="alert" style="width: 700px; float:left; height:250px"> <p>Include description here!............................</p> </div> 
 
 
