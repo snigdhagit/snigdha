@@ -136,7 +136,6 @@ subtitle = ""
   background-color: #B2EBF2;
   color: #091f29;
   }
-
   .closebtn {
   margin-left: 15px;
   color: white;
@@ -156,10 +155,9 @@ subtitle = ""
 
 
 
-<div style="width: 400px; float:right; height:300px;">
+<div style="width: 300px; float:right; height:200px;">
   {{<figure library="true" src="gaussian_process.png" height="300px" width="400px" style="float: left; margin: 0px 0px 0px 0px; border: 0px solid #000000;">}}
 </div> <div class="alert" style="width: 700px; float:right; height:250px"> <p>Include description here!............................</p> </div> 
-
 
 
 
