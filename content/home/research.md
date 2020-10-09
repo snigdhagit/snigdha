@@ -157,7 +157,8 @@ subtitle = ""
 
 <div style="width: 320px; float:right; height:120px;">
   {{<figure library="true" src="gaussian_process.png" height="120px" width="320px" style="float: left; margin: 0px 0px 0px 2px; border: 0px solid #000000;">}}
-</div> <div class="alert" style="width: 850px; float:right; height:250px"> <p>Include description here!............................</p> </div> 
+</div> <div class="alert" style="width: 850px; float:right; height:250px"> <p> My work in this domain explores the behavior of stochastic processes through relevant probabilistic and geometric characteristics, such as maximal moments, path regularity properties and their phase transition boundaries, integral geometric formulae etc. This understanding finds relevant applications in the analysis of cosmological data and heavy tailed mod-
+elling of real data. My contributions here rely on a combination of ergodic, group theoretic and probabilistic techniques. </p> </div> 
 
 
 
