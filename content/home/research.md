@@ -155,8 +155,8 @@ subtitle = ""
 
 
 
-<div style="width: 350px; float:right; height:150px;">
-  {{<figure library="true" src="gaussian_process.png" height="150px" width="350px" style="float: left; margin: 0px 0px 0px 2px; border: 0px solid #000000;">}}
+<div style="width: 250px; float:right; height:120px;">
+  {{<figure library="true" src="gaussian_process.png" height="120px" width="250px" style="float: left; margin: 0px 0px 0px 2px; border: 0px solid #000000;">}}
 </div> <div class="alert" style="width: 750px; float:right; height:250px"> <p>Include description here!............................</p> </div> 
 
 
