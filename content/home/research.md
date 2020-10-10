@@ -92,7 +92,7 @@ subtitle = ""
 
  <div style="width: 400px; float:left; height:300px;">
   {{<figure library="true" src="winners_curse.png" height="300px" width="400px" style="float: left; margin: 0px 0px 0px 0px; border: 0px solid #000000;">}}
-</div> <div class="alert" style="width: 700px; float:left; height:300px"> <p>An overarching focus of my research is geared towards prudently resuing data to exploit complex patterns in big data for reproducible modeling and report inferential conclusions with meaning. My recent activities draw direct motivation from how massive, rich data is collected, stored and deployed in realistic pipelines. Specifically, methods dubbed as <b ><span style="color: #00008B">carving  offer a data-efficient way out </span></b> when inference for adaptive parameters must be updated upon the availability of fresh samples or the arrival of a second related dataset. Proposals investigating mathematical properties and computational algorithms around data carving are <b><span style="color: #00008B">highlighted in blue</span></b>.</p> </div> 
+</div> <div class="alert" style="width: 700px; float:left; height:300px"> <p>An overarching focus of my research is geared towards prudently resuing data to exploit complex patterns in big data for reproducible modeling and report inferential conclusions with meaning. My recent activities draw direct motivation from how massive, rich data is collected, stored and deployed in realistic pipelines. Specifically, methods dubbed as <b ><span style="color: #00008B">carving  offer a data-efficient way out </span></b> when inference for adaptive parameters must be updated upon the availability of fresh samples or the arrival of a new related dataset. Proposals investigating mathematical properties and computational algorithms around data carving are <b><span style="color: #00008B">highlighted in blue</span></b>.</p> </div> 
 
 
 
@@ -213,7 +213,8 @@ subtitle = ""
 
 <div style="width: 300px; float:left; height:250px;">
   {{<figure library="true" src="effect_sizes.png" height="250px" width="300px" style="float: left; margin: 0px 0px 0px 0px; border: 0px solid #000000;">}}
-</div> <div class="alert" style="width: 730px; float:left; height:250px"> <p>Include description here!............................</p> </div> 
+</div> <div class="alert" style="width: 730px; float:left; height:250px"> <p>Multidisciplinary projects with a specific focus on statistical genomics are explored under this theme. These are the output of collaborative efforts, which are largely not confined to walls of my home department. Identification of biological underpinnings, assessing accurately their uncertainties in data-mined models and efficiently consolidating confirmatory reports in integrative domains defines some my current interests.</p> </div> 
+
 
 
 
