@@ -92,7 +92,7 @@ subtitle = ""
 
  <div style="width: 400px; float:left; height:300px;">
   {{<figure library="true" src="winners_curse.png" height="300px" width="400px" style="float: left; margin: 0px 0px 0px 0px; border: 0px solid #000000;">}}
-</div> <div class="alert" style="width: 700px; float:left; height:250px"> <p>Include description here!............................</p> </div> 
+</div> <div class="alert" style="width: 700px; float:left; height:250px"> <p>An overarching focus of my research is geared towards developing methods for prudently resuing data to learn a model and infer about the parameters in it. These advances enable practitioners to exploit complex patterns in big data reproducible modeling and report tractably resolvable inferential conclusions with meaning. My recent activities in this theme draw direct motivation from how big and rich data is collected, stored and deployed in realistic pipelines. </p> </div> 
 
 
 
