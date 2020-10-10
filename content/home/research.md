@@ -92,7 +92,7 @@ subtitle = ""
 
  <div style="width: 400px; float:left; height:300px;">
   {{<figure library="true" src="winners_curse.png" height="300px" width="400px" style="float: left; margin: 0px 0px 0px 0px; border: 0px solid #000000;">}}
-</div> <div class="alert" style="width: 700px; float:left; height:280px"> <p>An overarching focus of my research is geared towards prudently resuing data to exploit complex patterns in big data reproducible modeling and report tractably resolvable inferential conclusions with meaning. My recent activities draw direct motivation from how big and rich data is collected, stored and deployed in realistic pipelines. A relevant inferential problem arises in several practical scenarios when inference for adaptive parameters must be updated upon availability of fresh samples or a related dataset. Dubbed as carving, the projects investigating properties, methods and algorithms around this theme are highlighted in blue.</p> </div> 
+</div> <div class="alert" style="width: 700px; float:left; height:300px"> <p>An overarching focus of my research is geared towards prudently resuing data to exploit complex patterns in big data reproducible modeling and report tractably resolvable inferential conclusions with meaning. My recent activities draw direct motivation from how big and rich data is collected, stored and deployed in realistic pipelines. Specifically, methods dubbed as <b>carving  offer a data-efficient way out</b> when inference for adaptive parameters must be updated upon the availability of fresh samples or the arrival of a second related dataset. Projects investigating properties, methods and algorithms around data carving are <b>highlighted in blue</b>.</p> </div> 
 
 
 
