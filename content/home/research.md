@@ -94,7 +94,7 @@ subtitle = ""
   {{<figure library="true" src="winners_curse.png" height="300px" width="400px" style="float: left; margin: 0px 0px 0px 0px; border: 0px solid #000000;">}}
 </div> <div class="alert" style="width: 700px; float:left; height:250px"> <p>An overarching focus of my research is geared towards prudently resuing data to learn a model and infer about the parameters in it. These methodological advances enable practitioners to exploit complex patterns in big data reproducible modeling and report tractably resolvable inferential conclusions with meaning. My recent activities draw direct motivation from how big and rich data is collected, stored and deployed in realistic pipelines. 
    <br>
-   A relevant inferential question that arises in several practical scenarios is when some initial data samples have been utilized for learning a model: inference for parameters in this model must be updated upon availability of fresh samples or a related dataset. Dubbed as carving, the projects investigating properties, methods and algorithms around this theme are highlighted in blue.</p> </div> 
+   A relevant inferential problem arises in several practical scenarios when inference for adaptive parameters must be updated upon availability of fresh samples or a related dataset. Dubbed as carving, the projects investigating properties, methods and algorithms around this theme are highlighted in blue.</p> </div> 
 
 
 
