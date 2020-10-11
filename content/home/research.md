@@ -68,7 +68,6 @@ subtitle = ""
   background-color: #B2EBF2;
   color: #091f29;
   }
-
   .closebtn {
   margin-left: 15px;
   color: white;
