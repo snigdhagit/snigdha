@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 35  # Order that this section will appear.
 
-title = "**Publications and preprints**"
+title = "**Publications, preprints and software**"
 subtitle = ""
 
 [design]
@@ -144,5 +144,21 @@ Qingyuan Zhao and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
     <b>Selective sampling after solving a convex problem.</b> 2016. [<a href="https://arxiv.org/abs/1609.05609">arxiv</a>]
 
 
+
+</td> </tr> </tbody> </table> 
+
+
+
+<table border="0", width="800px"> <tbody> <tr> <td style="padding-top: 0px">
+<br>
+
+<br> 
+
+<b><font color=#2B0539> SOFTWARE</font></b>  My contributions to software development for my projects in the field of Selective Inference can be found here: 
+
+- icon: github
+
+#  icon_pack: fab
+#  link: https://github.com/snigdhagit/
 
 </td> </tr> </tbody> </table> 
