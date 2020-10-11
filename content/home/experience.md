@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "**Teaching**"
 subtitle = ""
 
 # Date format for experience
@@ -18,18 +18,26 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Statistics 600: Linear Models"
+  company = "Fall 2020-21"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Graduate Level Course: Core class for first year Ph.D. program"
+  date_start = ""
   date_end = ""
   description = """
-  Responsibilities include:
 
-  * Analysing
-  * Modelling
-  * Deploying
+  The course covers the following topics
+
+  * A comprehensive treatment of linear models for independent observations using least squares estimation, including both simple and multiple regression
+
+  * Some regression methods for dependent data
+
+  * Automated variable selection algorithms from a competing class of linear models such as L-1 and L-2 penalized algorithms
+    
+  * Permutation tests and bootstrapped regression methods
+    
+  * Challenges from a modern regression (learning) perspective: multiple comparisons, multiple testing and inference post selection
+    
     """
 
 [[experience]]
