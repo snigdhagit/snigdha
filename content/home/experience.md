@@ -18,11 +18,11 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Statistics 600: Linear Models"
-  company = "Fall 2020-21"
+  title = "Statistics 600 - Linear Models"
+  company = "Graduate Level Course - Core class for first year Ph.D. program"
   company_url = ""
-  location = "Graduate Level Course: Core class for first year Ph.D. program"
-  date_start = ""
+  location = ""
+  date_start = "Fall 2020-21"
   date_end = ""
   description = """ The course covers the following topics
 
@@ -30,7 +30,7 @@ date_format = "Jan 2006"
   * Some regression methods for dependent data
   * Automated variable selection algorithms from a competing class of linear models such as L-1 and L-2 penalized algorithms
   * Permutation tests and bootstrapped regression methods
-  * Challenges from a modern regression (learning) perspective: multiple comparisons, multiple testing and inference post selection """
+  * Challenges from a modern regression (learning) perspective: multiple comparisons, multiple testing and inference post selection. """
 
 [[experience]]
   title = "Professor"
