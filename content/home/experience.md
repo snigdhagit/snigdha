@@ -24,7 +24,13 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2020-08-31"
   date_end = ""
-  description = """The course covers the following topics"""
+  description = """The course covers the following topics
+
+  * A comprehensive treatment of linear models for independent observations using least squares estimation, including both simple and multiple regression
+  * Some regression methods for dependent data
+  * Automated variable selection algorithms from a competing class of linear models such as L-1 and L-2 penalized algorithms
+  * Permutation tests and bootstrapped regression methods
+  * Challenges from a modern regression (learning) perspective: multiple comparisons, multiple testing and inference post selection. """
 
 [[experience]]
   title = "Professor"
