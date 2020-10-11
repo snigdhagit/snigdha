@@ -18,6 +18,15 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Statistics 600 - Linear Models"
+  company = "Graduate Level Course - Core class for first year Ph.D. program"
+  company_url = ""
+  location = ""
+  date_start = "Sept 2020"
+  date_end = ""
+  description = """The course covers the following topics"""
+
+[[experience]]
   title = "Professor"
   company = "University X"
   company_url = ""
