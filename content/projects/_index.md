@@ -22,7 +22,7 @@ header:
 
 <div style="margin-left: 200px; margin-right: 100px; text-align:left; font-size: 13pt;">
 
- 
+
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Shariq Mohammad, Arvind Rao and Veerabhadran Baladandayuthapani.
    <b> Integrative Bayesian models using Post-selective Inference: a case study

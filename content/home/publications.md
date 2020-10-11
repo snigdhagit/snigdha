@@ -152,6 +152,6 @@ Qingyuan Zhao and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
 <table border="0", width="800px"> <tbody> <tr> <td style="padding-top: 0px">
 <br> 
 
-<b><font color=#2B0539> SOFTWARE</font></b>  My contributions to software development for my projects in the field of Selective Inference can be found here: [<a href="https://github.com/snigdhagit/selective-inference">Github</a>]
+[<font size="+2"><b><font color=#2B0539> SOFTWARE</font></b>  My contributions to software development for my projects in the field of Selective Inference can be found here: [<a href="https://github.com/snigdhagit/selective-inference">Github</a>] </font>
 
 </td> </tr> </tbody> </table> 
