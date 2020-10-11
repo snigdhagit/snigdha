@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Statistics 600 - Linear Models"
+  title = "STATS 600 - Linear Models"
   company = "Graduate Level Course - Core class for first year Ph.D. program"
   company_url = ""
   location = ""
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   * Challenges from a modern regression (learning) perspective: multiple comparisons, multiple testing and inference post selection. """
 
 [[experience]]
-  title = "Statistics 605 - Statistical methods for Adaptive Data Analysis"
+  title = "STATS 605 - Statistical methods for Adaptive Data Analysis"
   company = "Special Topics Course - Advanced course for Ph.D. program"
   company_url = ""
   location = "Last Offered Winter 2019-20. "
@@ -47,12 +47,12 @@ date_format = "Jan 2006"
   * **Powerful science is being redefined through integrative analyses** : Special structure inducing penalties, distributed computing environments, multiple data sources playing diverse roles in a pipeline etc. are part of this discourse. We will think of tools in order to adapt to this modern class of problems. """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "STATS 280 - Honors Introduction to Statistics & Data Analysis"
+  company = "Lower level Undergraduate Course"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  location = "Offered previously - Fall 2018-19, Fall 2019-20"
+  date_start = "2020-08-31"
+  date_end = ""
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
