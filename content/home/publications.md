@@ -153,36 +153,6 @@ Qingyuan Zhao and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
 
 
 
-
-
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-.alert {
-  padding: 20px;
-  background-color: #B2EBF2;
-  color: #091f29;
-  }
-
-  .closebtn {
-  margin-left: 15px;
-  color: white;
-  font-weight: bold;
-  float: right;
-  font-size: 22px;
-  line-height: 20px;
-  cursor: pointer;
-  transition: 0.3s;
-}
-
-.closebtn:hover {
-  color: black;
-}
-</style>
-</head>
-
-
-
 <div class="alert"> 
   <p><font size="+1"><b><font color=#2B0539> SOFTWARE</font></b>  My contributions to software development for my projects in the field of Selective Inference can be found here: [<a href="https://github.com/snigdhagit/selective-inference">Github</a>] </font>
 </p> </div> 
