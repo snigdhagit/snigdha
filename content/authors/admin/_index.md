@@ -86,7 +86,7 @@ I am a statistician with wide-ranging interests, directed towards understanding 
 
 
 
-Broadly, my work explores the potential of new methodology at the intersections of machine learning, probabilistic modeling, statistical inference and genomics. A special emphasis is on reconciling between inferential coherence and adaptive modeling of data--- a confrontation inevitable with the richness and scale of modern data analyses. I delivered a tutorial on the recent advances in this very evolving field of research at the Simons Institute for the Theory of Computing in 2018;  [Tutorial-I](https://www.youtube.com/watch?v=qofrkW-DL7c), [Tutorial-II](https://www.youtube.com/watch?v=rGHf6BPeqBg).
+Broadly, my work explores the potential of new methodology at the intersections of machine learning, probabilistic modeling, statistical inference and genomics. A special emphasis is on reconciling between inferential coherence and adaptive modeling of data--- a confrontation inevitable with the richness and scale of modern data analyses. I delivered a tutorial on the recent advances in this very evolving field of research at the Simons Institute for the Theory of Computing in 2018;  [Tutorial-I](https://www.youtube.com/watch?v=qofrkW-DL7c), [Tutorial-II](https://www.youtube.com/watch?v=rGHf6BPeqBg). I gratefully acknowledge funding through **NSF-DMS** 1951980 to support a part of my current investigations.
 
 <br>
 
