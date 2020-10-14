@@ -61,7 +61,7 @@ date_format = "Jan 2006"
   * Probability basics, rules and examples
   * Random Variables and Discrete probability distributions: Expectation, Covariance and Standard Errors
   * Law of Large Numbers and Normal approximation to sums, Box models
-  * Inference: Confidence intervals , Hypothesis testing- Z-test and T-test
+  * Inference: Confidence intervals, Hypothesis testing: Z-test and T-test
   * Prediction: Bias-Variance tradeoff, Cross-validation, In-sample and out-of-sample errors, Multiple regression, Logistic regression."""
 
 +++
