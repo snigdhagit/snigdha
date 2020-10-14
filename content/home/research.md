@@ -78,7 +78,6 @@ subtitle = ""
   cursor: pointer;
   transition: 0.3s;
 }
-
 .closebtn:hover {
   color: black;
 }
@@ -91,7 +90,8 @@ subtitle = ""
 
  <div style="width: 400px; float:left; height:300px;">
   {{<figure library="true" src="winners_curse.png" height="300px" width="400px" style="float: left; margin: 0px 0px 0px 0px; border: 0px solid #000000;">}}
-</div> <div class="alert" style="width: 700px; float:left; height:300px"> <p>An overarching focus is geared towards prudently resuing data in order to exploit complex patterns in big data for reproducible modeling and inferential reportings with meaning. My recent activities draw direct motivation from how massive structured data is collected, stored and deployed in realistic pipelines. Specifically, methods dubbed as <b ><span style="color: #00008B">carving  offer a data-efficient way out </span></b> when adaptive inference must be updated upon the availability of fresh samples or the arrival of a new dataset. Proposals investigating mathematical properties and computational algorithms around data carving are <b><span style="color: #00008B">highlighted in blue</span></b>.</p> </div> 
+</div> <div class="alert" style="width: 700px; float:left; height:280px"> <p>An overarching focus is geared towards prudently resuing data in order to exploit complex patterns in big data for reproducible modeling and inferential reportings with meaning. My recent activities draw direct motivation from how massive structured data is collected, stored and deployed in realistic pipelines. Specifically, methods dubbed as <b ><span style="color: #00008B">carving  offer a data-efficient way out </span></b> when adaptive inference must be updated upon the availability of fresh samples or the arrival of a new dataset. Proposals investigating mathematical properties and computational algorithms around data carving are <b><span style="color: #00008B">highlighted in blue</span></b>.</p> </div> 
+
 
 
 
