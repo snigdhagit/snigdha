@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   location = "Offered previously - Fall 2018-19, Fall 2019-20"
   date_start = "2020-08-31"
   date_end = ""
-  description = """The course is organized as the following main topics.
+  description = """The course is co-taught in the Winter semesters (and is largely developed) by [Johann Gagnon-Bartsch](https://dept.stat.lsa.umich.edu/~johanngb/#Home).  The course is organized as the following main topics. 
 
   * Summarizing data: Histograms, Boxplots etc.,  Measures of location and spread
   * Randomized experiments, Observational studies and Confounding
