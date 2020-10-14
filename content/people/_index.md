@@ -29,7 +29,7 @@ header:
 <br>
 
   <b><font color=#2B0539>Snigdha Panigrahi</font></b> and Jonathan Taylor.
-   <b> Approximate selective inference via maximum likelihood.</b> 2019.  [<a href="https://arxiv.org/abs/1902.07884">arxiv</a>]
+   <b> <font color=#00008B>Approximate selective inference via maximum likelihood.</b> 2019.  [<a href="https://arxiv.org/abs/1902.07884">arxiv</a>]
 
 <br>
 
