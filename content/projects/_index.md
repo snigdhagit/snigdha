@@ -31,17 +31,17 @@ header:
 <br>
 
 Basil Saeed, <b><font color=#2B0539>Snigdha Panigrahi</font></b> and Caroline Uhler.
-   <b>Causal Structure Discovery from Distributions Arising from Mixtures of DAGs.</b> 2020. International Conference on Machine Learning.   [<a href="https://arxiv.org/abs/2001.11940">arxiv</a>];  [<a href="https://proceedings.icml.cc/static/paper_files/icml/2020/5473-Paper.pdf">journal</a>]
+   <b>Causal Structure Discovery from Distributions Arising from Mixtures of DAGs.</b> 2020. International Conference on Machine Learning.   [<a href="https://arxiv.org/abs/2001.11940">arxiv</a>];  [<a href="https://proceedings.icml.cc/static/paper_files/icml/2020/5473-Paper.pdf">publication</a>]
 
 <br>
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Junjie Zhu and Chiara Sabatti.
-   <b> Selection-adjusted inference: an application to confidence intervals for cis-eQTL effect sizes.</b> 2019. Biostatistics.   [<a href="https://arxiv.org/abs/1801.08686">arxiv</a>];  [<a href="https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxz024/5532132?redirectedFrom=fulltext">journal</a>]
+   <b> Selection-adjusted inference: an application to confidence intervals for cis-eQTL effect sizes.</b> 2019. Biostatistics.   [<a href="https://arxiv.org/abs/1801.08686">arxiv</a>];  [<a href="https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxz024/5532132?redirectedFrom=fulltext">publication</a>]
 
 <br>
 
  <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Nadia Fawaz and Ajith Pudhiyaveetil.
-    <b>Temporal Evolution of Behavioral User Personas via Latent Variable Mixture models.</b> 2019. IUI Workshops on Exploratory Search and Interactive Data Analytics. [<a href="https://arxiv.org/abs/1609.05609">arxiv</a>];  [<a href="http://ceur-ws.org/Vol-2327/IUI19WS-ESIDA-5.pdf">journal</a>]
+    <b>Temporal Evolution of Behavioral User Personas via Latent Variable Mixture models.</b> 2019. IUI Workshops on Exploratory Search and Interactive Data Analytics. [<a href="https://arxiv.org/abs/1609.05609">arxiv</a>];  [<a href="http://ceur-ws.org/Vol-2327/IUI19WS-ESIDA-5.pdf">publication</a>]
 
 </td> </tr> </tbody> </table> 
 

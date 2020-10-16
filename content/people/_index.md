@@ -33,8 +33,8 @@ header:
 
 <br>
 
-  <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Junjie Zhu and Chiara Sabatti.
-   <b> Selection-adjusted inference: an application to confidence intervals for cis-eQTL effect sizes.</b> 2019. Biostatistics.   [<a href="https://arxiv.org/abs/1801.08686">arxiv</a>];      [<a href="https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxz024/5532132?redirectedFrom=fulltext">journal</a>]
+  <b><font color=#2B0539>Snigdha Panigrahi</font></b>, <font color=#2B0539>Junjie Zhu and Chiara Sabatti.</font>
+   <b><font color=#2B0539> Selection-adjusted inference: an application to confidence intervals for cis-eQTL effect sizes.</font></b> <font color=#2B0539>2019. Biostatistics. </font>  [<a href="https://arxiv.org/abs/1801.08686">arxiv</a>];      [<a href="https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxz024/5532132?redirectedFrom=fulltext">publication</a>]
 
 <br>
 
@@ -49,7 +49,7 @@ header:
 <br>
 
 <font color=#2B0539>Qingyuan Zhao and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
-    <b>Selective Inference for Effect Modication: An Empirical Investigation.</b> 2019. Observational Studies: Special issue devoted to ACIC. [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>];  [<a href="https://obsstudies.org/277-2/">journal</a>]
+    <b>Selective Inference for Effect Modication: An Empirical Investigation.</b> 2019. Observational Studies: Special issue devoted to ACIC. [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>];  [<a href="https://obsstudies.org/277-2/">publication</a>]
 
 <br>
 
