@@ -54,7 +54,7 @@ header:
 <br>
 
  <b><font color=#2B0539>Snigdha Panigrahi</font></b> and Jonathan Taylor.
-    <b>Scalable methods for Bayesian selective inference.</b> 2018. Electronic Journal of Statistics. [<a href="https://arxiv.org/abs/1703.06176">arxiv</a>]; [<a href="https://projecteuclid.org/euclid.ejs/1532484333">journal</a>]
+    <b>Scalable methods for Bayesian selective inference.</b> 2018. Electronic Journal of Statistics. [<a href="https://arxiv.org/abs/1703.06176">arxiv</a>]; [<a href="https://projecteuclid.org/euclid.ejs/1532484333">publication</a>]
 
 <br>
 
