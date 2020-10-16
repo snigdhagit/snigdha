@@ -155,9 +155,10 @@ subtitle = ""
 
 
 
-<div style="width: 280px; float:right; height:90px;">
-  {{<figure library="true" src="gaussian_process.png" height="100px" width="280px" style="float: left; margin: 2px 0px 0px 10px; border: 0px solid #000000;">}}
+<div style="width: 280px; float:right; height:80px;">
+  {{<figure library="true" src="gaussian_process.png" title="[<a hyperref="http://www.cs.toronto.edu/~duvenaud/cookbook/index.html">Source</a>]" height="100px" width="280px" style="float: left; margin: 2px 0px 0px 10px; border: 0px solid #000000;">}}
 </div> <div class="alert" style="width: 880px; float:right; height:180px, margin: 4px 0px 4px 0px;"> <p> My work in this domain explores the behavior of stochastic processes through relevant probabilistic and geometric characteristics, such as maximal moments, path regularity properties and their phase transition boundaries, integral geometric formulae etc. This understanding finds relevant applications in the analysis of cosmological data and heavy tailed modeling of real data. My contributions here rely on a combination of ergodic, group theoretic and probabilistic techniques. </p> </div> 
+
 
 
 
