@@ -64,6 +64,6 @@ function goBack() {
 
 <button onclick="goBack()">Back to Research</button>
 
-<p>Clicking on the Back button here will not result in any action, because there is no previous URL in the history list.</p>
+
 
 </body>
