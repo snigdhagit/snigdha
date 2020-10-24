@@ -34,3 +34,15 @@ header:
 
 </td> </tr> </tbody> </table> 
 
+<head>
+<script>
+function goBack() {
+  window.history.back()
+}
+</script>
+</head>
+<body>
+
+<button onclick="goBack()">Go Back</button>
+
+</body>
