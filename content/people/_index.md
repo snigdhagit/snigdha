@@ -87,6 +87,6 @@ function goBack() {
 </head>
 <body>
 
-<button onclick="goBack()">Back to Research</button>
+<button onclick="goBack()">Back </button>
 
 </body>
