@@ -145,7 +145,11 @@ subtitle = ""
   cursor: pointer;
   transition: 0.3s;
 }
-
+.closebtn:hover {
+  color: black;
+}
+</style>
+</head>
 
 
 
@@ -178,7 +182,32 @@ subtitle = ""
 
 [<font size="+2">Interdisciplinary investigations in data science </font>]({{< ref "/projects/_index.md" >}})
 
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.alert {
+  padding: 20px;
+  background-color: #F5EEF8;
+  color: #091f29;
+  }
 
+
+  .closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn:hover {
+  color: black;
+}
+</style>
+</head>
 
 <div style="width: 300px; float:left; height:250px;">
   {{<figure library="true" src="effect_sizes.png" height="250px" width="300px" style="float: left; margin: 0px 0px 0px 0px; border: 0px solid #000000;">}}
