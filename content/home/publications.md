@@ -154,7 +154,7 @@ Qingyuan Zhao and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
 
 
 
-<div class="alert", style="margin-left: 10px; margin-right: 100px; text-align:left; font-size: 13pt;"> 
+<div class="alert", style="width: 100%; height: auto; "> 
   <p><font size="+1"><b><span style="color: #00008B">  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  SOFTWARE  </span></b>  &nbsp; &nbsp; My contributions to software development in the field of <span style="color: #00008B">Selective Inference</span> can be tracked here: [<a href="https://github.com/snigdhagit/selective-inference"><span style="color: #00008B">Github</span></a>] </font>
 </p> </div> 
 
