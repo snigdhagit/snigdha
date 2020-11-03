@@ -73,7 +73,7 @@ subtitle = ""
 
 
 
-<table border="0", style="width: 100%; height: auto;"> <tbody> <tr> <td style="padding-top: 0px; padding-left: 0px">
+<table border="0", style="width: 100%; height: auto;"> <tbody> <tr> <td style="padding-top: 0px; text-align:left">
 <br>
 
 
