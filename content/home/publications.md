@@ -86,10 +86,6 @@ subtitle = ""
 
 <br>
 
- <br>
-
-<br>
-
 Basil Saeed, <b><font color=#2B0539>Snigdha Panigrahi</font></b> and Caroline Uhler.
    <b>Causal Structure Discovery from Distributions Arising from Mixtures of DAGs.</b> 2020. International Conference on Machine Learning.   [<a href="https://arxiv.org/abs/2001.11940">arxiv</a>];  [<a href="https://proceedings.icml.cc/static/paper_files/icml/2020/5473-Paper.pdf">publication</a>]
 
