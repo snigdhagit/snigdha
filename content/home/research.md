@@ -13,6 +13,29 @@ subtitle = ""
 
 [design]
 
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.alert {
+  padding: 20px;
+  background-color: #B2EBF2;
+  color: #091f29;
+  }
+  .closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.closebtn:hover {
+  color: black;
+}
+</style>
+</head>
+
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 
