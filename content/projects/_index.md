@@ -17,7 +17,7 @@ header:
 
 
 
-<table border="0", width="800px"> <tbody> <tr> <td style="padding-top: 0px">
+<table border="0", style="width: 100%; height: auto;"> <tbody> <tr> <td style="padding-top: 0px">
 <br>
 
 <div style="margin-left: 200px; margin-right: 100px; text-align:left; font-size: 13pt;">
