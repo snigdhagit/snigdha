@@ -54,12 +54,6 @@ subtitle = ""
 
 +++
 
-<br>
-
-[<font size="+2">Structure aware inference anchored in data-assisted learning </font>]({{< ref "/people/_index.md" >}})
-
-
-
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -83,6 +77,11 @@ subtitle = ""
 }
 </style>
 </head>
+
+<br>
+
+[<font size="+2">Structure aware inference anchored in data-assisted learning </font>]({{< ref "/people/_index.md" >}})
+
 
 
 
