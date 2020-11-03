@@ -73,13 +73,12 @@ subtitle = ""
 
 
 
-<table border="0", style="width: 100%; height: auto;"> <tbody> <tr> <td style="padding-top: 0px; text-align:left">
+<table border="0", style="width: 100%; height: auto;"> <tbody> <tr> <td style="padding-top: 0px;">
 <br>
 
 
 
-<div style="margin-left: 200px; margin-right: 100px; text-align:left; font-size: 13pt;">
-
+<div style="margin-left: 10px; margin-right: 100px; text-align:left; font-size: 13pt;">
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Shariq Mohammad, Arvind Rao and Veerabhadran Baladandayuthapani.
    <b> Integrative Bayesian models using Post-selective Inference: a case study
  in Radiogenomics.</b> 2020.  [<a href="https://arxiv.org/abs/2004.12012">arxiv</a>]
