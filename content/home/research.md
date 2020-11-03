@@ -128,7 +128,7 @@ subtitle = ""
 [<font size="+2">Stochastic processes and their geometric properties </font>]({{< ref "/hero/_index.md" >}}) &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Source](http://www.cs.toronto.edu/~duvenaud/cookbook/index.html) 
 
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
 <style>
 .alert {
   padding: 20px;
@@ -145,6 +145,7 @@ subtitle = ""
   cursor: pointer;
   transition: 0.3s;
 }
+
 .closebtn:hover {
   color: black;
 }
@@ -184,13 +185,14 @@ subtitle = ""
 [<font size="+2">Interdisciplinary investigations in data science </font>]({{< ref "/projects/_index.md" >}})
 
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
 <style>
 .alert {
   padding: 20px;
   background-color: #F5EEF8;
   color: #091f29;
   }
+
 
 
   .closebtn {
