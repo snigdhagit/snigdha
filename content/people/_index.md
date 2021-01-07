@@ -26,10 +26,6 @@ header:
 
 <br>
 
- <br>
-
- <br>
-
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Shariq Mohammad, Arvind Rao and Veerabhadran Baladandayuthapani.
    <b> Integrative Bayesian models using Post-selective Inference: a case study
  in Radiogenomics.</b> 2020.  [<a href="https://arxiv.org/abs/2004.12012">arxiv</a>]
