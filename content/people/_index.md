@@ -19,8 +19,17 @@ header:
 
 <table border="0", style="width: 100%; height: auto;"> <tbody> <tr> <td style="padding-top: 0px">
 <br>
-
 <div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
+
+<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Peter W. Macdonald and Daniel Kessler.
+   <b>Inference post selection of Group-sparse Regression Models.</b> 2020.  [<a href="https://arxiv.org/abs/2012.15664">arxiv</a>]
+
+<br>
+
+ <br>
+
+ <br>
+
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Shariq Mohammad, Arvind Rao and Veerabhadran Baladandayuthapani.
    <b> Integrative Bayesian models using Post-selective Inference: a case study
  in Radiogenomics.</b> 2020.  [<a href="https://arxiv.org/abs/2004.12012">arxiv</a>]
