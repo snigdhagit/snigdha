@@ -113,7 +113,7 @@ Basil Saeed, <b><font color=#2B0539>Snigdha Panigrahi</font></b> and Caroline Uh
 <br>
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>,  Jonathan Taylor and Asaf Weinstein.
-    <b>Integrative methods for post-selection inference under convex constraints.</b> 2019.  [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>]    
+    <b>Integrative methods for post-selection inference under convex constraints.</b> 2019.  To appear in Annals of Statistics. [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>]    
 
 <br>
 
@@ -138,7 +138,7 @@ Qingyuan Zhao and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
 <br>
 
 <b><font color=#2B0539> Snigdha Panigrahi</font></b>, Parthanil Roy and Yimin Xiao.
-    <b>Maximal Moments and Uniform Modulus of Continuity for Stable Random Fields.</b> 2017. [<a href="https://arxiv.org/abs/1709.07135">arxiv</a>]
+    <b>Maximal Moments and Uniform Modulus of Continuity for Stable Random Fields.</b> 2017. To appear in Stochastic processes and their applications. [<a href="https://arxiv.org/abs/1709.07135">arxiv</a>]
 
 <br>
 
