@@ -48,7 +48,7 @@ header:
 <br>
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, <font color=#2B0539> Jonathan Taylor and Asaf Weinstein.
-    <b><font color=#00008B>Integrative methods for post-selection inference under convex constraints.</b> 2019.  To appear in Annals of Statistics. [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>]    
+    <b><font color=#00008B>Integrative methods for post-selection inference under convex constraints.</b>  <font color=#2B0539> 2019.  To appear: Annals of Statistics. [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>]    
 
 <br>
 
