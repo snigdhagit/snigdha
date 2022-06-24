@@ -109,7 +109,7 @@ Basil Saeed, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Caroline U
 <br>
 
   <b><font color=#2B0539>Snigdha Panigrahi</font></b> and Jonathan Taylor.
-   <b> Approximate selective inference via maximum likelihood.</b> 2019.  [<a href="https://arxiv.org/abs/1902.07884">arxiv</a>]
+   <b> Approximate selective inference via maximum likelihood.</b> 2019.  [<a href="https://arxiv.org/abs/1902.07884">arxiv</a>] [<a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2081575">publication</a>]
 
 <br>
 
