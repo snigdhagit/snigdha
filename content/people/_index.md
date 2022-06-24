@@ -21,10 +21,33 @@ header:
 <br>
 <div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
 
+<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Natasha Stewart, Chandra Sripada, and Elizaveta Levina.
+   <b>Selective Inference for Sparse Multitask Regression with Applications in Neuroimaging.</b> 2022.  [<a href="https://arxiv.org/abs/2205.14220">arxiv</a>]
+
+
+<br>
+
+<b><font color=#2B0539>Snigdha Panigrahi</font></b> and Jonathan Taylor.
+   <b> Approximate selective inference via maximum likelihood.</b> 2022. Journal of the American Statistical Association  [<a href="https://arxiv.org/abs/1902.07884">arxiv</a>];  [<a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2081575">publication</a>]
+
+<br>
+
+<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jingshen Wang, and Xuming He.
+   <b>Treatment Effect Estimation via Efficient Data Aggregation.</b> 2022.  [<a href="https://arxiv.org/abs/2203.12726">arxiv</a>]
+
+<br>
+
+<b><font color=#2B0539>Snigdha Panigrahi</font></b>,  Jonathan Taylor, and Asaf Weinstein.
+    <b>Integrative methods for post-selection inference under convex constraints.</b> 2021. Annals of Statistics. [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>]; [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-5/Integrative-methods-for-post-selection-inference-under-convex-constraints/10.1214/21-AOS2057.short">publication</a>]  
+
+<br>
+
+
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Peter W. Macdonald and Daniel Kessler.
    <b>Inference post selection of Group-sparse Regression Models.</b> 2020.  [<a href="https://arxiv.org/abs/2012.15664">arxiv</a>]
 
 <br>
+
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Shariq Mohammad, Arvind Rao and Veerabhadran Baladandayuthapani.
    <b> Integrative Bayesian models using Post-selective Inference: a case study
@@ -32,10 +55,6 @@ header:
 
 <br>
 
-  <b><font color=#2B0539>Snigdha Panigrahi</font></b> and Jonathan Taylor.
-   <b> <font color=#00008B>Approximate selective inference via maximum likelihood.</b> 2019.  [<a href="https://arxiv.org/abs/1902.07884">arxiv</a>]
-
-<br>
 
   <b><font color=#2B0539>Snigdha Panigrahi</font></b>, <font color=#2B0539>Junjie Zhu and Chiara Sabatti.</font>
    <b><font color=#2B0539> Selection-adjusted inference: an application to confidence intervals for cis-eQTL effect sizes.</font></b> <font color=#2B0539>2019. Biostatistics. </font>  [<a href="https://arxiv.org/abs/1801.08686">arxiv</a>];      [<a href="https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxz024/5532132?redirectedFrom=fulltext">publication</a>]
@@ -47,10 +66,6 @@ header:
 
 <br>
 
-<b><font color=#2B0539>Snigdha Panigrahi</font></b>, <font color=#2B0539> Jonathan Taylor and Asaf Weinstein.
-    <b><font color=#00008B>Integrative methods for post-selection inference under convex constraints.</b>  <font color=#2B0539> 2019.  To appear: Annals of Statistics. [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>]    
-
-<br>
 
 <font color=#2B0539>Qingyuan Zhao and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
     <b>Selective Inference for Effect Modication: An Empirical Investigation.</b> 2019. Observational Studies: Special issue devoted to ACIC. [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>];  [<a href="https://obsstudies.org/277-2/">publication</a>]
