@@ -149,7 +149,7 @@ Qingyuan Zhao and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
 <br>
 
 <b><font color=#2B0539> Snigdha Panigrahi</font></b>, Parthanil Roy, and Yimin Xiao.
-    <b>Maximal Moments and Uniform Modulus of Continuity for Stable Random Fields.</b> 2017. To appear in Stochastic processes and their applications. [<a href="https://arxiv.org/abs/1709.07135">arxiv</a>]
+    <b>Maximal Moments and Uniform Modulus of Continuity for Stable Random Fields.</b> 2017. Stochastic processes and their applications. [<a href="https://arxiv.org/abs/1709.07135">arxiv</a>]; [<a href="https://www.sciencedirect.com/science/article/pii/S0304414921000181?casa_token=GnUi_w_-Pq8AAAAA:1O3RvY6dA2Pg_o3Q7i2NjPC0svSrKOR7nG2hvOn3re0nNxkOCIc18hh2vur1m4SilWiKvBZx">publication</a>]
 
 <br>
 
