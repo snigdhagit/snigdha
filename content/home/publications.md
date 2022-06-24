@@ -79,25 +79,32 @@ subtitle = ""
 
 
 <div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
-<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jingshen Wang and Xuming He.
-   <b>Treatment Effect Estimation via Efficient Data Aggregation.</b> 2020.  [<a href="https://arxiv.org/abs/2203.12726">arxiv</a>]
+
+<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Natasha Stewart, Chandra Sripada, and Elizaveta Levina.
+   <b>Selective Inference for Sparse Multitask Regression with Applications in Neuroimaging.</b> 2022.  [<a href="https://arxiv.org/abs/2205.14220">arxiv</a>]
 
 <br>
 
 <br>
 
-<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Peter W. Macdonald and Daniel Kessler.
+<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jingshen Wang, and Xuming He.
+   <b>Treatment Effect Estimation via Efficient Data Aggregation.</b> 2022.  [<a href="https://arxiv.org/abs/2203.12726">arxiv</a>]
+
+<br>
+
+
+<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Peter W. Macdonald, and Daniel Kessler.
    <b>Inference post selection of Group-sparse Regression Models.</b> 2020.  [<a href="https://arxiv.org/abs/2012.15664">arxiv</a>]
 
 <br>
 
-<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Shariq Mohammad, Arvind Rao and Veerabhadran Baladandayuthapani.
+<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Shariq Mohammad, Arvind Rao, and Veerabhadran Baladandayuthapani.
    <b> Integrative Bayesian models using Post-selective Inference: a case study
  in Radiogenomics.</b> 2020.  [<a href="https://arxiv.org/abs/2004.12012">arxiv</a>]
 
 <br>
 
-Basil Saeed, <b><font color=#2B0539>Snigdha Panigrahi</font></b> and Caroline Uhler.
+Basil Saeed, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Caroline Uhler.
    <b>Causal Structure Discovery from Distributions Arising from Mixtures of DAGs.</b> 2020. International Conference on Machine Learning.   [<a href="https://arxiv.org/abs/2001.11940">arxiv</a>];  [<a href="https://proceedings.icml.cc/static/paper_files/icml/2020/5473-Paper.pdf">publication</a>]
 
 <br>
@@ -107,7 +114,7 @@ Basil Saeed, <b><font color=#2B0539>Snigdha Panigrahi</font></b> and Caroline Uh
 
 <br>
 
-  <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Junjie Zhu and Chiara Sabatti.
+  <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Junjie Zhu, and Chiara Sabatti.
    <b> Selection-adjusted inference: an application to confidence intervals for cis-eQTL effect sizes.</b> 2019. Biostatistics.   [<a href="https://arxiv.org/abs/1801.08686">arxiv</a>];      [<a href="https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxz024/5532132?redirectedFrom=fulltext">publication</a>]
 
 <br>
@@ -117,7 +124,7 @@ Basil Saeed, <b><font color=#2B0539>Snigdha Panigrahi</font></b> and Caroline Uh
 
 <br>
 
-<b><font color=#2B0539>Snigdha Panigrahi</font></b>,  Jonathan Taylor and Asaf Weinstein.
+<b><font color=#2B0539>Snigdha Panigrahi</font></b>,  Jonathan Taylor, and Asaf Weinstein.
     <b>Integrative methods for post-selection inference under convex constraints.</b> 2019.  To appear in Annals of Statistics. [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>]    
 
 <br>
@@ -127,12 +134,12 @@ Qingyuan Zhao and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
 
 <br>
 
-<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Nadia Fawaz and Ajith Pudhiyaveetil.
+<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Nadia Fawaz, and Ajith Pudhiyaveetil.
     <b>Temporal Evolution of Behavioral User Personas via Latent Variable Mixture models.</b> 2019. IUI Workshops on Exploratory Search and Interactive Data Analytics. [<a href="https://arxiv.org/abs/1609.05609">arxiv</a>];  [<a href="http://ceur-ws.org/Vol-2327/IUI19WS-ESIDA-5.pdf">publication</a>]
 
 <br>
 
-<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jonathan Taylor and Sreekar Vadlamani.
+<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jonathan Taylor, and Sreekar Vadlamani.
 <b>Kinematic Formula for Heterogeneous Gaussian Related Fields.</b> 2018.  Stochastic processes and their applications. [<a href="https://arxiv.org/abs/1705.04643">arxiv</a>]; [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304414918303314">publication</a>]
 
 <br>
@@ -142,17 +149,17 @@ Qingyuan Zhao and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
 
 <br>
 
-<b><font color=#2B0539> Snigdha Panigrahi</font></b>, Parthanil Roy and Yimin Xiao.
+<b><font color=#2B0539> Snigdha Panigrahi</font></b>, Parthanil Roy, and Yimin Xiao.
     <b>Maximal Moments and Uniform Modulus of Continuity for Stable Random Fields.</b> 2017. To appear in Stochastic processes and their applications. [<a href="https://arxiv.org/abs/1709.07135">arxiv</a>]
 
 <br>
 
- <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jelena Markovic and Jonathan Taylor.
+ <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jelena Markovic, and Jonathan Taylor.
 <b> An MCMC-free approach to post-selective inference.</b> 2017. [<a href="https://arxiv.org/abs/1703.06154">arxiv</a>]
 
 <br>
 
- Xiaoying Tian Harris, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jelena Markovic, Nan Bi and Jonathan Taylor.
+ Xiaoying Tian Harris, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jelena Markovic, Nan Bi, and Jonathan Taylor.
     <b>Selective sampling after solving a convex problem.</b> 2016. [<a href="https://arxiv.org/abs/1609.05609">arxiv</a>]
 
 
