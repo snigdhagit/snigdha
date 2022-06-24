@@ -86,8 +86,23 @@ subtitle = ""
 
 <br>
 
+<b><font color=#2B0539>Snigdha Panigrahi</font></b> and Jonathan Taylor.
+   <b> Approximate selective inference via maximum likelihood.</b> 2022. Journal of the American Statistical Association  [<a href="https://arxiv.org/abs/1902.07884">arxiv</a>];  [<a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2081575">publication</a>]
+
+<br>
+
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jingshen Wang, and Xuming He.
    <b>Treatment Effect Estimation via Efficient Data Aggregation.</b> 2022.  [<a href="https://arxiv.org/abs/2203.12726">arxiv</a>]
+
+<br>
+
+<b><font color=#2B0539>Snigdha Panigrahi</font></b>,  Jonathan Taylor, and Asaf Weinstein.
+    <b>Integrative methods for post-selection inference under convex constraints.</b> 2021. Annals of Statistics. [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>]; [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-5/Integrative-methods-for-post-selection-inference-under-convex-constraints/10.1214/21-AOS2057.short">publication</a>]  
+
+<br>
+
+<b><font color=#2B0539> Snigdha Panigrahi</font></b>, Parthanil Roy, and Yimin Xiao.
+    <b>Maximal Moments and Uniform Modulus of Continuity for Stable Random Fields.</b> 2021. Stochastic processes and their applications. [<a href="https://arxiv.org/abs/1709.07135">arxiv</a>]; [<a href="https://www.sciencedirect.com/science/article/pii/S0304414921000181?casa_token=GnUi_w_-Pq8AAAAA:1O3RvY6dA2Pg_o3Q7i2NjPC0svSrKOR7nG2hvOn3re0nNxkOCIc18hh2vur1m4SilWiKvBZx">publication</a>]
 
 <br>
 
@@ -108,10 +123,6 @@ Basil Saeed, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Caroline U
 
 <br>
 
-  <b><font color=#2B0539>Snigdha Panigrahi</font></b> and Jonathan Taylor.
-   <b> Approximate selective inference via maximum likelihood.</b> 2019. Journal of the American Statistical Association  [<a href="https://arxiv.org/abs/1902.07884">arxiv</a>];  [<a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2081575">publication</a>]
-
-<br>
 
   <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Junjie Zhu, and Chiara Sabatti.
    <b> Selection-adjusted inference: an application to confidence intervals for cis-eQTL effect sizes.</b> 2019. Biostatistics.   [<a href="https://arxiv.org/abs/1801.08686">arxiv</a>];      [<a href="https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxz024/5532132?redirectedFrom=fulltext">publication</a>]
@@ -123,10 +134,6 @@ Basil Saeed, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Caroline U
 
 <br>
 
-<b><font color=#2B0539>Snigdha Panigrahi</font></b>,  Jonathan Taylor, and Asaf Weinstein.
-    <b>Integrative methods for post-selection inference under convex constraints.</b> 2019. Annals of Statistics. [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>]; [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-5/Integrative-methods-for-post-selection-inference-under-convex-constraints/10.1214/21-AOS2057.short">publication</a>]  
-
-<br>
 
 Qingyuan Zhao and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
     <b>Selective Inference for Effect Modication: An Empirical Investigation.</b> 2019. Observational Studies: Special issue devoted to ACIC. [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>];  [<a href="https://obsstudies.org/277-2/">publication</a>]
@@ -145,11 +152,6 @@ Qingyuan Zhao and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
 
  <b><font color=#2B0539>Snigdha Panigrahi</font></b> and Jonathan Taylor.
     <b>Scalable methods for Bayesian selective inference.</b> 2018. Electronic Journal of Statistics. [<a href="https://arxiv.org/abs/1703.06176">arxiv</a>]; [<a href="https://projecteuclid.org/euclid.ejs/1532484333">publication</a>]
-
-<br>
-
-<b><font color=#2B0539> Snigdha Panigrahi</font></b>, Parthanil Roy, and Yimin Xiao.
-    <b>Maximal Moments and Uniform Modulus of Continuity for Stable Random Fields.</b> 2017. Stochastic processes and their applications. [<a href="https://arxiv.org/abs/1709.07135">arxiv</a>]; [<a href="https://www.sciencedirect.com/science/article/pii/S0304414921000181?casa_token=GnUi_w_-Pq8AAAAA:1O3RvY6dA2Pg_o3Q7i2NjPC0svSrKOR7nG2hvOn3re0nNxkOCIc18hh2vur1m4SilWiKvBZx">publication</a>]
 
 <br>
 
