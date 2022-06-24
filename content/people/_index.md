@@ -43,20 +43,20 @@ header:
 <br>
 
 
-<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Peter W. Macdonald and Daniel Kessler.
+<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Peter W. Macdonald, and Daniel Kessler.
    <b>Inference post selection of Group-sparse Regression Models.</b> 2020.  [<a href="https://arxiv.org/abs/2012.15664">arxiv</a>]
 
 <br>
 
 
-<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Shariq Mohammad, Arvind Rao and Veerabhadran Baladandayuthapani.
+<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Shariq Mohammad, Arvind Rao, and Veerabhadran Baladandayuthapani.
    <b> Integrative Bayesian models using Post-selective Inference: a case study
  in Radiogenomics.</b> 2020.  [<a href="https://arxiv.org/abs/2004.12012">arxiv</a>]
 
 <br>
 
 
-  <b><font color=#2B0539>Snigdha Panigrahi</font></b>, <font color=#2B0539>Junjie Zhu and Chiara Sabatti.</font>
+  <b><font color=#2B0539>Snigdha Panigrahi</font></b>, <font color=#2B0539>Junjie Zhu, and Chiara Sabatti.</font>
    <b><font color=#2B0539> Selection-adjusted inference: an application to confidence intervals for cis-eQTL effect sizes.</font></b> <font color=#2B0539>2019. Biostatistics. </font>  [<a href="https://arxiv.org/abs/1801.08686">arxiv</a>];      [<a href="https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxz024/5532132?redirectedFrom=fulltext">publication</a>]
 
 <br>
@@ -77,12 +77,12 @@ header:
 
 <br>
 
- <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jelena Markovic and Jonathan Taylor.
+ <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jelena Markovic, and Jonathan Taylor.
 <b> An MCMC-free approach to post-selective inference.</b> 2017. [<a href="https://arxiv.org/abs/1703.06154">arxiv</a>]
 
 <br>
 
- Xiaoying Tian Harris, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jelena Markovic, Nan Bi and Jonathan Taylor.
+ Xiaoying Tian Harris, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jelena Markovic, Nan Bi, and Jonathan Taylor.
     <b>Selective sampling after solving a convex problem.</b> 2016. [<a href="https://arxiv.org/abs/1609.05609">arxiv</a>]
 
 
