@@ -79,12 +79,17 @@ subtitle = ""
 
 
 <div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
+<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jingshen Wang and Xuming He.
+   <b>Treatment Effect Estimation via Efficient Data Aggregation.</b> 2020.  [<a href="https://arxiv.org/abs/2203.12726">arxiv</a>]
+
+<br>
+
+<br>
+
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Peter W. Macdonald and Daniel Kessler.
    <b>Inference post selection of Group-sparse Regression Models.</b> 2020.  [<a href="https://arxiv.org/abs/2012.15664">arxiv</a>]
 
 <br>
-
- <br>
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Shariq Mohammad, Arvind Rao and Veerabhadran Baladandayuthapani.
    <b> Integrative Bayesian models using Post-selective Inference: a case study
