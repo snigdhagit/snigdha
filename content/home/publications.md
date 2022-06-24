@@ -109,7 +109,7 @@ Basil Saeed, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Caroline U
 <br>
 
   <b><font color=#2B0539>Snigdha Panigrahi</font></b> and Jonathan Taylor.
-   <b> Approximate selective inference via maximum likelihood.</b> 2022. Journal of the American Statistical Association  [<a href="https://arxiv.org/abs/1902.07884">arxiv</a>] [<a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2081575">publication</a>]
+   <b> Approximate selective inference via maximum likelihood.</b> 2019. Journal of the American Statistical Association  [<a href="https://arxiv.org/abs/1902.07884">arxiv</a>];  [<a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2081575">publication</a>]
 
 <br>
 
@@ -124,7 +124,7 @@ Basil Saeed, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Caroline U
 <br>
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>,  Jonathan Taylor, and Asaf Weinstein.
-    <b>Integrative methods for post-selection inference under convex constraints.</b> 2019.  To appear in Annals of Statistics. [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>]    
+    <b>Integrative methods for post-selection inference under convex constraints.</b> 2019. Annals of Statistics. [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>]; [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-5/Integrative-methods-for-post-selection-inference-under-convex-constraints/10.1214/21-AOS2057.short">publication</a>]  
 
 <br>
 
