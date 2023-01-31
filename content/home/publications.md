@@ -80,6 +80,17 @@ subtitle = ""
 
 <div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
 
+Sifan Liu and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
+   <b> Selective Inference with Distributed Data.</b> 2023. [<a href="https://arxiv.org/abs/2301.06162">arxiv</a>]
+
+<br>
+
+
+<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Kevin Fry, and Jonathan Taylor.
+   <b> Exact Selective Inference with Randomization.</b> 2022. [<a href="https://arxiv.org/abs/2212.12940">arxiv</a>]
+
+<br>
+
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Shariq Mohammad, Arvind Rao, and Veerabhadran Baladandayuthapani.
    <b> Integrative Bayesian models using Post-selective Inference: a case study
  in Radiogenomics.</b> 2022. Biometrics (Forthcoming). [<a href="https://arxiv.org/abs/2004.12012">arxiv</a>]
