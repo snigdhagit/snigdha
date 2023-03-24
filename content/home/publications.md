@@ -80,6 +80,14 @@ subtitle = ""
 
 <div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
 
+<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Peter W. Macdonald, and Daniel Kessler.
+   <b>Approximate Post-Selective Inference for Regression with
+the Group LASSO.</b> 2023. Journal of Machine Learning Research (Forthcoming). [<a href="https://arxiv.org/abs/2012.15664">arxiv</a>]
+
+<br>
+
+
+
 Sifan Liu and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
    <b> Selective Inference with Distributed Data.</b> 2023. [<a href="https://arxiv.org/abs/2301.06162">arxiv</a>]
 
@@ -124,11 +132,6 @@ Sifan Liu and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
 
 <br>
 
-
-<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Peter W. Macdonald, and Daniel Kessler.
-   <b>Inference post selection of Group-sparse Regression Models.</b> 2020.  [<a href="https://arxiv.org/abs/2012.15664">arxiv</a>]
-
-<br>
 
 
 Basil Saeed, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Caroline Uhler.
