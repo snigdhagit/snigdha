@@ -81,7 +81,7 @@ subtitle = ""
 <div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
 
 
-<b>Yiling Huang, Sarah Pirenne, <font color=#2B0539>Snigdha Panigrahi</font></b>, and Gerda Claeskens.
+Yiling Huang, Sarah Pirenne, <b> <font color=#2B0539>Snigdha Panigrahi</font></b>, and Gerda Claeskens.
    <b>Selective Inference using Randomized Group Lasso Estimators for General Models.</b> 2023.  [<a href="https://aps.arxiv.org/pdf/2306.13829">arxiv</a>]
    
 <br>
