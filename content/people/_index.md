@@ -22,9 +22,20 @@ header:
 <div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
 
 
+<b>Yiling Huang, Sarah Pirenne, <font color=#2B0539>Snigdha Panigrahi</font></b>, and Gerda Claeskens.
+   <b>Selective Inference using Randomized Group Lasso Estimators for General Models.</b> 2023.  [<a href="https://aps.arxiv.org/pdf/2306.13829">arxiv</a>]
+   
+<br>
+
+
+<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Natasha Stewart, Chandra Sripada, and Elizaveta Levina.
+   <b>Selective Inference for Sparse Multitask Regression with Applications in Neuroimaging.</b> 2023.  Annals of Applied Statistics (Forthcoming).  [<a href="https://arxiv.org/abs/2205.14220">arxiv</a>]
+   
+<br>
+
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Peter W. Macdonald, and Daniel Kessler.
    <b>Approximate Post-Selective Inference for Regression with
-the Group LASSO.</b> 2023. Journal of Machine Learning Research (Forthcoming). [<a href="https://arxiv.org/abs/2012.15664">arxiv</a>]
+the Group LASSO.</b> 2023. Journal of Machine Learning Research. [<a href="https://arxiv.org/abs/2012.15664">arxiv</a>]
 
 <br>
 
@@ -48,11 +59,6 @@ Sifan Liu and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
 <br>
 
 
-<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Natasha Stewart, Chandra Sripada, and Elizaveta Levina.
-   <b>Selective Inference for Sparse Multitask Regression with Applications in Neuroimaging.</b> 2022.  [<a href="https://arxiv.org/abs/2205.14220">arxiv</a>]
-
-
-<br>
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b> and Jonathan Taylor.
    <b> Approximate selective inference via maximum likelihood.</b> 2022. Journal of the American Statistical Association  [<a href="https://arxiv.org/abs/1902.07884">arxiv</a>];  [<a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2081575">publication</a>]
