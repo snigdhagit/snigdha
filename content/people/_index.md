@@ -27,6 +27,11 @@ Yiling Huang, Sarah Pirenne, <b>  <font color=#2B0539>Snigdha Panigrahi</font></
    
 <br>
 
+<b><font color=#2B0539>Snigdha Panigrahi</font></b>.
+   <b> Carving model-free inference.</b> 2023.  Annals of Statistics (Forthcoming). [<a href="https://arxiv.org/abs/1811.03142">arxiv</a>]
+
+<br>
+
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Natasha Stewart, Chandra Sripada, and Elizaveta Levina.
    <b>Selective Inference for Sparse Multitask Regression with Applications in Neuroimaging.</b> 2023.  Annals of Applied Statistics (Forthcoming).  [<a href="https://arxiv.org/abs/2205.14220">arxiv</a>]
@@ -79,11 +84,6 @@ Sifan Liu and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
 
   <b><font color=#2B0539>Snigdha Panigrahi</font></b>, <font color=#2B0539>Junjie Zhu, and Chiara Sabatti.</font>
    <b><font color=#2B0539> Selection-adjusted inference: an application to confidence intervals for cis-eQTL effect sizes.</font></b> <font color=#2B0539>2019. Biostatistics. </font>  [<a href="https://arxiv.org/abs/1801.08686">arxiv</a>];      [<a href="https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxz024/5532132?redirectedFrom=fulltext">publication</a>]
-
-<br>
-
- <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
-   <b> <font color=#00008B>Carving model-free inference.</b> 2019.  [<a href="https://arxiv.org/abs/1811.03142">arxiv</a>]
 
 <br>
 
