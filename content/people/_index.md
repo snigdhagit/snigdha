@@ -22,27 +22,48 @@ header:
 <div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
 
 
-Yiling Huang, Sarah Pirenne, <b>  <font color=#2B0539>Snigdha Panigrahi</font></b>, and Gerda Claeskens.
+
+
+<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Kevin Fry, and Jonathan Taylor.
+   <b> Exact Selective Inference with Randomization.</b> 2024. Biometrika (Forthcoming) [<a href="https://arxiv.org/abs/2212.12940">arxiv</a>]
+
+<br>
+
+<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jingshen Wang, and Xuming He.
+   <b>Treatment Effect Estimation via Efficient Data Aggregation.</b> 2024.  Bernoulli (Forthcoming) [<a href="https://arxiv.org/abs/2203.12726">arxiv</a>]
+
+<br>
+
+<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Natasha Stewart, Chandra Sripada, and Elizaveta Levina.
+   <b>Selective Inference for Sparse Multitask Regression with Applications in Neuroimaging.</b> 2024.  Annals of Applied Statistics.  [<a href="https://arxiv.org/abs/2205.14220">arxiv</a>]  [<a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-1/Selective-inference-for-sparse-multitask-regression-with-applications-in-neuroimaging/10.1214/23-AOAS1796.short">publication</a>]
+   
+<br>
+
+
+Yiling Huang, <b> <font color=#2B0539>Snigdha Panigrahi</font></b>, and Walter Dempsey.
+   <b>Selective Inference for Sparse Graphs via Neighborhood Selection.</b> 2023.  [<a href="https://arxiv.org/pdf/2312.16734.pdf">arxiv</a>]
+   
+<br>
+
+Yiling Huang, Sarah Pirenne, <b> <font color=#2B0539>Snigdha Panigrahi</font></b>, and Gerda Claeskens.
    <b>Selective Inference using Randomized Group Lasso Estimators for General Models.</b> 2023.  [<a href="https://aps.arxiv.org/pdf/2306.13829">arxiv</a>]
    
 <br>
 
-<b><font color=#2B0539>Snigdha Panigrahi</font></b>.
-   <b> Carving model-free inference.</b> 2023.  Annals of Statistics (Forthcoming). [<a href="https://arxiv.org/abs/1811.03142">arxiv</a>]
+
+ <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
+   <b> Carving model-free inference.</b> 2023.  Annals of Statistics. [<a href="https://arxiv.org/abs/1811.03142">arxiv</a>]  [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-6/Carving-model-free-inference/10.1214/23-AOS2318.short">publication</a>]
 
 <br>
 
 
-<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Natasha Stewart, Chandra Sripada, and Elizaveta Levina.
-   <b>Selective Inference for Sparse Multitask Regression with Applications in Neuroimaging.</b> 2023.  Annals of Applied Statistics (Forthcoming).  [<a href="https://arxiv.org/abs/2205.14220">arxiv</a>]
-   
-<br>
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Peter W. Macdonald, and Daniel Kessler.
    <b>Approximate Post-Selective Inference for Regression with
-the Group LASSO.</b> 2023. Journal of Machine Learning Research. [<a href="https://arxiv.org/abs/2012.15664">arxiv</a>]
+the Group LASSO.</b> 2023. Journal of Machine Learning Research. [<a href="https://arxiv.org/abs/2012.15664">arxiv</a>] [<a href="https://www.jmlr.org/papers/volume24/21-1186/21-1186.pdf">publication</a>]
 
 <br>
+
 
 
 Sifan Liu and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
@@ -51,18 +72,11 @@ Sifan Liu and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
 <br>
 
 
-<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Kevin Fry, and Jonathan Taylor.
-   <b> Exact Selective Inference with Randomization.</b> 2022. [<a href="https://arxiv.org/abs/2212.12940">arxiv</a>]
-
-<br>
-
-
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Shariq Mohammad, Arvind Rao, and Veerabhadran Baladandayuthapani.
    <b> Integrative Bayesian models using Post-selective Inference: a case study
- in Radiogenomics.</b> 2022. Biometrics (Forthcoming). [<a href="https://arxiv.org/abs/2004.12012">arxiv</a>]
+ in Radiogenomics.</b> 2022. Biometrics. [<a href="https://arxiv.org/abs/2004.12012">arxiv</a>] [<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13740">publication</a>] 
 
 <br>
-
 
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b> and Jonathan Taylor.
@@ -70,10 +84,7 @@ Sifan Liu and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
 
 <br>
 
-<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jingshen Wang, and Xuming He.
-   <b>Treatment Effect Estimation via Efficient Data Aggregation.</b> 2022.  [<a href="https://arxiv.org/abs/2203.12726">arxiv</a>]
 
-<br>
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>,  Jonathan Taylor, and Asaf Weinstein.
     <b>Integrative methods for post-selection inference under convex constraints.</b> 2021. Annals of Statistics. [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>]; [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-5/Integrative-methods-for-post-selection-inference-under-convex-constraints/10.1214/21-AOS2057.short">publication</a>]  
@@ -81,14 +92,13 @@ Sifan Liu and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
 <br>
 
 
-
-  <b><font color=#2B0539>Snigdha Panigrahi</font></b>, <font color=#2B0539>Junjie Zhu, and Chiara Sabatti.</font>
-   <b><font color=#2B0539> Selection-adjusted inference: an application to confidence intervals for cis-eQTL effect sizes.</font></b> <font color=#2B0539>2019. Biostatistics. </font>  [<a href="https://arxiv.org/abs/1801.08686">arxiv</a>];      [<a href="https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxz024/5532132?redirectedFrom=fulltext">publication</a>]
+  <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Junjie Zhu, and Chiara Sabatti.
+   <b> Selection-adjusted inference: an application to confidence intervals for cis-eQTL effect sizes.</b> 2019. Biostatistics.   [<a href="https://arxiv.org/abs/1801.08686">arxiv</a>];      [<a href="https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxz024/5532132?redirectedFrom=fulltext">publication</a>]
 
 <br>
 
 
-<font color=#2B0539>Qingyuan Zhao and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
+Qingyuan Zhao and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
     <b>Selective Inference for Effect Modication: An Empirical Investigation.</b> 2019. Observational Studies: Special issue devoted to ACIC. [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>];  [<a href="https://obsstudies.org/277-2/">publication</a>]
 
 <br>
