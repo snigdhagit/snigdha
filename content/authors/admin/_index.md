@@ -82,7 +82,7 @@ I am an Assistant Professor of Statistics and also hold a courtesy appointment a
 
 <br>
 
-In the past, my work has been supported by the [National Science Foundation](https://new.nsf.gov/funding/opportunities/statistics), and my current research is partly supported by both the National Science Foundation (**NSF-DMS** 1951980, **NSF-DMS** 2113342) and the [National Institutes of Health](https://www.nigms.nih.gov).
+In the past, my work has been supported by the [National Science Foundation](https://new.nsf.gov/funding/opportunities/statistics) (**NSF-DMS** 1951980), and my current research is partly supported by both the National Science Foundation (**NSF-DMS** 2113342) and the [National Institutes of Health](https://www.nigms.nih.gov).
 
 <br>
 
