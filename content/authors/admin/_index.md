@@ -78,12 +78,16 @@ email: ""
 
 <br>
 
-I am an Assistant Professor of Statistics and also hold a courtesy appointment at the Department of Biostatistics. My work involves developing tools for replicable learning from complex data, with a special focus on quantifying uncertainties in outputs from machine learning methods. In the past, my work has been supported by the National Science Foundation (https://new.nsf.gov/funding/opportunities/statistics), and my current research is partly supported by both the National Science Foundation (**NSF-DMS** 1951980, **NSF-DMS** 2113342) and the [National Institutes of Health](https://www.nigms.nih.gov).
+I am an Assistant Professor of Statistics and also hold a courtesy appointment at the Department of Biostatistics. My work involves developing tools for replicable learning from complex data, with a special focus on quantifying uncertainties in outputs from machine learning methods. 
+
+<br>
+
+In the past, my work has been supported by the National Science Foundation (https://new.nsf.gov/funding/opportunities/statistics), and my current research is partly supported by both the National Science Foundation (**NSF-DMS** 1951980, **NSF-DMS** 2113342) and the [National Institutes of Health](https://www.nigms.nih.gov).
 
 <br>
 
 I have been serving as a member of the editorial board for the [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/toc/ucgs20/current) and as an elected member of the [International Statistical Institute](https://www.isi-web.org) since 2021.
 
-
+<br>
 
 
