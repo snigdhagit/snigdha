@@ -80,9 +80,9 @@ subtitle = ""
 
 <br>
 
-#[<font size="+2">Structure aware inference anchored in data-assisted learning </font>]({{< ref "/people/_index.md" >}})
+<!--[<font size="+2">Structure aware inference anchored in data-assisted learning </font>]({{< ref "/people/_index.md" >}}) -->
 <font size="+2">Selective Inference </font>
-#({{< ref "/people/_index.md" >}})
+<!--#({{< ref "/people/_index.md" >}})-->
 
 
 
