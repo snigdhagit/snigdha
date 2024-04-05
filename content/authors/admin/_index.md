@@ -78,25 +78,25 @@ email: ""
 
 <br>
 
+I am an Assistant Professor of Statistics at the *University of Michigan* and also hold a courtesy appointment at the Department of Biostatistics. My work involves developing tools for replicable learning from complex data, with a special focus on quantifying uncertainties in outputs from machine learning methods.
 
-
-I am a statistician with wide-ranging interests, directed towards understanding big, diverse and complex data. Before joining the *University of Michigan* in 2018, I completed my doctoral thesis at *Stanford University* with [Jonathan Taylor](http://statweb.stanford.edu/~jtaylo/) in the same year.  
-
-<br>
-
-
-
-Broadly, my work explores the potential of new methodology at the intersections of machine learning, probabilistic modeling, statistical inference and genomics. A special emphasis is on reconciling between inferential coherence and adaptive modeling of data--- a confrontation inevitable with the richness and scale of modern data analyses. I delivered a tutorial on the recent advances in this very evolving field of research at the Simons Institute for the Theory of Computing in 2018;  [Tutorial-I](https://www.youtube.com/watch?v=qofrkW-DL7c), [Tutorial-II](https://www.youtube.com/watch?v=rGHf6BPeqBg). I gratefully acknowledge support through **NSF-DMS** 1951980 and **NSF-DMS** 2113342 for some of my current investigations.
+%I am a statistician with wide-ranging interests, directed towards understanding big, diverse and complex data. Before joining the *University of Michigan* in 2018, I completed my doctoral thesis at *Stanford University* with [Jonathan Taylor](http://statweb.stanford.edu/~jtaylo/) in the same year.  
 
 <br>
 
+I gratefully acknowledge support from the [National Science Foundation](https://new.nsf.gov/funding/opportunities/statistics) (**NSF-DMS** 1951980, **NSF-DMS** 2113342) and the [National Institutes of Health](https://www.nigms.nih.gov). I have served as an associate editor for the [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/toc/ucgs20/current) and an elected member of the International Statistical Institute since 2021.
+
+%Broadly, my work explores the potential of new methodology at the intersections of machine learning, probabilistic modeling, statistical inference and genomics. A special emphasis is on reconciling between inferential coherence and adaptive modeling of data--- a confrontation inevitable with the richness and scale of modern data analyses. I delivered a tutorial on the recent advances in this very evolving field of research at the Simons Institute for the Theory of Computing in 2018;  [Tutorial-I](https://www.youtube.com/watch?v=qofrkW-DL7c), [Tutorial-II](https://www.youtube.com/watch?v=rGHf6BPeqBg). I gratefully acknowledge support through **NSF-DMS** 1951980 and **NSF-DMS** 2113342 for some of my current investigations.
+
+%<br>
 
 
-In my pursuit of **scalable**--**interpretable**--**reproducible** methods, I greatly enjoy interdisciplinary and exciting collaborations. Some of my recent work with multidisciplinary teams of data scientists are listed here; [Projects]({{< ref "/projects/_index.md" >}}).
+
+%In my pursuit of **scalable**--**interpretable**--**reproducible** methods, I greatly enjoy interdisciplinary and exciting collaborations. Some of my recent work with multidisciplinary teams of data scientists are listed here; [Projects]({{< ref "/projects/_index.md" >}}).
 
 
 
-<br>
+%<br>
 
 
 
