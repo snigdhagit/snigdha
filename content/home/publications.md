@@ -80,12 +80,15 @@ subtitle = ""
 
 <div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
 
+Yumeng Wang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Xuming He.
+   <b> Asymptotically-exact selective inference for quantile regression.</b> 2024. [<a href="https://arxiv.org/pdf/2404.03059v1.pdf">arxiv</a>]
+
+<br>
+
 Ronan Perry, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jacob Bien, and Daniela Witten.
    <b> Inference on the proportion of variance explained in principal component analysis.</b> 2024. [<a href="https://arxiv.org/abs/2402.16725">arxiv</a>]
 
 <br>
-
-
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Kevin Fry, and Jonathan Taylor.
    <b> Exact Selective Inference with Randomization.</b> 2024. Biometrika (Forthcoming) [<a href="https://arxiv.org/abs/2212.12940">arxiv</a>]
