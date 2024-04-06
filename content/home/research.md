@@ -83,7 +83,7 @@ subtitle = ""
 <!--[<font size="+2">Structure aware inference anchored in data-assisted learning </font>]({{< ref "/people/_index.md" >}}) -->
 <!--#({{< ref "/people/_index.md" >}})-->
 
-<font size="+2">Selective inference </font>
+<font size="+2"><b><span style="color: #00008B">Selective inference/ Post-selection inference</span></b></font>
 
 
 <!-- <div style="width: 400px; float:left; height:300px;"> 
