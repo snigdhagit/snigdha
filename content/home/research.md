@@ -83,7 +83,7 @@ subtitle = ""
 <!--[<font size="+2">Structure aware inference anchored in data-assisted learning </font>]({{< ref "/people/_index.md" >}}) -->
 <!--#({{< ref "/people/_index.md" >}})-->
 
-<font size="+2">Selective Inference </font>
+<font size="+2">Selective inference </font>
 
 
 <!-- <div style="width: 400px; float:left; height:300px;"> 
@@ -91,7 +91,9 @@ subtitle = ""
 </div>-->
 
 
- <div class="alert" style="width: 700px; float:left; height:280px"> <p>An overarching focus is geared towards prudently resuing data in order to exploit complex patterns in big data for reproducible modeling and inferential reportings with meaning. My recent activities draw direct motivation from how massive structured data is collected, stored and deployed in realistic pipelines. Specifically, methods dubbed as <b ><span style="color: #00008B">carving  offer a data-efficient way out </span></b> when adaptive inference must be updated upon the availability of fresh samples or the arrival of a new dataset. Proposals investigating mathematical properties and computational algorithms around data carving are <b><span style="color: #00008B">highlighted in blue</span></b>.</p> </div> 
+<!-- <div class="alert" style="width: 700px; float:left; height:280px"> <p> -->
+ 
+ <div class="alert"> <p> An overarching focus is geared towards prudently resuing data in order to exploit complex patterns in big data for reproducible modeling and inferential reportings with meaning. My recent activities draw direct motivation from how massive structured data is collected, stored and deployed in realistic pipelines. Specifically, methods dubbed as <b ><span style="color: #00008B">carving  offer a data-efficient way out </span></b> when adaptive inference must be updated upon the availability of fresh samples or the arrival of a new dataset. Proposals investigating mathematical properties and computational algorithms around data carving are <b><span style="color: #00008B">highlighted in blue</span></b>.</p> </div> 
 
 
 
