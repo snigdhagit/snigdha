@@ -21,7 +21,10 @@ organizations:
 bio: My research interests include selective inference, multivariate gaussian processes and applications in statistical genomics.
 
 #interests:
+#- Statistical Inference
+#- Non-parametric Statistics
 #- Selective inference
+#- Randomized methods
 #- Path properties of random fields
 #- Statistical genomics
 
@@ -62,9 +65,9 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
