@@ -105,7 +105,7 @@ My recent and ongoing work overcomes these limitations, paving the way for flexi
 </p>
 
 
-<p> <b><span style="color: #00008B">Distribution-free inferences</b>: My work under this theme broadens the scope of selective inferences for various types of data beyond normal data. This includes [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-6/Carving-model-free-inference/10.1214/23-AOS2318.short">asymptotic properties of conditional methods</a>] for a nonparametric family of models, selective inferences for likelihood-based estimation problems using the [<a href="https://aps.arxiv.org/pdf/2306.13829">GLMs</a>] and more general estimation problems such as quasi-likelihood estimation and [<a href="https://arxiv.org/pdf/2404.03059v1.pdf">quantile regression</a>]. 
+<p> <b><span style="color: #00008B">Distribution-free inferences</b>: My work under this theme broadens the scope of selective inferences for various types of data beyond normal data. This includes asymptotic properties of conditional methods for a [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-6/Carving-model-free-inference/10.1214/23-AOS2318.short">nonparametric</a>] family of models, selective inferences for likelihood-based estimation problems using the [<a href="https://aps.arxiv.org/pdf/2306.13829">GLMs</a>] and more general estimation problems such as quasi-likelihood estimation and [<a href="https://arxiv.org/pdf/2404.03059v1.pdf">quantile regression</a>]. 
 </p>
 
 </div> 
