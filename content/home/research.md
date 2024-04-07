@@ -96,7 +96,9 @@ subtitle = ""
  
   <div class="alert"> <p> In analyses where an initial selection has been made based on data, subsequent inferences must be made while accounting for this selection process. Selective inference offers a rigorous statistical framework for making honest inferences after selection. </p>
   
-<p>  Early work in this field was restricted to: (i) using parametric models, such as a Gaussian model, for making inferences, and (ii) addressing selection events with polyhedral shapes. These methods had limitations in efficiently computing selective inferences across different models, handling multiple selections within a single dataset, and computing integrative inferences across multiple datasets. My recent and ongoing work aims to overcome these limitations, paving the way for flexible, tractable, and scalable methods of selective inference.
+<p>  Early work in this field was restricted to: (i) using parametric models, such as a Gaussian model, for making inferences, and (ii) handling selection events with polyhedral shapes. These methods had limitations in efficiently computing selective inferences across different models, handling multiple selections within a single dataset, and computing integrative inferences across multiple datasets. 
+
+My recent and ongoing work overcomes these limitations, paving the way for flexible, tractable, and scalable methods of selective inference.
 </p>
 
 <p> <b><span style="color: #00008B">Beyond polyhedral-shaped selection events</b>: New methods of selective inference have been developed to address selection events that do not have a polyhedral shape or easy descriptions. These advancements have made it possible to perform selective inferences for problems involving the selection of groups of variables, multi-task learning, graph learning, and unsupervised learning.
