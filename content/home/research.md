@@ -109,7 +109,7 @@ My recent and ongoing work overcomes these limitations, paving the way for flexi
 </p>
 
 
-<p> <b><span style="color: #00008B"> </b>:
+<p> <b><span style="color: #00008B"> Tractable and scalable inferences</b>: My work develops: (i) sampling methods, leveraging the benefits of the  [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-5/Integrative-methods-for-post-selection-inference-under-convex-constraints/10.1214/21-AOS2057.short">Bayesian</a>]  machinery, (ii) probabilistic [<a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2081575">approximation</a>] techniques that bypass sampling or resampling from data and instead rely on convex optimization techniques, (iii) [<a href="https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asae019/7639974">exact</a>]  methods for polyhedral-shaped selection events. 
 </p>
 
 
