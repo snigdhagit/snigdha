@@ -104,6 +104,10 @@ My recent and ongoing work overcomes these limitations, paving the way for flexi
 <p> <b><span style="color: #00008B">Beyond polyhedral-shaped selection events</b>: New methods of selective inference have been developed to address selection events that do not have a polyhedral shape or easy descriptions. These advancements have made it possible to perform selective inferences for problems involving the selection of [<a href="https://www.jmlr.org/papers/volume24/21-1186/21-1186.pdf">groups of variables</a>],  [<a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-1/Selective-inference-for-sparse-multitask-regression-with-applications-in-neuroimaging/10.1214/23-AOAS1796.short">multi-task learning</a>],  [<a href="https://arxiv.org/pdf/2312.16734.pdf">graph learning</a>], and unsupervised learning such as the [<a href="https://arxiv.org/abs/2402.16725">PCA</a>].
 </p>
 
+
+<p> <b><span style="color: #00008B">Distribution-free inferences</b>: My work under this theme broadens the scope of selective inferences for various types of data beyond normal data. This includes [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-6/Carving-model-free-inference/10.1214/23-AOS2318.short">asymptotic properties of conditional methods</a>] for a nonparametric family of models, selective inferences for likelihood-based estimation problems using the [<a href="https://aps.arxiv.org/pdf/2306.13829">GLMs</a>] and more general estimation problems such as quasi-likelihood estimation and [<a href="https://arxiv.org/pdf/2404.03059v1.pdf">quantile regression</a>]. 
+</p>
+
 </div> 
 
 
