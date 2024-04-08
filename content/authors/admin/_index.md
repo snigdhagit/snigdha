@@ -81,7 +81,7 @@ email: ""
 
 <br>
 
-I am an Assistant Professor of Statistics and also hold a courtesy appointment at the Department of Biostatistics. My work involves developing tools for replicable learning and inferences from complex data, with a special focus on quantifying uncertainties in outputs from machine learning methods. 
+I am an Assistant Professor of Statistics and also hold a courtesy appointment at the Department of Biostatistics. My work involves developing tools for replicable learning from complex data, with a special focus on quantifying uncertainties in outputs from machine learning methods. 
 
 <br>
 
