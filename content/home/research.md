@@ -94,9 +94,7 @@ subtitle = ""
 <!-- <div class="alert" style="width: 700px; float:left; height:280px"> <p> An overarching focus is geared towards prudently resuing data in order to exploit complex patterns in big data for reproducible modeling and inferential reportings with meaning. My recent activities draw direct motivation from how massive structured data is collected, stored and deployed in realistic pipelines. Specifically, methods dubbed as <b ><span style="color: #00008B">carving  offer a data-efficient way out </span></b> when adaptive inference must be updated upon the availability of fresh samples or the arrival of a new dataset. Proposals investigating mathematical properties and computational algorithms around data carving are <b><span style="color: #00008B">highlighted in blue</span></b>.</p> </div> -->
  
  
-  <div class="alert"> <p>Selective inference offers a rigorous statistical framework for making honest inferences post selection. </p>
-  
-<p>  Early work in this field was restricted to: (i) using parametric models, such as a Gaussian model, for making inferences, and (ii) handling selection events with polyhedral shapes. These methods had limitations in efficiently computing selective inferences across different models, handling multiple selections within a single dataset, and computing integrative inferences across multiple datasets. 
+  <div class="alert"> <p>Selective inference offers a rigorous statistical framework for making honest inferences post selection. Early work in this field was restricted to: (i) using parametric models, such as a Gaussian model, for making inferences, and (ii) handling selection events with polyhedral shapes. These methods had limitations in efficiently computing selective inferences across different models, handling multiple selections within a single dataset, and computing integrative inferences across multiple datasets. 
 
 My recent and ongoing work overcomes these limitations, paving the way for flexible, tractable, and scalable methods of selective inference.
 </p>
