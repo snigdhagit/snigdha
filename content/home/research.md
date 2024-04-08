@@ -103,6 +103,9 @@ My recent and ongoing work overcomes these limitations, paving the way for flexi
 
 </div> 
 
+<div class="popup" onclick="myFunction()">Click me!
+  <span class="popuptext" id="myPopup">Popup text...</span>
+</div>
 
 
 <div> <p>
