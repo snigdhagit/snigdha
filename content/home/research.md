@@ -101,6 +101,12 @@ subtitle = ""
 My recent and ongoing work overcomes these limitations, paving the way for flexible, tractable, and scalable methods of selective inference.
 </p>
 
+</div> 
+
+
+
+<div> <p>
+ 
 <p> <b><span style="color: #00008B">Beyond polyhedral-shaped selection events</b>: New methods of selective inference have been developed to address selection events that do not have a polyhedral shape or easy descriptions. These advancements have made it possible to perform selective inferences for problems involving the selection of [<a href="https://www.jmlr.org/papers/volume24/21-1186/21-1186.pdf">groups of variables</a>],  [<a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-1/Selective-inference-for-sparse-multitask-regression-with-applications-in-neuroimaging/10.1214/23-AOAS1796.short">multi-task learning</a>],  [<a href="https://arxiv.org/pdf/2312.16734.pdf">graph learning</a>], and unsupervised learning such as the [<a href="https://arxiv.org/abs/2402.16725">PCA</a>].
 </p>
 
