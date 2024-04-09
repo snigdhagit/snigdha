@@ -96,7 +96,7 @@ subtitle = ""
  
   <div class="alert"> <p>Selective inference offers a rigorous statistical framework for making honest inferences post selection. Early work in this field was restricted to: (i) using parametric models, such as a Gaussian model, for making inferences, and (ii) handling selection events with polyhedral shapes. These methods had limitations in computing selective inferences in different types of models and handling multiple selections on one dataset, which frequently occurs in practice.
 
-My recent and ongoing work overcomes these limitations, paving the way for flexible, tractable, and scalable methods of selective inference. Here are some main highlights.
+My recent and ongoing work overcomes these limitations, paving the way for flexible, tractable, and scalable methods of selective inference. Here are some main themes of research.
 </p>
 
 <body>
