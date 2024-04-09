@@ -102,6 +102,13 @@ My recent and ongoing work overcomes these limitations, paving the way for flexi
 </div> 
 
 
+<body>
+  <p>This is the main content. To display a lightbox click <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'">here</a>
+  </p>
+  <div id="light" class="white_content">This is the lightbox content. <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'">Close</a>
+  </div>
+  <div id="fade" class="black_overlay"></div>
+</body>
 
 <div> <p>
  
