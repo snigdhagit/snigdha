@@ -94,38 +94,8 @@ subtitle = ""
 <!-- <div class="alert" style="width: 700px; float:left; height:280px"> <p> An overarching focus is geared towards prudently resuing data in order to exploit complex patterns in big data for reproducible modeling and inferential reportings with meaning. My recent activities draw direct motivation from how massive structured data is collected, stored and deployed in realistic pipelines. Specifically, methods dubbed as <b ><span style="color: #00008B">carving  offer a data-efficient way out </span></b> when adaptive inference must be updated upon the availability of fresh samples or the arrival of a new dataset. Proposals investigating mathematical properties and computational algorithms around data carving are <b><span style="color: #00008B">highlighted in blue</span></b>.</p> </div> -->
  
  
- 
- 
- 
- .black_overlay {
-  display: none;
-  position: absolute;
-  top: 0%;
-  left: 0%;
-  width: 100%;
-  height: 100%;
-  background-color: black;
-  z-index: 1001;
-  -moz-opacity: 0.8;
-  opacity: .80;
-  filter: alpha(opacity=80);
-}
-.white_content {
-  display: none;
-  position: absolute;
-  top: 25%;
-  left: 25%;
-  width: 50%;
-  height: 50%;
-  padding: 16px;
-  border: 16px solid orange;
-  background-color: white;
-  z-index: 1002;
-  overflow: auto;
-}
-
- 
-  <div class="alert"> <p>Selective inference offers a rigorous statistical framework for making honest inferences post selection. Early work in this field was restricted to: (i) using parametric models, such as a Gaussian model, for making inferences, and (ii) handling selection events with polyhedral shapes. These methods had limitations in computing selective inferences in different types of models and handling multiple selections on one dataset, which frequently occurs in practice.
+  
+ <div class="alert"> <p>Selective inference offers a rigorous statistical framework for making honest inferences post selection. Early work in this field was restricted to: (i) using parametric models, such as a Gaussian model, for making inferences, and (ii) handling selection events with polyhedral shapes. These methods had limitations in computing selective inferences in different types of models and handling multiple selections on one dataset, which frequently occurs in practice.
 
 My recent and ongoing work overcomes these limitations, paving the way for flexible, tractable, and scalable methods of selective inference. Here are some main themes of research.
 </p>
