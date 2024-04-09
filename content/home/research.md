@@ -114,7 +114,7 @@ My recent and ongoing work overcomes these limitations, paving the way for flexi
 
 <html>
 <body>
-  <p><b><span style="color: #00008B"> Distribution-free inferences</b>: click <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'">here</a>
+  <p><b><span style="color: #00008B"> Distribution-free inferences</b>: click <a href="javascript:void(1)" onclick="document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'">here</a>
   </p>
   <div id="light" class="white_content">My work under this theme broadens the scope of selective inferences beyond normal data. This includes asymptotic properties of conditional methods for a [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-6/Carving-model-free-inference/10.1214/23-AOS2318.short">nonparametric</a>] family of models, selective inferences for likelihood-based estimation problems using the [<a href="https://aps.arxiv.org/pdf/2306.13829">GLMs</a>] and more general estimation problems such as quasi-likelihood estimation and [<a href="https://arxiv.org/pdf/2404.03059v1.pdf">quantile regression</a>]. <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'">Close</a>
   </div>
@@ -126,7 +126,7 @@ My recent and ongoing work overcomes these limitations, paving the way for flexi
 
 <html>
 <body>
-  <p><b><span style="color: #00008B"> Tractable and scalable inferences</b>: click <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'">here</a>
+  <p><b><span style="color: #00008B"> Tractable and scalable inferences</b>: click <a href="javascript:void(2)" onclick="document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'">here</a>
   </p>
   <div id="light" class="white_content">My work develops: (i) sampling methods, leveraging the benefits of the  [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-5/Integrative-methods-for-post-selection-inference-under-convex-constraints/10.1214/21-AOS2057.short">Bayesian</a>]  machinery, (ii) probabilistic [<a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2081575">approximation</a>] techniques that bypass sampling or resampling from data and instead rely on convex optimization techniques, (iii) [<a href="https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asae019/7639974">exact</a>]  methods for polyhedral-shaped selection events.  <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'">Close</a>
   </div>
