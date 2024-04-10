@@ -112,6 +112,12 @@ subtitle = ""
   <div id="fade" class="black_overlay">
   </div>
 
+
+
+
+
+
+
 <div style="clear: both;"></div>
 
 <font size="+2"><b><span style="color: #00008B">Data aggregation and integration</span></b></font>
@@ -148,47 +154,19 @@ subtitle = ""
 
 
 
+<div style="clear: both;"></div>
 
+<font size="+2"><b><span style="color: #00008B">Scientific applications</span></b></font>
+  
+ <div class="alert"> 
+ <p>
+My research finds applications in various scientific fields, specifically in the development of replicable inferential pipelines. This gives me an opportunity to collaborate with data scientists from diverse fields. 
 
+</p>
 
-<div style="clear: both;"></div><br>
-
-
-
-<!--[<font size="+2">Interdisciplinary investigations in data science </font>]({{< ref "/projects/_index.md" >}})
-
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
-<style>
-.alert {
-  padding: 20px;
-  background-color: #F5EEF8;
-  color: #091f29;
-  }
-
-
-
-  .closebtn {
-  margin-left: 15px;
-  color: white;
-  font-weight: bold;
-  float: right;
-  font-size: 22px;
-  line-height: 20px;
-  cursor: pointer;
-  transition: 0.3s;
-}
-
-.closebtn:hover {
-  color: black;
-}
-</style>
-</head>
-
-<div style="width: 300px; float:left; height:250px;">
-  {{<figure library="true" src="effect_sizes.png" height="250px" width="300px" style="float: left; margin: 0px 0px 0px 0px; border: 0px solid #000000;">}}
-</div> <div class="alert" style="width: 730px; float:left; height:230px"> <p>Multidisciplinary projects with a specific focus on statistical genomics are explored under this theme. These projects are due to collaborative efforts, which are largely not confined to walls of my home department. Identification of biological underpinnings, assessing accurately their uncertainties in data-mined models and efficiently consolidating confirmatory reports in integrative domains define some my active interests here.</p> </div> 
--->
+<body>
+Click <a href="javascript:void(0)" onclick="document.getElementById('light0').style.display='block';document.getElementById('fade0').style.display='block'"><b><span style="color: #00008B">HERE</b></a> fto see the <b><span style="color: #00008B">practical applications</b> of my methodology in various domains. Some of my current efforts are directed toward developing honest inferences and enabling reliable decision-making in mobile health data.
+</div>
 
 
 
@@ -196,8 +174,11 @@ subtitle = ""
 
 
 
-<div style="clear: both;"></div><br>
-   
+
+
+
+
+
 
 
 
