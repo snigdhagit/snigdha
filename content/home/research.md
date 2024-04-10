@@ -112,7 +112,7 @@ subtitle = ""
   <div id="fade" class="black_overlay">
   </div>
 
-
+<div style="clear: both;"></div>
 
 <font size="+2"><b><span style="color: #00008B">Data aggregation and integration</span></b></font>
   
