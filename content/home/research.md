@@ -136,7 +136,7 @@ subtitle = ""
   
  <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'"><b><span style="color: #00008B"><u> CLOSE </u></b></a>
   </div>
-  <div id="fade" class="black_overlay">
+  <div id="fade0" class="black_overlay">
   </div>
 
 
