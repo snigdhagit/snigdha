@@ -118,7 +118,7 @@ subtitle = ""
   
  <div class="alert"> 
  <p>
- My work utilizes a new randomization-based framework for aggregating and integrating information from large datasets. This has led to the development of high-dimensional methods for drawing inferences from distributed data, conducting efficient meta-analyses, and inferring from models integrated over different modalities of information. 
+ My work has introduced a new randomization-based framework for aggregating and integrating information from large datasets. This has led to the development of high-dimensional methods for drawing inferences from distributed data, conducting efficient meta-analyses, and inferring from models integrated over different modalities of information. 
 
 </p>
 
