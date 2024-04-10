@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Graduate Level Course - Core course on regression for the Statistics Ph.D. program"
   company_url = ""
   location = ""
-  date_start = ""
+  date_start = "2020-08-30"
   date_end = ""
   description = """This course was offered in Fall 2020, Fall 2022 and Fall 2023.
 
