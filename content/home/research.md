@@ -101,7 +101,7 @@ subtitle = ""
 
 
 <body>
-  <p>Most notably, methods have been developed that: (i) can handle selection events that do not have a polyhedral shape or even straightforward descriptions; (ii) provide distribution-free inferences for different types of data, rather than relying on specific parametric models such as Gaussian models; (iii) yield easy-to-solve selective inferences in both a Bayesian and frequentist framework. </p>Click <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'"><b><span style="color: #00008B">here</b></a> to read about some of the main <b><span style="color: #00008B">research highlights.
+  <p>Most notably, methods have been developed that: (i) can handle selection events that do not have a polyhedral shape or even straightforward descriptions; (ii) provide distribution-free inferences for different types of data, rather than relying on specific parametric models such as Gaussian models; (iii) yield easy-to-solve selective inferences in both a Bayesian and frequentist framework. </p>Click <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'"><b><span style="color: #00008B">HERE</b></a> for some of the main <b><span style="color: #00008B">research highlights.
   </b>
   
   <div id="light" class="white_content">
