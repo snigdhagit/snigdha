@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Graduate Level Course - Core class for the first year Ph.D. program"
   company_url = ""
   location = ""
-  date_start = "2020-08-31"
+  date_start = "2020"
   date_end = ""
   description = """The course covers the following topics.
 
