@@ -28,25 +28,20 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "STATS 605 - Statistical methods for Adaptive Data Analysis"
-  company = "Special Topics Course - Advanced class for Ph.D. program"
+  company = "Special Topics Course for PhD students"
   company_url = ""
-  location = "Offered previously - Winter 2019-20. "
+  location = " "
   date_start = "2019-01-08"
   date_end = "2019-04-30"
-  description = """This course is centered around modern topics in selective inference.
-
-  * **Relevance of selective inference in a modern scientific realm** : Distinguishing between exploratory and confirmatory statistics, we will discuss the notions of Family wise error rate and False Discovery rate.
-  * **Is a statistician's job done after exploratory analyses once we report a (principled) list of potential discoveries?** : We will visit two main approaches in the modern literature, a simultaneous take and a conditional take to selective inferential problems after introducing the false coverage rate control.
-  * **What if we collect new data? After all, science is iterative in nature!** : A realistic pipeline in science proceeds via multiple complicated steps and calibrates the next steps in the pipeline based upon previous results. We will look at new methods to combine fresh data with previously collected data for powerful inference.
-  * **Powerful science redefined through integrative analyses** : Distributed computing environments, multiple data sources playing diverse roles in a pipeline etc. are part of this discourse. We will think of tools in order to adapt to this emerging class of problems. """
+  description = """This course focused on modern topics in selective inference. """
 
 [[experience]]
   title = "STATS 280 - Honors Introduction to Statistics & Data Analysis"
   company = "Lower-level Undergraduate Course for Honors Students "
   company_url = ""
-  location = "Offered previously - Fall 2018-19, Fall 2019-20"
+  location = ""
   date_start = "2018-08-30"
-  date_end = ""
+  date_end = "2022-12-15"
   description = """ I have taught this course in the Fall semesters of 2018, 2019, 2020, 2022."""
 
 +++
