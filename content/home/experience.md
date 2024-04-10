@@ -17,6 +17,16 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "STATS 415 - Data Mining and Machine Learning"
+  company = "Upper-level Undergraduate Course"
+  company_url = ""
+  location = ""
+  date_start = "2024-01-08"
+  date_end = ""
+  description = """I have taught this course in the Winter semester of 2024."""
+  
 [[experience]]
   title = "STATS 600 - Linear Models"
   company = "Graduate Level Course - Core course on regression for the Statistics Ph.D. program"
@@ -24,7 +34,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2020-08-30"
   date_end = ""
-  description = """I have taught this course in the Fall semesters of 2020, 2022 and Fall 2023."""
+  description = """I taught this course in the Fall semesters of 2020, 2022 and Fall 2023."""
 
 [[experience]]
   title = "STATS 605 - Statistical methods for Adaptive Data Analysis"
@@ -42,6 +52,6 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2018-08-30"
   date_end = "2022-12-15"
-  description = """ I have taught this course in the Fall semesters of 2018, 2019, 2020, 2022."""
+  description = """ I taught this course in the Fall semesters of 2018, 2019, 2020, 2022."""
 
 +++
