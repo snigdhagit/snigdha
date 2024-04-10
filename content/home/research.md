@@ -165,7 +165,7 @@ My research finds applications in various scientific fields, specifically in the
 </p>
 
 <body>
-Click <a href="javascript:void(0)" onclick="document.getElementById('light1').style.display='block';document.getElementById('fade1').style.display='block'"><b><span style="color: #00008B">HERE</b></a> fto see the <b><span style="color: #00008B">practical applications</b> of my methodology in various domains. 
+Click <a href="javascript:void(0)" onclick="document.getElementById('light1').style.display='block';document.getElementById('fade1').style.display='block'"><b><span style="color: #00008B">HERE</b></a> to find some of the <b><span style="color: #00008B">practical applications</b> of my methodology in various domains. 
 </div>
 
 
