@@ -129,7 +129,7 @@ subtitle = ""
 
 
 
-<div id="light" class="white_content">
+<div id="light0" class="white_content">
  <br>
  <p><b><span style="color: #00008B"> Large-scale estimation from data</b>:  My work enables the integration of low-dimensional summary statistics from many large datasets for [<a href="https://arxiv.org/abs/2203.12726">unbiased estimation</a>] and [<a href="https://arxiv.org/abs/2301.06162">large-scale inferences</a>].  Besides data aggregation, I also develop methods that allow for inferences in data-adaptive integrative models. These models combine various types of data, such as imaging and genomics, to model clinical outcomes in  [<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13740">cancer</a>] patients.
  </p>
