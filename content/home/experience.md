@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = " "
   date_start = "2019-01-08"
   date_end = "2019-04-30"
-  description = """This course focused on modern topics in selective inference. """
+  description = """I designed and taught this course in 2019 to cover contemporary topics in adaptive data analysis and selective inference. """
 
 [[experience]]
   title = "STATS 280 - Honors Introduction to Statistics & Data Analysis"
