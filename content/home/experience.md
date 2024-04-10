@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2020-08-30"
   date_end = ""
-  description = """This course was offered in Fall 2020, Fall 2022 and Fall 2023."""
+  description = """I have taught this course in the Fall semesters of 2020, 2022 and Fall 2023."""
 
 [[experience]]
   title = "STATS 605 - Statistical methods for Adaptive Data Analysis"
@@ -42,20 +42,11 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "STATS 280 - Honors Introduction to Statistics & Data Analysis"
-  company = "Lower-level Undergraduate Course"
+  company = "Lower-level Undergraduate Course for Honors Students "
   company_url = ""
   location = "Offered previously - Fall 2018-19, Fall 2019-20"
-  date_start = "2020-08-31"
+  date_start = "2018-08-30"
   date_end = ""
-  description = """The course is co-taught in the Winter semesters (and is largely developed) by [Johann Gagnon-Bartsch](https://dept.stat.lsa.umich.edu/~johanngb/#Home).  The course is organized as the following main topics. 
-
-  * Summarizing data: Histograms, Boxplots etc.,  Measures of location and spread
-  * Randomized experiments, Observational studies and Confounding
-  * Measures of Association, Regression and Regression Fallacy
-  * Probability basics, rules and examples
-  * Random Variables and Discrete probability distributions: Expectation, Covariance and Standard Errors
-  * Law of Large Numbers and Normal approximation to sums, Box models
-  * Inference: Confidence intervals, Hypothesis testing: Z-test and T-test
-  * Prediction: Bias-Variance tradeoff, Cross-validation, In-sample and out-of-sample errors, Multiple regression, Logistic regression."""
+  description = """ I have taught this course in the Fall semesters of 2018, 2019, 2020, 2022."""
 
 +++
