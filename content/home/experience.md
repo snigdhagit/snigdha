@@ -19,18 +19,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "STATS 600 - Linear Models"
-  company = "Graduate Level Course - Core class for the first year Ph.D. program"
+  company = "Graduate Level Course - Core course on regression for the Statistics Ph.D. program"
   company_url = ""
   location = ""
-  date_start = "2020"
+  date_start = ""
   date_end = ""
-  description = """The course covers the following topics.
+  description = """This course was offered in Fall 2020, Fall 2022 and Fall 2023.
 
-  * A comprehensive treatment of linear models for independent observations using least squares estimation, including both simple and multiple regression
-  * Some regression methods for dependent data
-  * Automated variable selection algorithms from a competing class of linear models such as L-1 and L-2 penalized algorithms
-  * Permutation tests and bootstrapped regression methods
-  * Challenges from a modern regression (learning) perspective: multiple comparisons, multiple testing and inference post selection. """
+#  * A comprehensive treatment of linear models for independent observations using least squares estimation, including both simple and multiple regression
+#  * Some regression methods for dependent data
+#  * Automated variable selection algorithms from a competing class of linear models such as L-1 and L-2 penalized algorithms
+#  * Permutation tests and bootstrapped regression methods
+#  * Challenges from a modern regression (learning) perspective: multiple comparisons, multiple testing and inference post selection. """
 
 [[experience]]
   title = "STATS 605 - Statistical methods for Adaptive Data Analysis"
