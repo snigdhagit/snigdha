@@ -117,9 +117,9 @@ subtitle = ""
 
 <font size="+2"><b><span style="color: #00008B">Data aggregation and integration</span></b></font>
   
- <div class="alert", background-color: #F5EEF8; color: #091f29> 
+ <div class="alert"> 
  <p>
- My work develops new estimation tools that use randomization to aggregate and integrate information from large datasets. This has led to the development of high-dimensional methods for drawing inferences from distributed data, conducting efficient meta-analyses, and inferring from models integrated over different modalities of information. 
+ My work utilizes a new randomization-based framework for aggregating and integrating information from large datasets. This has led to the development of high-dimensional methods for drawing inferences from distributed data, conducting efficient meta-analyses, and inferring from models integrated over different modalities of information. 
 
 </p>
 
