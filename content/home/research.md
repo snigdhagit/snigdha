@@ -147,7 +147,7 @@ subtitle = ""
 
 
 
-<! --[<font size="+2">Interdisciplinary investigations in data science </font>]({{< ref "/projects/_index.md" >}})
+<!--[<font size="+2">Interdisciplinary investigations in data science </font>]({{< ref "/projects/_index.md" >}})
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
@@ -179,7 +179,8 @@ subtitle = ""
 
 <div style="width: 300px; float:left; height:250px;">
   {{<figure library="true" src="effect_sizes.png" height="250px" width="300px" style="float: left; margin: 0px 0px 0px 0px; border: 0px solid #000000;">}}
-</div> <div class="alert" style="width: 730px; float:left; height:230px"> <p>Multidisciplinary projects with a specific focus on statistical genomics are explored under this theme. These projects are due to collaborative efforts, which are largely not confined to walls of my home department. Identification of biological underpinnings, assessing accurately their uncertainties in data-mined models and efficiently consolidating confirmatory reports in integrative domains define some my active interests here.</p> </div> -->
+</div> <div class="alert" style="width: 730px; float:left; height:230px"> <p>Multidisciplinary projects with a specific focus on statistical genomics are explored under this theme. These projects are due to collaborative efforts, which are largely not confined to walls of my home department. Identification of biological underpinnings, assessing accurately their uncertainties in data-mined models and efficiently consolidating confirmatory reports in integrative domains define some my active interests here.</p> </div> 
+-->
 
 
 
