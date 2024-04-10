@@ -123,7 +123,7 @@ subtitle = ""
 </p>
 
 <body>
- Click <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'"><b><span style="color: #00008B">HERE</b></a> for some of the main <b><span style="color: #00008B">research highlights.</b>
+ Click <a href="javascript:void(0)" onclick="document.getElementById('light0').style.display='block';document.getElementById('fade0').style.display='block'"><b><span style="color: #00008B">HERE</b></a> for some of the main <b><span style="color: #00008B">research highlights.</b>
 </div>
 
 
