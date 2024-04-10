@@ -165,10 +165,23 @@ My research finds applications in various scientific fields, specifically in the
 </p>
 
 <body>
-Click <a href="javascript:void(0)" onclick="document.getElementById('light0').style.display='block';document.getElementById('fade0').style.display='block'"><b><span style="color: #00008B">HERE</b></a> fto see the <b><span style="color: #00008B">practical applications</b> of my methodology in various domains. Some of my current efforts are directed toward developing honest inferences and enabling reliable decision-making in mobile health data.
+Click <a href="javascript:void(0)" onclick="document.getElementById('light1').style.display='block';document.getElementById('fade1').style.display='block'"><b><span style="color: #00008B">HERE</b></a> fto see the <b><span style="color: #00008B">practical applications</b> of my methodology in various domains. 
 </div>
 
 
+<div id="light1" class="white_content1">
+ <br>
+ <p><b><span style="color: #00008B"> Applications</b>:  The applications of my work have included analyzing data from [<a href="https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxz024/5532132?redirectedFrom=fulltext">genomics</a>], [<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13740">imaging</a>], [<a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-1/Selective-inference-for-sparse-multitask-regression-with-applications-in-neuroimaging/10.1214/23-AOAS1796.short">neuroimaging</a>], and [<a href="https://arxiv.org/pdf/2312.16734.pdf">health trials</a>]. 
+ </p>
+  
+  <p>
+  Some of my current efforts are directed toward developing honest inferences and enabling reliable decision-making in mobile health trials. I have an ongoing collaboration with the National Institutes of Health to understand malaria serology.
+  </p>
+  
+ <a href="javascript:void(0)" onclick="document.getElementById('light1').style.display='none';document.getElementById('fade1').style.display='none'"><b><span style="color: #00008B"><u> CLOSE </u></b></a>
+  </div>
+  <div id="fade0" class="black_overlay0">
+  </div>
 
 
 
