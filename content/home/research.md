@@ -191,6 +191,24 @@ Click <a href="javascript:void(0)" onclick="document.getElementById('light1').st
 
 
 
+<div style="clear: both;"></div>
+
+<font size="+2"><b><span style="color: #00008B">Miscellaneous</span></b></font>
+  
+ <div class="alert"> 
+ <p>
+Some of my previous work in applied probability has studied the  [<a href="https://www.sciencedirect.com/science/article/pii/S0304414921000181?casa_token=GnUi_w_-Pq8AAAAA:1O3RvY6dA2Pg_o3Q7i2NjPC0svSrKOR7nG2hvOn3re0nNxkOCIc18hh2vur1m4SilWiKvBZx">path characteristics</a>] and [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304414918303314">integral geometric properties</a>] of random fields. In addition, I’ve worked on learning and structure estimation using [<a href="https://proceedings.icml.cc/static/paper_files/icml/2020/5473-Paper.pdf">mixture models</a>].
+
+</p>
+</div>
+
+
+
+
+
+
+
+
 
 
 
