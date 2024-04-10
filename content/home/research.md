@@ -88,7 +88,6 @@ subtitle = ""
 </p>
 
 
-<body>
   <p>Most notably, methods have been developed that: (i) handle selection events that do not have a polyhedral shape or even straightforward descriptions; (ii) provide distribution-free inferences for different types of data, rather than relying on specific parametric models such as Gaussian models; (iii) yield easy-to-solve selective inferences in both a Bayesian and frequentist framework. </p>Click <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'"><b><span style="color: #00008B">HERE</b></a> for some of the main <b><span style="color: #00008B">research highlights.
   </b>
   
@@ -110,8 +109,8 @@ subtitle = ""
   
    <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'"><b><span style="color: #00008B"><u> CLOSE </u></b></a>
   </div>
-  <div id="fade" class="black_overlay"></div>
-</body>
+  <div id="fade" class="black_overlay">
+  </div>
 
 
 
