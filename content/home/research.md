@@ -95,12 +95,26 @@ subtitle = ""
  
  
   
- <div class="alert"> <p>Selective inference offers a rigorous statistical framework for making honest inferences post selection. Early work in this field was restricted to: (i) using parametric models, such as a Gaussian model, for making inferences, and (ii) handling selection events with polyhedral shapes. These methods had limitations in computing selective inferences in different types of models and handling multiple selections on one dataset, which frequently occurs in practice.
-
-My recent and ongoing work overcomes these limitations, paving the way for flexible, tractable, and scalable methods of selective inference. Here are some main themes of research.
+ <div class="alert"> 
+ <p>Selective inference offers a rigorous statistical framework for making honest inferences post selection. My recent and ongoing work focuses on developing flexible, tractable, and scalable methods of selective inference.
 </p>
 
-<html>
+
+<body>
+  <p>Most notably, methods have been developed that: (i) can handle selection events that do not have a polyhedral shape or even straightforward descriptions; (ii) provide distribution-free inferences for different types of data, rather than relying on specific parametric models such as Gaussian models; (iii) yield easy-to-solve selective inferences in both a Bayesian and frequentist framework. </b>. Click <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'">here</a> here to read about some of the main <b><span style="color: #00008B">research highlights.
+  </p>
+  
+  <div id="light" class="white_content">New methods of selective inference have been developed to address selection events that do not have a polyhedral shape or easy descriptions. These advancements have made it possible to perform selective inferences for problems involving the selection of [<a href="https://www.jmlr.org/papers/volume24/21-1186/21-1186.pdf">groups of variables</a>],  [<a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-1/Selective-inference-for-sparse-multitask-regression-with-applications-in-neuroimaging/10.1214/23-AOAS1796.short">multi-task learning</a>],  [<a href="https://arxiv.org/pdf/2312.16734.pdf">graph learning</a>], and unsupervised learning such as the [<a href="https://arxiv.org/abs/2402.16725">PCA</a>]. <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'">Close</a>
+  </div>
+  <div id="fade" class="black_overlay"></div>
+</body>
+
+
+
+
+
+
+
 <body>
   <p><b><span style="color: #00008B"> Beyond polyhedral-shaped selection events</b>: click <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'">here</a>
   </p>
@@ -109,7 +123,7 @@ My recent and ongoing work overcomes these limitations, paving the way for flexi
   <div id="fade" class="black_overlay"></div>
 </body>
 
-</html>
+
 
 
 <html>
