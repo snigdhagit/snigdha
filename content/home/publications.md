@@ -89,7 +89,7 @@ Ronan Perry, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jacob Bien, an
 <br>
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Kevin Fry, and Jonathan Taylor.
-   <b> Exact Selective Inference with Randomization.</b> 2024. Biometrika. [<a href="https://arxiv.org/abs/2205.14220">arxiv</a>]  [<a href="https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asae019/7639974">publication</a>] [<a href="https://arxiv.org/abs/2212.12940">arxiv</a>]
+   <b> Exact Selective Inference with Randomization.</b> 2024. Biometrika. [<a href="https://arxiv.org/abs/2205.14220">arxiv</a>]  [<a href="https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asae019/7639974">publication</a>] 
 
 <br>
 
