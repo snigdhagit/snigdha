@@ -88,9 +88,9 @@ subtitle = ""
 
   # Background gradient.
 
-   gradient_start = "Pink"
+   gradient_start = "LemonChiffon"
 
-   gradient_end = "LightPink"
+   gradient_end = "LightYellow"
 
   # Background image.
 
