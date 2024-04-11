@@ -40,9 +40,9 @@ subtitle = ""
 
   # [[content.filter_button]]
 
-     name = "Deep Learning"
+  #  name = "Deep Learning"
 
-     tag = "Deep Learning"
+  #  tag = "Deep Learning"
 
   # [[content.filter_button]]
 
@@ -88,9 +88,9 @@ subtitle = ""
 
   # Background gradient.
 
-   gradient_start = "DeepSkyBlue"
+   gradient_start = "Pink"
 
-   gradient_end = "SkyBlue"
+   gradient_end = "LightPink"
 
   # Background image.
 
