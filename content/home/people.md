@@ -118,11 +118,11 @@ subtitle = ""
 
 <div class="alert"> 
 <dl>
-  <dt><font size="+2">Yumeng Wang</font></dt>
+  <dt><font size="+1.5">Yumeng Wang</font></dt>
   <dd> Third Year </dd>
-  <dt><font size="+2">Soham Bakshi</font></dt>
+  <dt><font size="+1.5">Soham Bakshi</font></dt>
   <dd> Second Year</dd>
-  <dt><font size="+2">Yiling Huang</font></dt>
+  <dt><font size="+1.5">Yiling Huang</font></dt>
   <dd> Second Year</dd>
 </dl>
 </div> 
