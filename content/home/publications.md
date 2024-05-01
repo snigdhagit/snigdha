@@ -194,7 +194,7 @@ Qingyuan Zhao and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
 <br>
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Nadia Fawaz, and Ajith Pudhiyaveetil.
-    <b>Temporal Evolution of Behavioral User Personas via Latent Variable Mixture models.</b> 2019. IUI Workshops on Exploratory Search and Interactive Data Analytics. [<a href="https://arxiv.org/abs/1609.05609">arxiv</a>];  [<a href="http://ceur-ws.org/Vol-2327/IUI19WS-ESIDA-5.pdf">publication</a>]
+    <b>Temporal Evolution of Behavioral User Personas via Latent Variable Mixture models.</b> 2019. IUI Workshops on Exploratory Search and Interactive Data Analytics. [<a href="https://arxiv.org/pdf/1704.07554">arxiv</a>];  [<a href="http://ceur-ws.org/Vol-2327/IUI19WS-ESIDA-5.pdf">publication</a>]
 
 <br>
 
