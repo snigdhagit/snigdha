@@ -189,7 +189,7 @@ Basil Saeed, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Caroline U
 
 
 Qingyuan Zhao and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
-    <b>Selective Inference for Effect Modication: An Empirical Investigation.</b> 2019. Observational Studies: Special issue devoted to ACIC. [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>];  [<a href="https://obsstudies.org/277-2/">publication</a>]
+    <b>Selective Inference for Effect Modication: An Empirical Investigation.</b> 2019. Observational Studies: Special issue devoted to ACIC. [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>];  [<a href="https://muse.jhu.edu/article/793362/pdf">publication</a>]
 
 <br>
 
