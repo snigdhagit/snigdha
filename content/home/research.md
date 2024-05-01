@@ -175,7 +175,7 @@ Click <a href="javascript:void(0)" onclick="document.getElementById('light1').st
  </p>
   
   <p>
-  Some of my current efforts are directed toward developing honest inferences and enabling reliable decision-making in mobile health trials. I have an ongoing collaboration with the National Institutes of Health to understand malaria serology.
+  Some of my current efforts are directed toward developing honest inferences and enabling reliable decision-making in mobile health trials. Additionally, I have an ongoing collaboration with the National Institutes of Health to understand malaria serology.
   </p>
   
  <a href="javascript:void(0)" onclick="document.getElementById('light1').style.display='none';document.getElementById('fade1').style.display='none'"><b><span style="color: #00008B"><u> CLOSE </u></b></a>
