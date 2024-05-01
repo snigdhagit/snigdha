@@ -124,7 +124,7 @@ Yiling Huang, <b> <font color=#2B0539>Snigdha Panigrahi</font></b>, and Walter D
 <br>
 
 Yiling Huang, Sarah Pirenne, <b> <font color=#2B0539>Snigdha Panigrahi</font></b>, and Gerda Claeskens.
-   <b>Selective Inference using Randomized Group Lasso Estimators for General Models.</b> 2023.  [<a href="https://aps.arxiv.org/pdf/2306.13829">arxiv</a>]
+   <b>Selective Inference using Randomized Group Lasso Estimators for General Models.</b> 2023.  [<a href="https://arxiv.org/pdf/2306.13829">arxiv</a>]
    
 <br>
 
@@ -177,7 +177,7 @@ Sifan Liu and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
 
 
 Basil Saeed, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Caroline Uhler.
-   <b>Causal Structure Discovery from Distributions Arising from Mixtures of DAGs.</b> 2020. International Conference on Machine Learning.   [<a href="https://arxiv.org/abs/2001.11940">arxiv</a>];  [<a href="https://proceedings.icml.cc/static/paper_files/icml/2020/5473-Paper.pdf">publication</a>]
+   <b>Causal Structure Discovery from Distributions Arising from Mixtures of DAGs.</b> 2020. International Conference on Machine Learning.   [<a href="https://arxiv.org/abs/2001.11940">arxiv</a>];  [<a href="http://proceedings.mlr.press/v119/saeed20a/saeed20a.pdf">publication</a>]
 
 <br>
 
