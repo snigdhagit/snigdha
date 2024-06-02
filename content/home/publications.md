@@ -94,7 +94,7 @@ Ronan Perry, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jacob Bien, an
 <br>
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jingshen Wang, and Xuming He.
-   <b>Treatment Effect Estimation via Efficient Data Aggregation.</b> 2024.  Bernoulli (Conditional Accept) [<a href="https://arxiv.org/abs/2203.12726">arxiv</a>]
+   <b>Treatment Effect Estimation via Efficient Data Aggregation.</b> 2024.  Bernoulli (Accepted). [<a href="https://arxiv.org/abs/2203.12726">arxiv</a>]
 
 <br>
 
