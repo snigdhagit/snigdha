@@ -85,7 +85,7 @@ I am an Assistant Professor of Statistics and also hold a courtesy appointment a
 
 <br>
 
-When developing new methodology, I prioritize both its theoretical properties and the tools for its practical implementation. My research was recognized by the CAREER Award for early-career faculty by the National Science Foundation. In the past, my work has been supported by the National Science Foundation (NSF-DMS 1951980, NSF-DMS 2113342), and my current research is partly funded by both the National Science Foundation and the National Institutes of Health.
+When developing new methodology, I prioritize both its theoretical properties and the tools for its practical implementation. My research was recognized by the [CAREER Award](https://new.nsf.gov/funding/opportunities/faculty-early-career-development-program-career) for early-career faculty by the National Science Foundation. In the past, my work has been supported by the National Science Foundation (NSF-DMS 1951980, NSF-DMS 2113342), and my current research is partly funded by both the National Science Foundation and the National Institutes of Health.
 
 <br>
 
