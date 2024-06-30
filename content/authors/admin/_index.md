@@ -84,8 +84,7 @@ email: ""
 I am an Assistant Professor of Statistics and also hold a courtesy appointment at the Department of Biostatistics. My work involves developing tools for replicable learning from complex data. 
 <br>
 
-My current research, supported by both the National Science Foundation and the National Institutes of Health, focuses on quantifying uncertainties in outputs from machine learning methods.
-My work was recognized by the [CAREER Award](https://new.nsf.gov/funding/opportunities/faculty-early-career-development-program-career) for early-career faculty by the National Science Foundation in 2023. 
+My current research, supported by both the National Science Foundation and the National Institutes of Health, focuses on quantifying uncertainties in outputs from machine learning methods. My work was recognized by the [CAREER Award](https://new.nsf.gov/funding/opportunities/faculty-early-career-development-program-career) for early-career faculty by the National Science Foundation in 2023. 
 <br>
 
 I have been serving as a member of the editorial board for the [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/toc/ucgs20/current) and as an elected member of the [International Statistical Institute](https://www.isi-web.org) since 2021.

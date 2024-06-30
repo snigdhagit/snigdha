@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2020-08-30"
   date_end = ""
-  description = """I taught this course in the Fall semesters of 2020, 2022 and Fall 2023."""
+  description = """I taught this course in the Fall semesters of 2020, 2022 and 2023."""
 
 [[experience]]
   title = "STATS 605 - Statistical methods for Adaptive Data Analysis"
