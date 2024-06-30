@@ -87,9 +87,6 @@ I am an Assistant Professor of Statistics and also hold a courtesy appointment a
 
 When developing new methodology, I prioritize both its theoretical properties and the tools for its practical implementation. 
 My work was recognized by the [CAREER Award](https://new.nsf.gov/funding/opportunities/faculty-early-career-development-program-career) for early-career faculty by the National Science Foundation in 2023. 
-%Previously, my work received support from two grants awarded by the National Science Foundation (NSF-DMS 1951980, NSF-DMS 2113342).
-%Currently, my team's research is supported by both the National Science Foundation and the National Institutes of Health.
-%In the past, my work has been supported by the National Science Foundation (NSF-DMS 1951980, NSF-DMS 2113342), and my current research is partly funded by both the National Science Foundation and the National Institutes of Health.
 <br>
 
 I have been serving as a member of the editorial board for the [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/toc/ucgs20/current) and as an elected member of the [International Statistical Institute](https://www.isi-web.org) since 2021.
