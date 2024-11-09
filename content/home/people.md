@@ -121,7 +121,7 @@ subtitle = ""
   <dt><font size="+1.5">Yumeng Wang</font></dt>
   <dt><font size="+1.5">Soham Bakshi</font></dt>
   <dt><font size="+1.5">Yiling Huang</font></dt>
- <dt><font size="+1.5">Judy Wang</font></dt>
+ <dt><font size="+1.5">Judy Wu</font></dt>
 </dl>
 </div> 
 
