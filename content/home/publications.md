@@ -78,6 +78,13 @@ subtitle = ""
 
 <div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
 
+
+
+Soham Bakshi, Walter Dempsey, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
+   <b> Selective Inference for Time-Varying Effect Moderation.</b> 2024. [<a href="https://arxiv.org/abs/2411.15908">arxiv</a>]
+
+<br>
+
 Yumeng Wang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Xuming He.
    <b> Asymptotically-exact selective inference for quantile regression.</b> 2024. [<a href="https://arxiv.org/pdf/2404.03059v1.pdf">arxiv</a>]
 
