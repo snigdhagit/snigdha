@@ -80,7 +80,7 @@ subtitle = ""
 
 
 Sifan Liu, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Jake A. Soloff.
-   <b> Cross-Validation with Antithetic Gaussian Randomization.</b> 2024. [<a href="https://arxiv.org/pdf/2412.14423.pdf">arxiv</a>]
+   <b> Cross-Validation with Antithetic Gaussian Randomization.</b> 2024. [<a href="https://arxiv.org/abs/2412.14423">arxiv</a>]
 
 <br>
 
