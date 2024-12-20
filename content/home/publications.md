@@ -79,9 +79,14 @@ subtitle = ""
 <div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
 
 
+Sifan Liu, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Jake A. Soloff.
+   <b> Cross-Validation with Antithetic Gaussian Randomization.</b> 2024. [<a href="https://arxiv.org/pdf/2412.14423.pdf">arxiv</a>]
+
+<br>
+
 
 Soham Bakshi, Walter Dempsey, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
-   <b> Selective Inference for Time-Varying Effect Moderation.</b> 2024. [<a href="https://arxiv.org/abs/2411.15908">arxiv</a>]
+   <b> Selective Inference for Time-varying Effect Moderation.</b> 2024. [<a href="https://arxiv.org/abs/2411.15908">arxiv</a>]
 
 <br>
 
