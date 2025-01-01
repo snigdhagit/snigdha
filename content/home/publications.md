@@ -80,7 +80,7 @@ subtitle = ""
 
 
 Yumeng Wang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Xuming He.
-   <b> Asymptotically-exact selective inference for quantile regression.</b> 2025. Annals of Statistics (Accepted). [<a href="https://arxiv.org/pdf/2404.03059v1.pdf">arxiv</a>]
+   <b> Asymptotically-exact selective inference for quantile regression.</b> 2025. Annals of Statistics (Accepted). [<a href="https://arxiv.org/abs/2404.03059">arxiv</a>]
 
 
 </td> </tr> </tbody> </table> 
