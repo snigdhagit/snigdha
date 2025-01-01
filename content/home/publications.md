@@ -79,6 +79,11 @@ subtitle = ""
 <div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
 
 
+Soham Bakshi, Yiling Huang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Walter Dempsey.
+   <b> Inference with Randomized Regression Trees.</b> 2024. [<a href="https://arxiv.org/abs/2412.20535">arxiv</a>]
+
+<br>
+
 Sifan Liu, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Jake A. Soloff.
    <b> Cross-Validation with Antithetic Gaussian Randomization.</b> 2024. [<a href="https://arxiv.org/abs/2412.14423">arxiv</a>]
 
