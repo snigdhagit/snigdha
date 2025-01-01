@@ -69,14 +69,30 @@ subtitle = ""
 
 +++
 
-<font size="+2"><b><span style="color: #00008B">New Papers (2024)</span></b></font>
+
+<div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
+
+<font size="+2"><b><span style="color: #00008B">New Papers (2025)</span></b></font>
 
 <table border="0", style="width: 100%; height: auto;"> <tbody> <tr> <td style="padding-top: 0px;">
 <br>
 
 
+Yumeng Wang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Xuming He.
+   <b> Asymptotically-exact selective inference for quantile regression.</b> 2025. Annals of Statistics (Accepted). [<a href="https://arxiv.org/pdf/2404.03059v1.pdf">arxiv</a>]
+
+
+</td> </tr> </tbody> </table> 
+
+
 
 <div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
+
+
+<font size="+2"><b><span style="color: #00008B">Papers (2024)</span></b></font>
+
+<table border="0", style="width: 100%; height: auto;"> <tbody> <tr> <td style="padding-top: 0px;">
+<br>
 
 
 Soham Bakshi, Yiling Huang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Walter Dempsey.
