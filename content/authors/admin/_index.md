@@ -85,10 +85,10 @@ I am an Assistant Professor of Statistics and also hold a courtesy appointment a
 <br>
 
 My current research, supported by both the National Science Foundation and the National Institutes of Health, focuses on quantifying uncertainties in outputs from machine learning methods. 
-My work was recognized with the [CAREER Award](https://new.nsf.gov/funding/opportunities/faculty-early-career-development-program-career) for early-career faculty by the National Science Foundation in the 2023 funding cycle and the [Bernoulli Society's New Researcher Award](https://www.bernoullisociety.org/prizes/267-bernoulli-society-new-researcher-award) in Mathematical Statistics for 2025.
+My work was recognized with the [CAREER Award](https://new.nsf.gov/funding/opportunities/faculty-early-career-development-program-career) for early-career faculty by the National Science Foundation in the 2023 funding cycle and the [Bernoulli Society's New Researcher Award](https://www.bernoullisociety.org/prizes/267-bernoulli-society-new-researcher-award) in Mathematical Statistics for 2025. I am an elected member of the [International Statistical Institute](https://www.isi-web.org) since 2021.
 <br>
 
-I have been serving as a member of the editorial board for the [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/toc/ucgs20/current) and as an elected member of the [International Statistical Institute](https://www.isi-web.org) since 2021.
+I am currently serving on the Editorial Boards for [Bernoulli](https://www.bernoullisociety.org/publications/bernoulli-journal), the [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/toc/ucgs20/current), and the [Journal of the Royal Statistical Society: Series B](https://academic.oup.com/jrsssb).
 <br>
 
 
