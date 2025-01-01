@@ -70,12 +70,14 @@ subtitle = ""
 +++
 
 
-<div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
 
 <font size="+2"><b><span style="color: #00008B">New Papers (2025)</span></b></font>
 
 <table border="0", style="width: 100%; height: auto;"> <tbody> <tr> <td style="padding-top: 0px;">
 <br>
+
+<div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
+
 
 
 Yumeng Wang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Xuming He.
@@ -86,13 +88,15 @@ Yumeng Wang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Xuming He.
 
 
 
-<div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
+
 
 
 <font size="+2"><b><span style="color: #00008B">Papers (2024)</span></b></font>
 
 <table border="0", style="width: 100%; height: auto;"> <tbody> <tr> <td style="padding-top: 0px;">
 <br>
+
+<div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
 
 
 Soham Bakshi, Yiling Huang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Walter Dempsey.
