@@ -78,6 +78,10 @@ subtitle = ""
 
 <div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
 
+Sifan Liu and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
+   <b> Selective Inference with Distributed Data.</b> 2025. Journal of Machine Learning Research. (Accepted).  [<a href="https://arxiv.org/abs/2301.06162">arxiv</a>]
+
+<br>
 
 Yumeng Wang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Xuming He.
    <b> Asymptotically-exact selective inference for quantile regression.</b> 2025. Annals of Statistics (Accepted). [<a href="https://arxiv.org/abs/2404.03059">arxiv</a>]
@@ -174,12 +178,6 @@ the Group LASSO.</b> 2023. Journal of Machine Learning Research. [<a href="https
 
 <br>
 
-
-
-Sifan Liu and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
-   <b> Selective Inference with Distributed Data.</b> 2023. [<a href="https://arxiv.org/abs/2301.06162">arxiv</a>]
-
-<br>
 
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Shariq Mohammad, Arvind Rao, and Veerabhadran Baladandayuthapani.
