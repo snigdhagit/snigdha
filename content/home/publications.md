@@ -79,12 +79,12 @@ subtitle = ""
 <div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
 
 Sifan Liu, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
-   <b> Flexible Selective Inference with Flow-based Transport Maps.  [<a href="https://arxiv.org/pdf/2506.01150">arxiv</a>]
+   <b> Flexible Selective Inference with Flow-based Transport Maps. </b>.  [<a href="https://arxiv.org/pdf/2506.01150">arxiv</a>]
 
 <br>
 
 Yiling Huang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Guo Yu, and Jacob Bien.
-   <b> Reluctant Interaction Inference after Additive Modeling.  [<a href="https://arxiv.org/pdf/2506.01219">arxiv</a>]
+   <b> Reluctant Interaction Inference after Additive Modeling. </b>.  [<a href="https://arxiv.org/pdf/2506.01219">arxiv</a>]
 
 <br>
 
