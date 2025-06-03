@@ -79,27 +79,27 @@ subtitle = ""
 <div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
 
 Sifan Liu, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
-   <b> Flexible Selective Inference with Flow-based Transport Maps. </b>.  [<a href="https://arxiv.org/pdf/2506.01150">arxiv</a>]
+   <b> Flexible Selective Inference with Flow-based Transport Maps </b>.  [<a href="https://arxiv.org/pdf/2506.01150">arxiv</a>]
 
 <br>
 
 Yiling Huang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Guo Yu, and Jacob Bien.
-   <b> Reluctant Interaction Inference after Additive Modeling. </b>.  [<a href="https://arxiv.org/pdf/2506.01219">arxiv</a>]
+   <b> Reluctant Interaction Inference after Additive Modeling </b>.  [<a href="https://arxiv.org/pdf/2506.01219">arxiv</a>]
 
 <br>
 
 Sofia Guglielmini, Gerda Claeskens, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
-   <b> Selective Inference in Graphical Models via Maximum Likelihood.  </b>[<a href="https://arxiv.org/abs/2503.24311">arxiv</a>]
+   <b> Selective Inference in Graphical Models via Maximum Likelihood  </b>[<a href="https://arxiv.org/abs/2503.24311">arxiv</a>]
 
 <br>
 
 Sifan Liu and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
-   <b> Selective Inference with Distributed Data.</b> 2025. Journal of Machine Learning Research. (Accepted).  [<a href="https://arxiv.org/abs/2301.06162">arxiv</a>]
+   <b> Selective Inference with Distributed Data</b> 2025. Journal of Machine Learning Research. (Accepted).  [<a href="https://arxiv.org/abs/2301.06162">arxiv</a>]
 
 <br>
 
 Yumeng Wang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Xuming He.
-   <b> Asymptotically-exact selective inference for quantile regression.</b> 2025. Annals of Statistics (Accepted). [<a href="https://arxiv.org/abs/2404.03059">arxiv</a>]
+   <b> Asymptotically-exact selective inference for quantile regression</b> 2025. Annals of Statistics (Accepted). [<a href="https://arxiv.org/abs/2404.03059">arxiv</a>]
 
 
 </td> </tr> </tbody> </table> 
@@ -118,39 +118,39 @@ Yumeng Wang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Xuming He.
 
 
 Soham Bakshi, Yiling Huang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Walter Dempsey.
-   <b> Inference with Randomized Regression Trees.</b> 2024. [<a href="https://arxiv.org/abs/2412.20535">arxiv</a>]
+   <b> Inference with Randomized Regression Trees</b> 2024. [<a href="https://arxiv.org/abs/2412.20535">arxiv</a>]
 
 <br>
 
 Sifan Liu, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Jake A. Soloff.
-   <b> Cross-Validation with Antithetic Gaussian Randomization.</b> 2024. [<a href="https://arxiv.org/abs/2412.14423">arxiv</a>]
+   <b> Cross-Validation with Antithetic Gaussian Randomization</b> 2024. [<a href="https://arxiv.org/abs/2412.14423">arxiv</a>]
 
 <br>
 
 
 Soham Bakshi, Walter Dempsey, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
-   <b> Selective Inference for Time-varying Effect Moderation.</b> 2024. [<a href="https://arxiv.org/abs/2411.15908">arxiv</a>]
+   <b> Selective Inference for Time-varying Effect Moderation</b> 2024. [<a href="https://arxiv.org/abs/2411.15908">arxiv</a>]
 
 <br>
 
 
 Ronan Perry, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jacob Bien, and Daniela Witten.
-   <b> Inference on the proportion of variance explained in principal component analysis.</b> 2024. [<a href="https://arxiv.org/abs/2402.16725">arxiv</a>]
+   <b> Inference on the proportion of variance explained in principal component analysis</b> 2024. [<a href="https://arxiv.org/abs/2402.16725">arxiv</a>]
 
 <br>
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Kevin Fry, and Jonathan Taylor.
-   <b> Exact Selective Inference with Randomization.</b> 2024. Biometrika. [<a href="https://arxiv.org/abs/2205.14220">arxiv</a>]  [<a href="https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asae019/7639974">publication</a>] 
+   <b> Exact Selective Inference with Randomization</b> 2024. Biometrika. [<a href="https://arxiv.org/abs/2205.14220">arxiv</a>]  [<a href="https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asae019/7639974">publication</a>] 
 
 <br>
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jingshen Wang, and Xuming He.
-   <b>Treatment Effect Estimation via Efficient Data Aggregation.</b> 2024.  Bernoulli (Accepted). [<a href="https://arxiv.org/abs/2203.12726">arxiv</a>]
+   <b>Treatment Effect Estimation via Efficient Data Aggregation</b> 2024.  Bernoulli (Accepted). [<a href="https://arxiv.org/abs/2203.12726">arxiv</a>]
 
 <br>
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Natasha Stewart, Chandra Sripada, and Elizaveta Levina.
-   <b>Selective Inference for Sparse Multitask Regression with Applications in Neuroimaging.</b> 2024.  Annals of Applied Statistics.  [<a href="https://arxiv.org/abs/2205.14220">arxiv</a>]  [<a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-1/Selective-inference-for-sparse-multitask-regression-with-applications-in-neuroimaging/10.1214/23-AOAS1796.short">publication</a>]
+   <b>Selective Inference for Sparse Multitask Regression with Applications in Neuroimaging</b> 2024.  Annals of Applied Statistics.  [<a href="https://arxiv.org/abs/2205.14220">arxiv</a>]  [<a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-1/Selective-inference-for-sparse-multitask-regression-with-applications-in-neuroimaging/10.1214/23-AOAS1796.short">publication</a>]
    
 
 </td> </tr> </tbody> </table> 
@@ -170,18 +170,18 @@ Ronan Perry, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jacob Bien, an
 
 
 Yiling Huang, <b> <font color=#2B0539>Snigdha Panigrahi</font></b>, and Walter Dempsey.
-   <b>Selective Inference for Sparse Graphs via Neighborhood Selection.</b> 2023.  [<a href="https://arxiv.org/pdf/2312.16734.pdf">arxiv</a>]
+   <b>Selective Inference for Sparse Graphs via Neighborhood Selection</b> 2023.  [<a href="https://arxiv.org/pdf/2312.16734.pdf">arxiv</a>]
    
 <br>
 
 Yiling Huang, Sarah Pirenne, <b> <font color=#2B0539>Snigdha Panigrahi</font></b>, and Gerda Claeskens.
-   <b>Selective Inference using Randomized Group Lasso Estimators for General Models.</b> 2023.  [<a href="https://arxiv.org/pdf/2306.13829">arxiv</a>]
+   <b>Selective Inference using Randomized Group Lasso Estimators for General Models</b> 2023.  [<a href="https://arxiv.org/pdf/2306.13829">arxiv</a>]
    
 <br>
 
 
  <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
-   <b> Carving model-free inference.</b> 2023.  Annals of Statistics. [<a href="https://arxiv.org/abs/1811.03142">arxiv</a>]  [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-6/Carving-model-free-inference/10.1214/23-AOS2318.short">publication</a>]
+   <b> Carving model-free inference</b> 2023.  Annals of Statistics. [<a href="https://arxiv.org/abs/1811.03142">arxiv</a>]  [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-6/Carving-model-free-inference/10.1214/23-AOS2318.short">publication</a>]
 
 <br>
 
@@ -189,7 +189,7 @@ Yiling Huang, Sarah Pirenne, <b> <font color=#2B0539>Snigdha Panigrahi</font></b
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Peter W. Macdonald, and Daniel Kessler.
    <b>Approximate Post-Selective Inference for Regression with
-the Group LASSO.</b> 2023. Journal of Machine Learning Research. [<a href="https://arxiv.org/abs/2012.15664">arxiv</a>] [<a href="https://www.jmlr.org/papers/volume24/21-1186/21-1186.pdf">publication</a>]
+the Group LASSO</b> 2023. Journal of Machine Learning Research. [<a href="https://arxiv.org/abs/2012.15664">arxiv</a>] [<a href="https://www.jmlr.org/papers/volume24/21-1186/21-1186.pdf">publication</a>]
 
 <br>
 
@@ -197,69 +197,69 @@ the Group LASSO.</b> 2023. Journal of Machine Learning Research. [<a href="https
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Shariq Mohammad, Arvind Rao, and Veerabhadran Baladandayuthapani.
    <b> Integrative Bayesian models using Post-selective Inference: a case study
- in Radiogenomics.</b> 2022. Biometrics. [<a href="https://arxiv.org/abs/2004.12012">arxiv</a>] [<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13740">publication</a>] 
+ in Radiogenomics</b> 2022. Biometrics. [<a href="https://arxiv.org/abs/2004.12012">arxiv</a>] [<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13740">publication</a>] 
 
 <br>
 
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b> and Jonathan Taylor.
-   <b> Approximate selective inference via maximum likelihood.</b> 2022. Journal of the American Statistical Association  [<a href="https://arxiv.org/abs/1902.07884">arxiv</a>];  [<a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2081575">publication</a>]
+   <b> Approximate selective inference via maximum likelihood</b> 2022. Journal of the American Statistical Association  [<a href="https://arxiv.org/abs/1902.07884">arxiv</a>];  [<a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2081575">publication</a>]
 
 <br>
 
 
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>,  Jonathan Taylor, and Asaf Weinstein.
-    <b>Integrative methods for post-selection inference under convex constraints.</b> 2021. Annals of Statistics. [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>]; [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-5/Integrative-methods-for-post-selection-inference-under-convex-constraints/10.1214/21-AOS2057.short">publication</a>]  
+    <b>Integrative methods for post-selection inference under convex constraints</b> 2021. Annals of Statistics. [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>]; [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-5/Integrative-methods-for-post-selection-inference-under-convex-constraints/10.1214/21-AOS2057.short">publication</a>]  
 
 <br>
 
 <b><font color=#2B0539> Snigdha Panigrahi</font></b>, Parthanil Roy, and Yimin Xiao.
-    <b>Maximal Moments and Uniform Modulus of Continuity for Stable Random Fields.</b> 2021. Stochastic processes and their applications. [<a href="https://arxiv.org/abs/1709.07135">arxiv</a>]; [<a href="https://www.sciencedirect.com/science/article/pii/S0304414921000181?casa_token=GnUi_w_-Pq8AAAAA:1O3RvY6dA2Pg_o3Q7i2NjPC0svSrKOR7nG2hvOn3re0nNxkOCIc18hh2vur1m4SilWiKvBZx">publication</a>]
+    <b>Maximal Moments and Uniform Modulus of Continuity for Stable Random Fields</b> 2021. Stochastic processes and their applications. [<a href="https://arxiv.org/abs/1709.07135">arxiv</a>]; [<a href="https://www.sciencedirect.com/science/article/pii/S0304414921000181?casa_token=GnUi_w_-Pq8AAAAA:1O3RvY6dA2Pg_o3Q7i2NjPC0svSrKOR7nG2hvOn3re0nNxkOCIc18hh2vur1m4SilWiKvBZx">publication</a>]
 
 <br>
 
 
 
 Basil Saeed, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Caroline Uhler.
-   <b>Causal Structure Discovery from Distributions Arising from Mixtures of DAGs.</b> 2020. International Conference on Machine Learning.   [<a href="https://arxiv.org/abs/2001.11940">arxiv</a>];  [<a href="http://proceedings.mlr.press/v119/saeed20a/saeed20a.pdf">publication</a>]
+   <b>Causal Structure Discovery from Distributions Arising from Mixtures of DAGs</b> 2020. International Conference on Machine Learning.   [<a href="https://arxiv.org/abs/2001.11940">arxiv</a>];  [<a href="http://proceedings.mlr.press/v119/saeed20a/saeed20a.pdf">publication</a>]
 
 <br>
 
 
   <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Junjie Zhu, and Chiara Sabatti.
-   <b> Selection-adjusted inference: an application to confidence intervals for cis-eQTL effect sizes.</b> 2019. Biostatistics.   [<a href="https://arxiv.org/abs/1801.08686">arxiv</a>];      [<a href="https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxz024/5532132?redirectedFrom=fulltext">publication</a>]
+   <b> Selection-adjusted inference: an application to confidence intervals for cis-eQTL effect sizes</b> 2019. Biostatistics.   [<a href="https://arxiv.org/abs/1801.08686">arxiv</a>];      [<a href="https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxz024/5532132?redirectedFrom=fulltext">publication</a>]
 
 <br>
 
 
 Qingyuan Zhao and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
-    <b>Selective Inference for Effect Modication: An Empirical Investigation.</b> 2019. Observational Studies: Special issue devoted to ACIC. [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>];  [<a href="https://muse.jhu.edu/article/793362/pdf">publication</a>]
+    <b>Selective Inference for Effect Modication: An Empirical Investigation</b> 2019. Observational Studies: Special issue devoted to ACIC. [<a href="https://arxiv.org/abs/1605.08824">arxiv</a>];  [<a href="https://muse.jhu.edu/article/793362/pdf">publication</a>]
 
 <br>
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Nadia Fawaz, and Ajith Pudhiyaveetil.
-    <b>Temporal Evolution of Behavioral User Personas via Latent Variable Mixture models.</b> 2019. IUI Workshops on Exploratory Search and Interactive Data Analytics. [<a href="https://arxiv.org/pdf/1704.07554">arxiv</a>];  [<a href="http://ceur-ws.org/Vol-2327/IUI19WS-ESIDA-5.pdf">publication</a>]
+    <b>Temporal Evolution of Behavioral User Personas via Latent Variable Mixture models</b> 2019. IUI Workshops on Exploratory Search and Interactive Data Analytics. [<a href="https://arxiv.org/pdf/1704.07554">arxiv</a>];  [<a href="http://ceur-ws.org/Vol-2327/IUI19WS-ESIDA-5.pdf">publication</a>]
 
 <br>
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jonathan Taylor, and Sreekar Vadlamani.
-<b>Kinematic Formula for Heterogeneous Gaussian Related Fields.</b> 2018.  Stochastic processes and their applications. [<a href="https://arxiv.org/abs/1705.04643">arxiv</a>]; [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304414918303314">publication</a>]
+<b>Kinematic Formula for Heterogeneous Gaussian Related Fields</b> 2018.  Stochastic processes and their applications. [<a href="https://arxiv.org/abs/1705.04643">arxiv</a>]; [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304414918303314">publication</a>]
 
 <br>
 
  <b><font color=#2B0539>Snigdha Panigrahi</font></b> and Jonathan Taylor.
-    <b>Scalable methods for Bayesian selective inference.</b> 2018. Electronic Journal of Statistics. [<a href="https://arxiv.org/abs/1703.06176">arxiv</a>]; [<a href="https://projecteuclid.org/euclid.ejs/1532484333">publication</a>]
+    <b>Scalable methods for Bayesian selective inference</b> 2018. Electronic Journal of Statistics. [<a href="https://arxiv.org/abs/1703.06176">arxiv</a>]; [<a href="https://projecteuclid.org/euclid.ejs/1532484333">publication</a>]
 
 <br>
 
  <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jelena Markovic, and Jonathan Taylor.
-<b> An MCMC-free approach to post-selective inference.</b> 2017. [<a href="https://arxiv.org/abs/1703.06154">arxiv</a>]
+<b> An MCMC-free approach to post-selective inference</b> 2017. [<a href="https://arxiv.org/abs/1703.06154">arxiv</a>]
 
 <br>
 
  Xiaoying Tian Harris, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jelena Markovic, Nan Bi, and Jonathan Taylor.
-    <b>Selective sampling after solving a convex problem.</b> 2016. [<a href="https://arxiv.org/abs/1609.05609">arxiv</a>]
+    <b>Selective sampling after solving a convex problem</b> 2016. [<a href="https://arxiv.org/abs/1609.05609">arxiv</a>]
 
 
 
