@@ -89,7 +89,7 @@ Yiling Huang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Guo Yu, and J
 <br>
 
 Sofia Guglielmini, Gerda Claeskens, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
-   <b> Selective Inference in Graphical Models via Maximum Likelihood.  [<a href="https://arxiv.org/abs/2503.24311">arxiv</a>]
+   <b> Selective Inference in Graphical Models via Maximum Likelihood.  </b>[<a href="https://arxiv.org/abs/2503.24311">arxiv</a>]
 
 <br>
 
