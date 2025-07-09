@@ -78,6 +78,17 @@ subtitle = ""
 
 <div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
 
+Ronan Perry, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jacob Bien, and Daniela Witten.
+   <b> Inference on the proportion of variance explained in principal component analysis</b> 2025. Journal of the American Statistical Association
+(Accepted). [<a href="https://arxiv.org/abs/2402.16725">arxiv</a>]
+
+<br>
+
+Yiling Huang, Sarah Pirenne, <b> <font color=#2B0539>Snigdha Panigrahi</font></b>, and Gerda Claeskens.
+   <b>Selective Inference using Randomized Group Lasso Estimators for General Models</b> 2025.  Electronic Journal of Statistics (Accepted). [<a href="https://arxiv.org/pdf/2306.13829">arxiv</a>]
+   
+<br>
+
 Sifan Liu, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
    <b> Flexible Selective Inference with Flow-based Transport Maps </b>.  [<a href="https://arxiv.org/pdf/2506.01150">arxiv</a>]
 
@@ -134,11 +145,6 @@ Soham Bakshi, Walter Dempsey, and <b><font color=#2B0539>Snigdha Panigrahi</font
 <br>
 
 
-Ronan Perry, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jacob Bien, and Daniela Witten.
-   <b> Inference on the proportion of variance explained in principal component analysis</b> 2024. [<a href="https://arxiv.org/abs/2402.16725">arxiv</a>]
-
-<br>
-
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Kevin Fry, and Jonathan Taylor.
    <b> Exact Selective Inference with Randomization</b> 2024. Biometrika. [<a href="https://arxiv.org/abs/2205.14220">arxiv</a>]  [<a href="https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asae019/7639974">publication</a>] 
 
@@ -171,11 +177,6 @@ Ronan Perry, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jacob Bien, an
 
 Yiling Huang, <b> <font color=#2B0539>Snigdha Panigrahi</font></b>, and Walter Dempsey.
    <b>Selective Inference for Sparse Graphs via Neighborhood Selection</b> 2023.  [<a href="https://arxiv.org/pdf/2312.16734.pdf">arxiv</a>]
-   
-<br>
-
-Yiling Huang, Sarah Pirenne, <b> <font color=#2B0539>Snigdha Panigrahi</font></b>, and Gerda Claeskens.
-   <b>Selective Inference using Randomized Group Lasso Estimators for General Models</b> 2023.  [<a href="https://arxiv.org/pdf/2306.13829">arxiv</a>]
    
 <br>
 
