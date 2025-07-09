@@ -144,6 +144,10 @@ Soham Bakshi, Walter Dempsey, and <b><font color=#2B0539>Snigdha Panigrahi</font
 
 <br>
 
+Kevin Fry,  <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Jonathan Taylor.
+   <b> Assumption-Lean Data Fission with Resampled Data</b> (Discussion of ``Data fission: splitting a single data point'') 2024. Journal of the American Statistical Association. [<a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2412172">publication</a>] 
+
+
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Kevin Fry, and Jonathan Taylor.
    <b> Exact Selective Inference with Randomization</b> 2024. Biometrika. [<a href="https://arxiv.org/abs/2205.14220">arxiv</a>]  [<a href="https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asae019/7639974">publication</a>] 
