@@ -105,7 +105,7 @@ Sofia Guglielmini, Gerda Claeskens, and <b><font color=#2B0539>Snigdha Panigrahi
 <br>
 
 Sifan Liu and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
-   <b> Selective Inference with Distributed Data</b> 2025. Journal of Machine Learning Research. (Accepted).  [<a href="https://arxiv.org/abs/2301.06162">arxiv</a>]
+   <b> Selective Inference with Distributed Data</b> 2025. Journal of Machine Learning Research.  [<a href="https://arxiv.org/abs/2301.06162">arxiv</a>] [<a href="https://www.jmlr.org/papers/v26/23-0309.html">publication</a>]
 
 <br>
 
