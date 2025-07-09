@@ -145,7 +145,7 @@ Soham Bakshi, Walter Dempsey, and <b><font color=#2B0539>Snigdha Panigrahi</font
 <br>
 
 Kevin Fry,  <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Jonathan Taylor.
-   <b> Assumption-Lean Data Fission with Resampled Data</b> (Discussion of ``Data fission: splitting a single data point'') 2024. Journal of the American Statistical Association. [<a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2412172">publication</a>] 
+   <b> Assumption-Lean Data Fission with Resampled Data</b> (Discussion of Data fission: splitting a single data point) 2024. Journal of the American Statistical Association. [<a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2412172">publication</a>] 
 
 <br>
 
