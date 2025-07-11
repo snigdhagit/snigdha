@@ -109,6 +109,11 @@ Sifan Liu and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
 
 <br>
 
+<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jingshen Wang, and Xuming He.
+   <b>Treatment Effect Estimation via Efficient Data Aggregation</b> 2025.  Bernoulli. [<a href="https://arxiv.org/abs/2203.12726">arxiv</a>] [<a href="https://projecteuclid.org/journals/bernoulli/volume-31/issue-4/Treatment-effect-estimation-with-efficient-data-aggregation/10.3150/24-BEJ1782.short">publication</a>]
+
+<br>
+
 Yumeng Wang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Xuming He.
    <b> Asymptotically-exact selective inference for quantile regression</b> 2025. Annals of Statistics (Accepted). [<a href="https://arxiv.org/abs/2404.03059">arxiv</a>]
 
@@ -151,11 +156,6 @@ Kevin Fry,  <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Jonathan Ta
 
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Kevin Fry, and Jonathan Taylor.
    <b> Exact Selective Inference with Randomization</b> 2024. Biometrika. [<a href="https://arxiv.org/abs/2205.14220">arxiv</a>]  [<a href="https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asae019/7639974">publication</a>] 
-
-<br>
-
-<b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jingshen Wang, and Xuming He.
-   <b>Treatment Effect Estimation via Efficient Data Aggregation</b> 2024.  Bernoulli (Accepted). [<a href="https://arxiv.org/abs/2203.12726">arxiv</a>]
 
 <br>
 
