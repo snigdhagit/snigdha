@@ -78,16 +78,6 @@ subtitle = ""
 
 <div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
 
-Ronan Perry, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jacob Bien, and Daniela Witten.
-   <b> Inference on the proportion of variance explained in principal component analysis</b> 2025. Journal of the American Statistical Association
-(Accepted). [<a href="https://arxiv.org/abs/2402.16725">arxiv</a>]
-
-<br>
-
-Yiling Huang, Sarah Pirenne, <b> <font color=#2B0539>Snigdha Panigrahi</font></b>, and Gerda Claeskens.
-   <b>Selective Inference using Randomized Group Lasso Estimators for General Models</b> 2025.  Electronic Journal of Statistics (Accepted). [<a href="https://arxiv.org/pdf/2306.13829">arxiv</a>]
-   
-<br>
 
 Sifan Liu, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
    <b> Flexible Selective Inference with Flow-based Transport Maps </b>.  [<a href="https://arxiv.org/pdf/2506.01150">arxiv</a>]
@@ -103,6 +93,23 @@ Sofia Guglielmini, Gerda Claeskens, and <b><font color=#2B0539>Snigdha Panigrahi
    <b> Selective Inference in Graphical Models via Maximum Likelihood  </b>[<a href="https://arxiv.org/abs/2503.24311">arxiv</a>]
 
 <br>
+
+Yiling Huang, <b> <font color=#2B0539>Snigdha Panigrahi</font></b>, and Walter Dempsey.
+   <b>Selective Inference for Sparse Graphs via Neighborhood Selection</b> 2025. Electronic Journal of Statistics (Accepted).  [<a href="https://arxiv.org/pdf/2312.16734.pdf">arxiv</a>]
+   
+<br>
+
+Ronan Perry, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jacob Bien, and Daniela Witten.
+   <b> Inference on the proportion of variance explained in principal component analysis</b> 2025. Journal of the American Statistical Association
+(Accepted). [<a href="https://arxiv.org/abs/2402.16725">arxiv</a>]
+
+<br>
+
+Yiling Huang, Sarah Pirenne, <b> <font color=#2B0539>Snigdha Panigrahi</font></b>, and Gerda Claeskens.
+   <b>Selective Inference using Randomized Group Lasso Estimators for General Models</b> 2025.  Electronic Journal of Statistics (Accepted). [<a href="https://arxiv.org/pdf/2306.13829">arxiv</a>]
+   
+<br>
+
 
 Sifan Liu, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
    <b> Selective Inference with Distributed Data</b> 2025. Journal of Machine Learning Research.  [<a href="https://arxiv.org/abs/2301.06162">arxiv</a>] [<a href="https://www.jmlr.org/papers/v26/23-0309.html">publication</a>]
@@ -177,12 +184,6 @@ Kevin Fry,  <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Jonathan Ta
 
 
 <div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
-
-
-Yiling Huang, <b> <font color=#2B0539>Snigdha Panigrahi</font></b>, and Walter Dempsey.
-   <b>Selective Inference for Sparse Graphs via Neighborhood Selection</b> 2023.  [<a href="https://arxiv.org/pdf/2312.16734.pdf">arxiv</a>]
-   
-<br>
 
 
  <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
