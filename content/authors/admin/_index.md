@@ -81,14 +81,18 @@ email: ""
 
 <br>
 
-I am an Assistant Professor of Statistics and also hold a courtesy appointment at the Department of Biostatistics. My work involves developing tools for replicable learning from complex data. 
+I am an Associate Professor of Statistics (with tenure) and also hold a courtesy appointment at the Department of Biostatistics. 
 <br>
 
-My current research, supported by both the National Science Foundation and the National Institutes of Health, focuses on quantifying uncertainties in outputs from machine learning methods. 
+
+My research develops statistically rigorous methods that convert exploratory and predictive machine learning (ML) algorithms into sound inferential tools. Equipping such algorithms with sound inference enables explainable ML that extend well beyond prediction to generate trustworthy and replicable insights for data-driven decisions.
+<br>
+
+My current research is funded through grants from both the National Science Foundation and the National Institutes of Health.
 My work was recognized with the [CAREER Award](https://new.nsf.gov/funding/opportunities/faculty-early-career-development-program-career) for early-career faculty by the National Science Foundation in the 2023 funding cycle and the [Bernoulli Society's New Researcher Award](https://www.bernoullisociety.org/prizes/267-bernoulli-society-new-researcher-award) in Mathematical Statistics for 2025. I am an elected member of the [International Statistical Institute](https://www.isi-web.org) since 2021.
 <br>
 
-I am currently serving on the Editorial Boards for [Bernoulli](https://www.bernoullisociety.org/publications/bernoulli-journal), the [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/toc/ucgs20/current), and the [Journal of the Royal Statistical Society: Series B](https://academic.oup.com/jrsssb).
+I am currently serving on the Editorial Boards for [Bernoulli](https://www.bernoullisociety.org/publications/bernoulli-journal) and the [Journal of the Royal Statistical Society: Series B](https://academic.oup.com/jrsssb).
 <br>
 
 
