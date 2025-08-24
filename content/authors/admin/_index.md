@@ -81,7 +81,7 @@ email: ""
 
 <br>
 
-I am an Associate Professor of Statistics (with tenure) and also hold a courtesy appointment at the Department of Biostatistics. 
+I am an Associate Professor of Statistics (with tenure) and also hold a courtesy appointment at the Department of Biostatistics. I currently serve on the Editorial Boards for [Bernoulli](https://www.bernoullisociety.org/publications/bernoulli-journal) and the [Journal of the Royal Statistical Society: Series B](https://academic.oup.com/jrsssb).
 <br>
 
 
@@ -92,7 +92,7 @@ My current research is funded through grants from both the National Science Foun
 My work was recognized with the [CAREER Award](https://new.nsf.gov/funding/opportunities/faculty-early-career-development-program-career) for early-career faculty by the National Science Foundation in the 2023 funding cycle and the [Bernoulli Society's New Researcher Award](https://www.bernoullisociety.org/prizes/267-bernoulli-society-new-researcher-award) in Mathematical Statistics for 2025. I am an elected member of the [International Statistical Institute](https://www.isi-web.org) since 2021.
 <br>
 
-I am currently serving on the Editorial Boards for [Bernoulli](https://www.bernoullisociety.org/publications/bernoulli-journal) and the [Journal of the Royal Statistical Society: Series B](https://academic.oup.com/jrsssb).
-<br>
+
+
 
 
