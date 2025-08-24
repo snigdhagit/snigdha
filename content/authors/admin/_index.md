@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Statistics
+role: Associate Professor of Statistics
 
 # Organizations/Affiliations
 organizations:
