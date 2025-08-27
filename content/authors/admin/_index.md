@@ -85,7 +85,7 @@ I am an Associate Professor of Statistics (with tenure) and also hold a courtesy
 <br>
 
 
-My research develops statistically rigorous methods that convert exploratory and predictive machine learning (ML) algorithms into sound inferential tools. Equipping such algorithms with sound inference enables explainable ML that extend well beyond prediction to generate trustworthy and replicable insights for data-driven decisions.
+My research develops statistically rigorous methods that convert exploratory and predictive machine learning (ML) algorithms into sound inferential tools. Equipping such algorithms with sound inference enables explainable ML that extend well beyond prediction to generate trustworthy data-driven decisions.
 <br>
 
 My current research is funded through grants from both the National Science Foundation and the National Institutes of Health.
