@@ -78,6 +78,11 @@ subtitle = ""
 
 <div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
 
+Soham Bakshi, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
+   <b> Classification Trees with Valid Inference via the Exponential Mechanism </b>.  [<a href="https://arxiv.org/pdf/2511.15068">arxiv</a>]
+
+<br>
+
 
 Sifan Liu, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
    <b> Flexible Selective Inference with Flow-based Transport Maps </b>.  [<a href="https://arxiv.org/pdf/2506.01150">arxiv</a>]
