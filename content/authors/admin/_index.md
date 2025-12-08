@@ -87,6 +87,8 @@ I am an Associate Professor of Statistics (with tenure) and also hold a courtesy
 I develop methods that convert predictive and exploratory ML algorithms into principled tools for inference using ideas from convex analysis, large-deviation and nonparametric theory, and generative modeling. These advances support explainable ML and enable trustworthy, data-driven decisions.
 <br>
 
+<!-- <p> See [XX] for selected highlights from my work with my group and collaborators. </p> -->
+
 My current research is funded through grants from both the National Science Foundation and the National Institutes of Health.
 My work was recognized with the [CAREER Award](https://new.nsf.gov/funding/opportunities/faculty-early-career-development-program-career) for early-career faculty by the National Science Foundation in the 2023 funding cycle and the [Bernoulli Society's New Researcher Award](https://www.bernoullisociety.org/prizes/267-bernoulli-society-new-researcher-award) in Mathematical Statistics for 2025. I am an elected member of the [International Statistical Institute](https://www.isi-web.org) since 2021.
 <br>
