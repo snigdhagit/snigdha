@@ -91,19 +91,13 @@ subtitle = ""
 The thoery and type of techniques have helped advance selective inference in semi- and nonparametric settings where it was previously unavailable, including, for example, [<a href="https://arxiv.org/abs/2411.15908">causal effect moderation</a>] and [<a href="https://arxiv.org/abs/2404.03059">quantile regression</a>].
 
    
-  <details>
+<details>
     <summary>Key Publications:</summary>
     <ul class="publications-list">
-    
-        <li> <b><font color=#2B0539>Snigdha Panigrahi</font></b>. <b> Carving model-free inference</b> 2023.  Annals of Statistics. [<a href="https://arxiv.org/abs/1811.03142">arxiv</a>]  [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-6/Carving-model-free-inference/10.1214/23-AOS2318.short">publication</a>] </li>
-        
-        <li> Yumeng Wang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Xuming He.
-   <b> Asymptotically-exact selective inference for quantile regression</b> 2025. Annals of Statistics (Accepted). [<a href="https://arxiv.org/abs/2404.03059">arxiv</a>] </li>
-   
-    <li> Soham Bakshi, Walter Dempsey, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
-   <b> Selective Inference for Time-varying Effect Moderation</b> 2024. [<a href="https://arxiv.org/abs/2411.15908">arxiv</a>] </li>
-  
-  </ul>
+        <li>Snigdha Panigrahi. Carving model-free inference. 2023.  Annals of Statistics. [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-6/Carving-model-free-inference/10.1214/23-AOS2318.short">link</a>] </li>
+        <li>Yumeng Wang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Xuming He. Asymptotically-exact selective inference for quantile regression. 2025. Annals of Statistics (Accepted). [<a href="https://arxiv.org/abs/2404.03059">arxiv</a>] </li>
+        <li>Soham Bakshi, Walter Dempsey, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>. Selective Inference for Time-varying Effect Moderation. 2024+. [<a href="https://arxiv.org/abs/2411.15908">arxiv</a>] </li>
+    </ul>
 </details>
 
 </div> 
