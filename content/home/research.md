@@ -76,8 +76,9 @@ subtitle = ""
   color: black;
 }
 </style>
+</head>
 
-
+<head>
 details {
     margin-top: 15px;
     cursor: pointer; /* Indicates the summary text is clickable */
