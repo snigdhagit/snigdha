@@ -84,7 +84,7 @@ email: ""
 I am an Associate Professor of Statistics (with tenure) and also hold a courtesy appointment at the Department of Biostatistics. I currently serve on the Editorial Boards for [Bernoulli](https://www.bernoullisociety.org/publications/bernoulli-journal) and the [Journal of the Royal Statistical Society: Series B](https://academic.oup.com/jrsssb).
 <br>
 
-I develop methods that convert predictive and exploratory ML algorithms into principled tools for inference using ideas from convex analysis, large-deviation and nonparametric theory, and generative modeling. These advances strengthen explainable ML and support trustworthy, data-driven decisions.
+I develop methods that convert predictive and exploratory ML algorithms into principled tools for inference using ideas from convex analysis, large-deviation and nonparametric theory, and generative modeling. These advances support explainable ML and enable trustworthy, data-driven decisions.
 <br>
 
 My current research is funded through grants from both the National Science Foundation and the National Institutes of Health.
