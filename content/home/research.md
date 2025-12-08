@@ -85,7 +85,7 @@ subtitle = ""
 <font size="+2"><b><span style="color: #00008B">Distribution-free selective inference</span></b></font>
   
  <div class="alert"> 
-<p>This [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-6/Carving-model-free-inference/10.1214/23-AOS2318.short">paper</a>] expands the scope of selective inference beyond normal data. The work here also provides a rigorous foundation for data carving, a new class of inferential methods that, like data splitting, uses a subset of the data for selection but, unlike splitting, utilizes the full dataset for inference.
+<p> My [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-6/Carving-model-free-inference/10.1214/23-AOS2318.short">work</a>] under this theme expands the scope of selective inference beyond normal data. It also provides a first-of-its-kind basis for data carving, a new class of inferential methods that, like data splitting, uses a subset of the data for selection but, unlike splitting, utilizes the full dataset for inference.
 </p>
 
 The thoery and type of techniques have helped advance selective inference in semi- and nonparametric settings where it was previously unavailable, including, for example, [<a href="https://arxiv.org/abs/2411.15908">causal effect moderation</a>] and [<a href="https://arxiv.org/abs/2404.03059">quantile regression</a>].
@@ -94,9 +94,9 @@ The thoery and type of techniques have helped advance selective inference in sem
 <details>
     <summary>Key Publications:</summary>
     <ul class="publications-list">
-        <li>Snigdha Panigrahi. Carving model-free inference. 2023.  Annals of Statistics. [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-6/Carving-model-free-inference/10.1214/23-AOS2318.short">link</a>] </li>
-        <li>Yumeng Wang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Xuming He. Asymptotically-exact selective inference for quantile regression. 2025. Annals of Statistics (Accepted). [<a href="https://arxiv.org/abs/2404.03059">arxiv</a>] </li>
-        <li>Soham Bakshi, Walter Dempsey, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>. Selective Inference for Time-varying Effect Moderation. 2024+. [<a href="https://arxiv.org/abs/2411.15908">arxiv</a>] </li>
+        <li><b><font color=#2B0539>Snigdha Panigrahi</font></b>. Carving model-free inference. 2023.  Annals of Statistics. [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-6/Carving-model-free-inference/10.1214/23-AOS2318.short">link</a>] </li>
+        <li>Yumeng Wang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Xuming He. Asymptotically-exact selective inference for quantile regression. 2025. Annals of Statistics (Accepted). [<a href="https://arxiv.org/abs/2404.03059">link</a>] </li>
+        <li>Soham Bakshi, Walter Dempsey, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>. Selective Inference for Time-varying Effect Moderation. 2024+. [<a href="https://arxiv.org/abs/2411.15908">link</a>] </li>
     </ul>
 </details>
 
