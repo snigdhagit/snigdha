@@ -76,6 +76,24 @@ subtitle = ""
   color: black;
 }
 </style>
+
+
+details {
+    margin-top: 15px;
+    cursor: pointer; /* Indicates the summary text is clickable */
+}
+
+/* The summary text (the part you click) */
+summary {
+    font-weight: bold;
+    color: #000;
+}
+
+/* Style for the list of publications when visible */
+.publications-list {
+    margin-top: 5px;
+    padding-left: 20px;
+}
 </head>
 
 <br>
@@ -90,6 +108,13 @@ subtitle = ""
 
   <p>Most notably, methods have been developed that: (i) handle selection events that do not have a polyhedral shape or even straightforward descriptions; (ii) provide distribution-free inferences for different types of data, rather than relying on specific parametric models such as Gaussian models; (iii) yield easy-to-solve selective inferences in both a Bayesian and frequentist framework. </p>
   
+  <details>
+    <summary>Key Publications:</summary>
+    <ul class="publications-list">
+        <li>Sifan Liu, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>. <b> Flexible Selective Inference with Flow-based Transport Maps </b>.  [<a href="https://arxiv.org/pdf/2506.01150">arxiv</a>]</li>
+    </ul>
+</details>
+
 <!--  Click <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'"><b><span style="color: #00008B">HERE</b></a> for some of the main <b><span style="color: #00008B">research highlights. -->
   </b>
   
