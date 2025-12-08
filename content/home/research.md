@@ -85,10 +85,10 @@ subtitle = ""
 <font size="+2"><b><span style="color: #00008B">Distribution-free selective inference</span></b></font>
   
  <div class="alert"> 
-<p> My [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-6/Carving-model-free-inference/10.1214/23-AOS2318.short">work</a>] under this theme expands the scope of selective inference beyond normal data. It also provides a first-of-its-kind basis for data carving, a new class of inferential methods that, like data splitting, uses a subset of the data for selection but, unlike splitting, utilizes the full dataset for inference.
+<p> My [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-6/Carving-model-free-inference/10.1214/23-AOS2318.short">work</a>] under this theme expands the scope of selective inference beyond normal data. It also provides a first-of-its-kind theoretical basis for data carving, a new class of inferential methods that, like data splitting, uses a subset of the data for selection but, unlike splitting, utilizes the full dataset for inference.
 </p>
 
-The thoery and type of techniques have helped advance selective inference in semi- and nonparametric settings where it was previously unavailable, including, for example, [<a href="https://arxiv.org/abs/2411.15908">causal effect moderation</a>] and [<a href="https://arxiv.org/abs/2404.03059">quantile regression</a>].
+The proof techniques developed have advanced selective inference in semi- and nonparametric settings where it was previously unavailable, including, for example, [<a href="https://arxiv.org/abs/2411.15908">causal effect moderation</a>] and [<a href="https://arxiv.org/abs/2404.03059">quantile regression</a>].
 
    
 <details>
