@@ -78,24 +78,6 @@ subtitle = ""
 </style>
 </head>
 
-<head>
-details {
-    margin-top: 15px;
-    cursor: pointer; /* Indicates the summary text is clickable */
-}
-
-/* The summary text (the part you click) */
-summary {
-    font-weight: bold;
-    color: #000;
-}
-
-/* Style for the list of publications when visible */
-.publications-list {
-    margin-top: 5px;
-    padding-left: 20px;
-}
-</head>
 
 <br>
 
