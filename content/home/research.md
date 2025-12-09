@@ -84,7 +84,7 @@ subtitle = ""
 
 
   
- <div class="alert"> 
+<div class="alert"> 
 <p> <font size="+1.5"><b><span style="color: #00008B">Distribution-free selective inference</span></b></font>: This line of research expands the scope of selective inference beyond normal data. My [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-6/Carving-model-free-inference/10.1214/23-AOS2318.short">work</a>] provides a first-of-its-kind theoretical basis for <b><span style="color: #00008B">data carving</span></b>, a new class of inferential methods that, like data splitting, uses a subset of the data for selection but, unlike splitting, utilizes the full dataset for selective (or post-selection) inference.
 </p>
 
@@ -103,10 +103,10 @@ The proof techniques developed have advanced selective inference in semi- and no
 </div> 
 
 
- <div class="alert"> 
+<div class="alert"> 
 <p> <font size="+1.5"><b><span style="color: #00008B">Selective inference beyond polyhedral constraints</span></b></font>: This line of research develops a simple Gaussian randomization scheme that enables feasible inference for selection events that do not satisfy polyhedral constraints. Most existing methods, in contrast, rely on a polyhedral representation of the selection event, as in prior work developed for the lasso.
 
-These techniques make selective inference feasible across a broad range of learning problems, including the selection of [<a href="https://www.jmlr.org/papers/volume24/21-1186/21-1186.pdf">groups of variables</a>] via group-lasso–type penalties, models fitted through [<a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-1/Selective-inference-for-sparse-multitask-regression-with-applications-in-neuroimaging/10.1214/23-AOAS1796.short">multi-task learning</a>], and dependence structure learned through [<a href="https://arxiv.org/pdf/2312.16734.pdf">graph- or network-analysis</a>].   
+These techniques make selective inference feasible across a broad range of learning problems, including the selection of [<a href="https://www.jmlr.org/papers/volume24/21-1186/21-1186.pdf">groups of variables</a>] via group lasso–type penalties, models fitted through [<a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-1/Selective-inference-for-sparse-multitask-regression-with-applications-in-neuroimaging/10.1214/23-AOAS1796.short">multi-task learning</a>], and dependence structure learned through [<a href="https://arxiv.org/pdf/2312.16734.pdf">graph- or network-analysis</a>].   
 
 <details>
     <summary>Notable Work:</summary>
