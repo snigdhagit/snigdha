@@ -92,7 +92,7 @@ The proof techniques developed have advanced selective inference in semi- and no
 
    
 <details>
-    <summary>Key Publications:</summary>
+    <summary>Notable Work:</summary>
     <ul class="publications-list">
         <li><b><font color=#2B0539>Snigdha Panigrahi</font></b>. Carving model-free inference. 2023.  Annals of Statistics. [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-6/Carving-model-free-inference/10.1214/23-AOS2318.short">link</a>] </li>
         <li>Soham Bakshi, Walter Dempsey, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>. Selective Inference for Time-varying Effect Moderation. 2024+. [<a href="https://arxiv.org/abs/2411.15908">link</a>] </li>
