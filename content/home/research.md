@@ -103,6 +103,25 @@ The proof techniques developed have advanced selective inference in semi- and no
 </div> 
 
 
+ <div class="alert"> 
+<p> <font size="+1.5"><b><span style="color: #00008B">Selective inference beyond polyhedral constraints</span></b></font>: My work introduces a simple Gaussian randomization scheme that enables inference for selection events that do not satisfy polyhedral constraints. 
+
+These techniques make selective inference feasible across a broad range of learning problems, including the selection of [<a href="https://www.jmlr.org/papers/volume24/21-1186/21-1186.pdf">groups of variables</a>] via group-lasso–type penalties, models fitted through [<a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-1/Selective-inference-for-sparse-multitask-regression-with-applications-in-neuroimaging/10.1214/23-AOAS1796.short">multi-task learning</a>], and dependence structure learned through [<a href="https://arxiv.org/pdf/2312.16734.pdf">graph- or network-analysis</a>].   
+
+<details>
+    <summary>Notable Work:</summary>
+    <ul class="publications-list">
+        <li><b><font color=#2B0539>Snigdha Panigrahi</font></b>, Peter W. Macdonald, and Daniel Kessler. <b>Approximate Post-Selective Inference for Regression with
+the Group LASSO</b> 2023. Journal of Machine Learning Research. [<a href="https://arxiv.org/abs/2012.15664">arxiv</a>] [<a href="https://www.jmlr.org/papers/volume24/21-1186/21-1186.pdf">publication</a>] </li>
+        <li><b><font color=#2B0539>Snigdha Panigrahi</font></b>, Natasha Stewart, Chandra Sripada, and Elizaveta Levina.
+   <b>Selective Inference for Sparse Multitask Regression with Applications in Neuroimaging</b> 2024.  Annals of Applied Statistics.  [<a href="https://arxiv.org/abs/2205.14220">arxiv</a>]  [<a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-1/Selective-inference-for-sparse-multitask-regression-with-applications-in-neuroimaging/10.1214/23-AOAS1796.short">publication</a>]</li>
+        <li>Yumeng Wang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Xuming He. Asymptotically-exact selective inference for quantile regression. 2025. Annals of Statistics (Accepted). [<a href="https://arxiv.org/abs/2404.03059">link</a>] </li>
+    </ul>
+</details>
+
+</div> 
+
+
 
 
 
