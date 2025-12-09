@@ -78,6 +78,11 @@ subtitle = ""
 
 <div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
 
+Di Wu, Jacob Bien and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
+   <b> Hierarchical Clustering with Confidence </b>.  [<a href="http://arxiv.org/abs/2512.06522">arxiv</a>]
+
+<br>
+
 Soham Bakshi, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
    <b> Classification Trees with Valid Inference via the Exponential Mechanism </b>.  [<a href="https://arxiv.org/pdf/2511.15068">arxiv</a>]
 
