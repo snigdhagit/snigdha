@@ -126,17 +126,20 @@ the Group LASSO</b>. 2023. Journal of Machine Learning Research. [<a href="https
 
 
 <div class="alert"> 
-<p> <font size="+1.5"><b><span style="color: #00008B">Tractable and powerful selective inference</span></b></font>: My work, under this theme, develops: (i) sampling methods, leveraging the benefits of a full [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-5/Integrative-methods-for-post-selection-inference-under-convex-constraints/10.1214/21-AOS2057.short">Bayesian</a>]  machinery, (ii) probabilistic [<a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2081575">approximation</a>] techniques that rely on convex analysis and large deviation theory, (iii) [<a href="https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asae019/7639974">exact</a>] methods by identifying an appropriate conditioning set.
+<p> <font size="+1.5"><b><span style="color: #00008B">Tractable and powerful selective inference</span></b></font>: My work, under this theme, develops: (i) sampling methods, leveraging the benefits of a full [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-5/Integrative-methods-for-post-selection-inference-under-convex-constraints/10.1214/21-AOS2057.short">Bayesian</a>]  machinery, (ii) probabilistic [<a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2081575">approximation</a>] techniques that rely on convex analysis and large deviation theory, (iii) [<a href="https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asae019/7639974">exact</a>] methods by identifying an appropriate conditioning set. 
+
+These techniques have given rise to a general M-estimation framework for selective inference, as developed [<a href="https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-19/issue-2/Selective-inference-using-randomized-group-lasso-estimators-for-general-models/10.1214/25-EJS2416.pdf">here</a>].
 
 <details>
     <summary>Key papers:</summary>
     <ul class="publications-list">
-        <li><b><font color=#2B0539>Snigdha Panigrahi</font></b>, Peter W. Macdonald, and Daniel Kessler. <b>Approximate Post-Selective Inference for Regression with
-the Group LASSO</b>. 2023. Journal of Machine Learning Research. [<a href="https://www.jmlr.org/papers/volume24/21-1186/21-1186.pdf">link</a>] </li>
-        <li><b><font color=#2B0539>Snigdha Panigrahi</font></b>, Natasha Stewart, Chandra Sripada, and Elizaveta Levina.
-   <b>Selective Inference for Sparse Multitask Regression with Applications in Neuroimaging</b>. 2024.  Annals of Applied Statistics. [<a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-1/Selective-inference-for-sparse-multitask-regression-with-applications-in-neuroimaging/10.1214/23-AOAS1796.short">link</a>]</li>
-        <li>Yiling Huang, <b> <font color=#2B0539>Snigdha Panigrahi</font></b>, and Walter Dempsey. <b>Selective Inference for Sparse Graphs via Neighborhood Selection</b>. 2025. Electronic Journal of Statistics.  [<a href="https://arxiv.org/pdf/2312.16734.pdf">link</a>] </li>
-        <li>Sofia Guglielmini, Gerda Claeskens, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>. <b> Selective Inference in Graphical Models via Maximum Likelihood</b>. 2025+. [<a href="https://arxiv.org/abs/2503.24311">link</a>]</li>
+       <li><b><font color=#2B0539>Snigdha Panigrahi</font></b>,  Jonathan Taylor, and Asaf Weinstein.
+    <b>Integrative methods for post-selection inference under convex constraints</b> 2021. Annals of Statistics. [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-5/Integrative-methods-for-post-selection-inference-under-convex-constraints/10.1214/21-AOS2057.short">link</a>]  </li>
+        <li><b><font color=#2B0539>Snigdha Panigrahi</font></b> and Jonathan Taylor. <b> Approximate selective inference via maximum likelihood</b> 2022. Journal of the American Statistical Association  [<a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2081575">link</a>]</li>
+        <li> <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Kevin Fry, and Jonathan Taylor.
+   <b> Exact Selective Inference with Randomization</b> 2024. Biometrika. [<a href="https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asae019/7639974">link</a>] </li>
+        <li>Yiling Huang, Sarah Pirenne, <b> <font color=#2B0539>Snigdha Panigrahi</font></b>, and Gerda Claeskens.
+   <b>Selective Inference using Randomized Group Lasso Estimators for General Models</b> 2025.  Electronic Journal of Statistics. [<a href="https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-19/issue-2/Selective-inference-using-randomized-group-lasso-estimators-for-general-models/10.1214/25-EJS2416.pdf">link</a>]</li>
     </ul>
 </details>
 
