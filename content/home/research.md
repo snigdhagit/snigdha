@@ -83,7 +83,7 @@ subtitle = ""
 
 
 <div class="alert"> 
-<p> <font size="+1.5"><b><span style="color: #00008B">Inference for unsupervised learning</span></b></font>: My more recent efforts focus on developing inferential methodologies for data-adaptive targets arising in various learning settings, including unsupervised learning. This line of work introduces novel inferential techniques for widely used exploratory tools such as [<a href="https://arxiv.org/abs/2402.16725">PCA</a>]  and [<a href="http://arxiv.org/abs/2512.06522">clustering</a>].
+<p> <font size="+1.5"><b><span style="color: #00008B">Inference for unsupervised learning algorithms</span></b></font>: My more recent efforts focus on developing inferential methodologies for data-adaptive targets arising in various learning settings, including unsupervised learning. This line of work introduces novel inferential techniques for widely used exploratory tools such as [<a href="https://arxiv.org/abs/2402.16725">PCA</a>]  and [<a href="http://arxiv.org/abs/2512.06522">clustering</a>].
 </p>
 
    
