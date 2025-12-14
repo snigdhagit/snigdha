@@ -83,6 +83,22 @@ subtitle = ""
 
 
 <div class="alert"> 
+<p> <font size="+1.5"><b><span style="color: #00008B">Flexible Data-Adaptive Approaches to Modern Inference</span></b></font>: Under this theme, my work focuses on developing new methods for sound statistical inference on data-adaptive targets. These methods draw on ideas from [<a href="https://arxiv.org/pdf/2506.01150">generative modeling</a>], [<a href="https://arxiv.org/pdf/2511.15068">privacy and large language models</a>]. Common to these techniques is that they bypass the difficult task of deriving typically case-specific analytical descriptions of the selection process.
+</p>
+
+   
+<details>
+    <summary>Key papers:</summary>
+    <ul class="publications-list">
+        <li>Sifan Liu, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>. <b> Flexible Selective Inference with Flow-based Transport Maps </b>. 2025. [<a href="https://arxiv.org/pdf/2506.01150">arxiv</a>]</li>
+        <li>Soham Bakshi, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>. <b> Classification Trees with Valid Inference via the Exponential Mechanism </b>. 2025. [<a href="https://arxiv.org/pdf/2511.15068">arxiv</a>]</li>
+     </ul>
+</details>
+
+</div> 
+
+
+<div class="alert"> 
 <p> <font size="+1.5"><b><span style="color: #00008B">Inference for unsupervised learning algorithms</span></b></font>: My more recent efforts focus on developing inferential methodologies for data-adaptive targets arising in various learning settings, including unsupervised learning. This line of work introduces novel inferential techniques for widely used exploratory tools such as [<a href="https://arxiv.org/abs/2402.16725">PCA</a>]  and [<a href="http://arxiv.org/abs/2512.06522">clustering</a>].
 </p>
 
