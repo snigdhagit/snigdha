@@ -99,7 +99,7 @@ subtitle = ""
 </div> 
 
 <div class="alert"> 
-<p> <font size="+1.5"><b><span style="color: #00008B">Antithetic randomization</span></b></font>:  [<a href="https://arxiv.org/abs/2412.14423">Antithetic Gaussian randomization</a>] is proposed as a cross-validation method for reliable model performance assessment in settings where standard sample splitting is infeasible, such as with non-i.i.d. data. This approach achieves near-zero bias without paying a price in variance, thereby outperforming existing randomization alternatives.
+<p> <font size="+1.5"><b><span style="color: #00008B">Antithetic randomization</span></b></font>:  [<a href="https://arxiv.org/abs/2412.14423">Antithetic Gaussian randomization</a>] is proposed as a cross-validation method for reliable assessment of model performance in settings where standard sample splitting is infeasible, such as with non-i.i.d. data. This approach achieves near-zero bias without paying a price in variance, thereby outperforming existing randomization alternatives.
 </p>
 
    Further work is underway to formalize the theoretical properties of this randomization approach and to explore its application to other problems.
