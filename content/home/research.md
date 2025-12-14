@@ -82,6 +82,22 @@ subtitle = ""
 <br>
 
 
+<div class="alert"> 
+<p> <font size="+1.5"><b><span style="color: #00008B">Inference for unsupervised learning</span></b></font>: My more recent efforts focus on developing inferential methodologies for data-adaptive targets arising in various learning settings, including unsupervised learning. This line of work introduces new inferential techniques for widely used exploratory tools such as [<a href="https://arxiv.org/abs/2402.16725">PCA</a>]  and [<a href="http://arxiv.org/abs/2512.06522">clustering</a>].
+</p>
+
+   
+<details>
+    <summary>Key papers:</summary>
+    <ul class="publications-list">
+        <li>Ronan Perry, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jacob Bien, and Daniela Witten.
+   <b> Inference on the proportion of variance explained in principal component analysis</b>. 2025. Journal of the American Statistical Association (Accepted). [<a href="https://arxiv.org/abs/2402.16725">link</a>]</li>
+        <li>Di Wu, Jacob Bien and <b><font color=#2B0539>Snigdha Panigrahi</font></b>. <b> Hierarchical Clustering with Confidence </b>. 2025. [<a href="http://arxiv.org/abs/2512.06522">link</a>] </li>
+     </ul>
+</details>
+
+</div> 
+
 
   
 <div class="alert"> 
@@ -128,7 +144,7 @@ the Group LASSO</b>. 2023. Journal of Machine Learning Research. [<a href="https
 <div class="alert"> 
 <p> <font size="+1.5"><b><span style="color: #00008B">Tractable and powerful selective inference</span></b></font>: My work, under this theme, develops: (i) sampling methods, leveraging the benefits of a full [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-49/issue-5/Integrative-methods-for-post-selection-inference-under-convex-constraints/10.1214/21-AOS2057.short">Bayesian</a>]  machinery, (ii) probabilistic [<a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2081575">approximation</a>] techniques that rely on convex analysis and large deviation theory, (iii) [<a href="https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asae019/7639974">exact</a>] methods by identifying an appropriate conditioning set. 
 
-These techniques have given rise to a general M-estimation framework for selective inference, as developed [<a href="https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-19/issue-2/Selective-inference-using-randomized-group-lasso-estimators-for-general-models/10.1214/25-EJS2416.pdf">here</a>].
+These advances have led to a general M-estimation framework for selective inference that accommodates both likelihood-based and more general models, as developed [<a href="https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-19/issue-2/Selective-inference-using-randomized-group-lasso-estimators-for-general-models/10.1214/25-EJS2416.pdf">here</a>].
 
 <details>
     <summary>Key papers:</summary>
