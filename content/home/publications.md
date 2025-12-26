@@ -116,7 +116,7 @@ Ronan Perry, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jacob Bien, an
 <br>
 
 Yiling Huang, Sarah Pirenne, <b> <font color=#2B0539>Snigdha Panigrahi</font></b>, and Gerda Claeskens.
-   <b>Selective Inference using Randomized Group Lasso Estimators for General Models</b> 2025.  Electronic Journal of Statistics (Accepted). [<a href="https://arxiv.org/pdf/2306.13829">arxiv</a>]
+   <b>Selective Inference using Randomized Group Lasso Estimators for General Models</b> 2025.  Electronic Journal of Statistics. [<a href="https://arxiv.org/pdf/2306.13829">arxiv</a>] [<a href="https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-19/issue-2/Selective-inference-using-randomized-group-lasso-estimators-for-general-models/10.1214/25-EJS2416.pdf">publication</a>]
    
 <br>
 
