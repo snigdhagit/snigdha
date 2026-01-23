@@ -69,7 +69,7 @@ subtitle = ""
 
 +++
 
-<font size="+2"><b><span style="color: #00008B">New Papers: 2026</span></b></font>
+<font size="+2"><b><span style="color: #00008B">New Papers (2026)</span></b></font>
 
 <table border="0", style="width: 100%; height: auto;"> <tbody> <tr> <td style="padding-top: 0px;">
 <br>
@@ -84,7 +84,7 @@ Ronan Perry, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Daniela Wi
 
 
 
-<font size="+2"><b><span style="color: #00008B">Papers: 2025</span></b></font>
+<font size="+2"><b><span style="color: #00008B">Papers (2025)</span></b></font>
 
 <table border="0", style="width: 100%; height: auto;"> <tbody> <tr> <td style="padding-top: 0px;">
 <br>
@@ -155,7 +155,7 @@ Yumeng Wang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Xuming He.
 
 
 
-<font size="+2"><b><span style="color: #00008B">Papers: 2024 and older</span></b></font>
+<font size="+2"><b><span style="color: #00008B">Papers (2024 and older)</span></b></font>
 
 <table border="0", style="width: 100%; height: auto;"> <tbody> <tr> <td style="padding-top: 0px;">
 <br>
