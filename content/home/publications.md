@@ -69,7 +69,7 @@ subtitle = ""
 
 +++
 
-<font size="+2"><b><span style="color: #00008B">New Papers 2026</span></b></font>
+<font size="+2"><b><span style="color: #00008B">New Papers: 2026</span></b></font>
 
 <table border="0", style="width: 100%; height: auto;"> <tbody> <tr> <td style="padding-top: 0px;">
 <br>
