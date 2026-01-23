@@ -69,9 +69,22 @@ subtitle = ""
 
 +++
 
+<font size="+2"><b><span style="color: #00008B">New Papers 2026</span></b></font>
+
+<table border="0", style="width: 100%; height: auto;"> <tbody> <tr> <td style="padding-top: 0px;">
+<br>
+
+<div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
+
+Ronan Perry, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Daniela Witten. 
+<b> Post-selection inference for penalized M-estimators via score thinning </b>.  [<a href="https://arxiv.org/pdf/2601.13514">arxiv</a>]
+
+</td> </tr> </tbody> </table> 
 
 
-<font size="+2"><b><span style="color: #00008B">New Papers (2025)</span></b></font>
+
+
+<font size="+2"><b><span style="color: #00008B">Papers 2025</span></b></font>
 
 <table border="0", style="width: 100%; height: auto;"> <tbody> <tr> <td style="padding-top: 0px;">
 <br>
