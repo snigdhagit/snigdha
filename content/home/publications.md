@@ -84,7 +84,7 @@ Ronan Perry, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Daniela Wi
 
 
 
-<font size="+2"><b><span style="color: #00008B">Papers 2025</span></b></font>
+<font size="+2"><b><span style="color: #00008B">Papers: 2025</span></b></font>
 
 <table border="0", style="width: 100%; height: auto;"> <tbody> <tr> <td style="padding-top: 0px;">
 <br>
@@ -155,7 +155,7 @@ Yumeng Wang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Xuming He.
 
 
 
-<font size="+2"><b><span style="color: #00008B">Papers (2024)</span></b></font>
+<font size="+2"><b><span style="color: #00008B">Papers: 2024 and older</span></b></font>
 
 <table border="0", style="width: 100%; height: auto;"> <tbody> <tr> <td style="padding-top: 0px;">
 <br>
@@ -192,22 +192,6 @@ Kevin Fry,  <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Jonathan Ta
 <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Natasha Stewart, Chandra Sripada, and Elizaveta Levina.
    <b>Selective Inference for Sparse Multitask Regression with Applications in Neuroimaging</b> 2024.  Annals of Applied Statistics.  [<a href="https://arxiv.org/abs/2205.14220">arxiv</a>]  [<a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-1/Selective-inference-for-sparse-multitask-regression-with-applications-in-neuroimaging/10.1214/23-AOAS1796.short">publication</a>]
    
-
-</td> </tr> </tbody> </table> 
-
-
-<font size="+2"><b><span style="color: #00008B">Papers (2023 and older)</span></b></font>
-
-
-
-
-<table border="0", style="width: 100%; height: auto;"> <tbody> <tr> <td style="padding-top: 0px;">
-<br>
-
-
-
-<div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
-
 
  <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
    <b> Carving model-free inference</b> 2023.  Annals of Statistics. [<a href="https://arxiv.org/abs/1811.03142">arxiv</a>]  [<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-51/issue-6/Carving-model-free-inference/10.1214/23-AOS2318.short">publication</a>]
