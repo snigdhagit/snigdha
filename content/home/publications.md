@@ -79,6 +79,11 @@ subtitle = ""
 Ronan Perry, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Daniela Witten. 
 <b> Post-selection inference for penalized M-estimators via score thinning </b>.  [<a href="https://arxiv.org/pdf/2601.13514">arxiv</a>]
 
+<br>
+
+Sifan Liu, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Jake A. Soloff.
+   <b> Cross-Validation with Antithetic Gaussian Randomization</b> 2026. Journal of the Royal Statistical Society Series B (Accepted). [<a href="https://arxiv.org/abs/2412.14423">arxiv</a>]
+   
 </td> </tr> </tbody> </table> 
 
 
@@ -123,8 +128,7 @@ Yiling Huang, <b> <font color=#2B0539>Snigdha Panigrahi</font></b>, and Walter D
 <br>
 
 Ronan Perry, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jacob Bien, and Daniela Witten.
-   <b> Inference on the proportion of variance explained in principal component analysis</b> 2025. Journal of the American Statistical Association
-(Accepted). [<a href="https://arxiv.org/abs/2402.16725">arxiv</a>]
+   <b> Inference on the proportion of variance explained in principal component analysis</b> 2025. Journal of the American Statistical Association. [<a href="https://arxiv.org/abs/2402.16725">arxiv</a>]
 
 <br>
 
@@ -165,11 +169,6 @@ Yumeng Wang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Xuming He.
 
 Soham Bakshi, Yiling Huang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Walter Dempsey.
    <b> Inference with Randomized Regression Trees</b> 2024. [<a href="https://arxiv.org/abs/2412.20535">arxiv</a>]
-
-<br>
-
-Sifan Liu, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Jake A. Soloff.
-   <b> Cross-Validation with Antithetic Gaussian Randomization</b> 2024. [<a href="https://arxiv.org/abs/2412.14423">arxiv</a>]
 
 <br>
 
