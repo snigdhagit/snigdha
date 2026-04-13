@@ -123,12 +123,12 @@ Sofia Guglielmini, Gerda Claeskens, and <b><font color=#2B0539>Snigdha Panigrahi
 <br>
 
 Yiling Huang, <b> <font color=#2B0539>Snigdha Panigrahi</font></b>, and Walter Dempsey.
-   <b>Selective Inference for Sparse Graphs via Neighborhood Selection</b> 2025. Electronic Journal of Statistics (Accepted).  [<a href="https://arxiv.org/pdf/2312.16734.pdf">arxiv</a>]
+   <b>Selective Inference for Sparse Graphs via Neighborhood Selection</b> 2025. Electronic Journal of Statistics.  [<a href="https://arxiv.org/pdf/2312.16734.pdf">arxiv</a>][<a href="https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-19/issue-2/Selective-inference-for-sparse-graphs-via-neighborhood-selection/10.1214/25-EJS2429.full">publication</a>]
    
 <br>
 
 Ronan Perry, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Jacob Bien, and Daniela Witten.
-   <b> Inference on the proportion of variance explained in principal component analysis</b> 2025. Journal of the American Statistical Association. [<a href="https://arxiv.org/abs/2402.16725">arxiv</a>]
+   <b> Inference on the proportion of variance explained in principal component analysis</b> 2025. Journal of the American Statistical Association. [<a href="https://arxiv.org/abs/2402.16725">arxiv</a>] [<a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2538895">publication</a>]
 
 <br>
 
@@ -149,7 +149,7 @@ Sifan Liu, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
 <br>
 
 Yumeng Wang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Xuming He.
-   <b> Asymptotically-exact selective inference for quantile regression</b> 2025. Annals of Statistics (Accepted). [<a href="https://arxiv.org/abs/2404.03059">arxiv</a>]
+   <b> Asymptotically-exact selective inference for quantile regression</b> 2025. Annals of Statistics. [<a href="https://arxiv.org/abs/2404.03059">arxiv</a>][<a href="https://projecteuclid.org/journals/annals-of-statistics/volume-53/issue-6/Asymptotically-exact-selective-inference-for-quantile-regression/10.1214/24-AOS2488.short">publication</a>]
 
 
 </td> </tr> </tbody> </table> 
