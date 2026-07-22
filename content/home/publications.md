@@ -76,6 +76,11 @@ subtitle = ""
 
 <div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
 
+Soham Bakshi, Lingjun Gao, Zijun Gao, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
+   <b> Flexible Inference for Winners with Conditional Validity </b>.  [<a href="https://arxiv.org/pdf/2607.18545">arxiv</a>]
+
+<br>
+
 Ronan Perry, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Daniela Witten. 
 <b> Post-selection inference for penalized M-estimators via score thinning </b>.  [<a href="https://arxiv.org/pdf/2601.13514">arxiv</a>]
 
