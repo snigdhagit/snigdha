@@ -83,7 +83,7 @@ subtitle = ""
 
 
 <div class="alert"> 
-<p> <font size="+1.5"><b><span style="color: #00008B">Flexible Data-Adaptive Approaches to Modern Inference</span></b></font>: Under this theme, my work focuses on developing new methods for sound statistical inference on data-adaptive targets. These methods draw on ideas from [<a href="https://arxiv.org/pdf/2506.01150">generative modeling</a>], [<a href="https://arxiv.org/pdf/2511.15068">privacy and large language models</a>]. Common to these techniques is that they bypass the difficult task of deriving typically case-specific analytical descriptions of the selection process.
+<p> <font size="+1.5"><b><span style="color: #00008B">Flexible Data-Adaptive Approaches to Modern Inference</span></b></font>: Under this theme, my work focuses on developing new methods for sound statistical inference on data-adaptive targets. These methods draw on ideas from [<a href="https://arxiv.org/pdf/2506.01150">generative modeling</a>], [<a href="https://arxiv.org/pdf/2511.15068">privacy and AI</a>]. Common to these techniques is that they bypass the difficult task of deriving typically case-specific analytical descriptions of the selection process.
 </p>
 
    
