@@ -118,13 +118,12 @@ subtitle = ""
 <p> <font size="+1.5"><b><span style="color: #00008B">Antithetic randomization</span></b></font>:  [<a href="https://arxiv.org/abs/2412.14423">Antithetic Gaussian randomization</a>] is proposed as a cross-validation method for reliable assessment of model performance in settings where standard sample splitting is infeasible, such as with non-i.i.d. data. This approach achieves near-zero bias without paying a price in variance, thereby outperforming existing randomization alternatives.
 </p>
 
-   Further work is underway to understand the theoretical properties of this randomization approach and to explore its application to other problems.
    
 <details>
     <summary>Key papers:</summary>
     <ul class="publications-list">
          <li> Srijan Chattopadhyay, Sifan Liu, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
-   <b> On the Optimality of Antithetic Randomization for Cross-Validation. 2026 </b>.  [<a href="https://arxiv.org/pdf/2608.08089">arxiv</a>] </li>
+   <b> On the Optimality of Antithetic Randomization for Cross-Validation. 2026 </b>.  [<a href="https://arxiv.org/pdf/2608.08089">link</a>] </li>
         <li>Sifan Liu, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Jake A. Soloff. <b> Cross-Validation with Antithetic Gaussian Randomization</b>. 2026. Journal of the Royal Statistical Society Series B (Accepted).[<a href="https://arxiv.org/abs/2412.14423">link</a>]</li>
      </ul>
 </details>
