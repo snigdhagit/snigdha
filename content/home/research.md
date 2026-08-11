@@ -123,6 +123,8 @@ subtitle = ""
 <details>
     <summary>Key papers:</summary>
     <ul class="publications-list">
+         <li> Srijan Chattopadhyay, Sifan Liu, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
+   <b> On the Optimality of Antithetic Randomization for Cross-Validation. 2026 </b>.  [<a href="https://arxiv.org/pdf/2608.08089">arxiv</a>] </li>
         <li>Sifan Liu, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Jake A. Soloff. <b> Cross-Validation with Antithetic Gaussian Randomization</b>. 2024. [<a href="https://arxiv.org/abs/2412.14423">link</a>]</li>
      </ul>
 </details>
