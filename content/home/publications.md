@@ -77,22 +77,23 @@ subtitle = ""
 <div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
 
 Srijan Chattopadhyay, Sifan Liu, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
-   <b> On the Optimality of Antithetic Randomization for Cross-Validation </b>.  [<a href="https://arxiv.org/pdf/2608.08089">arxiv</a>]
+   <b> On the Optimality of Antithetic Randomization for Cross-Validation. </b>  [<a href="https://arxiv.org/pdf/2608.08089">arxiv</a>]
 
 <br>
 
+
 Soham Bakshi, Lingjun Gao, Zijun Gao, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
-   <b> Flexible Inference for Winners with Conditional Validity </b>.  [<a href="https://arxiv.org/pdf/2607.18545">arxiv</a>]
+   <b> Flexible Inference for Winners with Conditional Validity. </b>  [<a href="https://arxiv.org/pdf/2607.18545">arxiv</a>]
 
 <br>
 
 Ronan Perry, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Daniela Witten. 
-<b> Post-selection inference for penalized M-estimators via score thinning </b>.  [<a href="https://arxiv.org/pdf/2601.13514">arxiv</a>]
+<b> Post-selection inference for penalized M-estimators via score thinning. </b>  [<a href="https://arxiv.org/pdf/2601.13514">arxiv</a>]
 
 <br>
 
 Sifan Liu, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Jake A. Soloff.
-   <b> Cross-Validation with Antithetic Gaussian Randomization</b> 2026. Journal of the Royal Statistical Society Series B (Accepted). [<a href="https://arxiv.org/abs/2412.14423">arxiv</a>]
+   <b> Cross-Validation with Antithetic Gaussian Randomization.</b> Journal of the Royal Statistical Society Series B (Accepted). 2026. [<a href="https://arxiv.org/abs/2412.14423">arxiv</a>]
    
 </td> </tr> </tbody> </table> 
 
