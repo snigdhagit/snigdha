@@ -76,6 +76,12 @@ subtitle = ""
 
 <div style="margin-left: 10px; margin-right: 10px; text-align:left; font-size: 13pt;">
 
+Erin Craig, Yiling Huang, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
+   <b> Interpretable AI with Local Distillation. </b>  [<a href="https://arxiv.org/pdf/2608.23538">arxiv</a>]
+
+<br>
+
+
 Srijan Chattopadhyay, Sifan Liu, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
    <b> On the Optimality of Antithetic Randomization for Cross-Validation. </b>  [<a href="https://arxiv.org/pdf/2608.08089">arxiv</a>]
 
