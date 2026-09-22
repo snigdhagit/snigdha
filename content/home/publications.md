@@ -101,6 +101,13 @@ Ronan Perry, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Daniela Wi
 Sifan Liu, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Jake A. Soloff.
    <b> Cross-Validation with Antithetic Gaussian Randomization.</b> Journal of the Royal Statistical Society Series B (Accepted). 2026. [<a href="https://arxiv.org/abs/2412.14423">arxiv</a>]
    
+<br> 
+
+Yiling Huang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Guo Yu, and Jacob Bien.
+   <b> Reluctant Interaction Inference after Additive Modeling </b>. Journal of Machine Learning Research (Accepted). 2026.  [<a href="https://arxiv.org/pdf/2506.01219">arxiv</a>]
+
+  
+   
 </td> </tr> </tbody> </table> 
 
 
@@ -129,10 +136,6 @@ Sifan Liu, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
 
 <br>
 
-Yiling Huang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Guo Yu, and Jacob Bien.
-   <b> Reluctant Interaction Inference after Additive Modeling </b>.  [<a href="https://arxiv.org/pdf/2506.01219">arxiv</a>]
-
-<br>
 
 Sofia Guglielmini, Gerda Claeskens, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
    <b> Selective Inference in Graphical Models via Maximum Likelihood  </b>[<a href="https://arxiv.org/abs/2503.24311">arxiv</a>]
