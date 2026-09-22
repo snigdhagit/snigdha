@@ -96,16 +96,16 @@ Soham Bakshi, Lingjun Gao, Zijun Gao, and <b><font color=#2B0539>Snigdha Panigra
 Ronan Perry, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Daniela Witten. 
 <b> Post-selection inference for penalized M-estimators via score thinning. </b>  [<a href="https://arxiv.org/pdf/2601.13514">arxiv</a>]
 
+<br> 
+
+Yiling Huang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Guo Yu, and Jacob Bien.
+   <b> Reluctant Interaction Inference after Additive Modeling </b>. Journal of Machine Learning Research (Accepted). 2026.  [<a href="https://arxiv.org/pdf/2506.01219">arxiv</a>]
+   
 <br>
 
 Sifan Liu, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Jake A. Soloff.
    <b> Cross-Validation with Antithetic Gaussian Randomization.</b> Journal of the Royal Statistical Society Series B (Accepted). 2026. [<a href="https://arxiv.org/abs/2412.14423">arxiv</a>]
    
-<br> 
-
-Yiling Huang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Guo Yu, and Jacob Bien.
-   <b> Reluctant Interaction Inference after Additive Modeling </b>. Journal of Machine Learning Research (Accepted). 2026.  [<a href="https://arxiv.org/pdf/2506.01219">arxiv</a>]
-
   
    
 </td> </tr> </tbody> </table> 
