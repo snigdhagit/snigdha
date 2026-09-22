@@ -88,7 +88,7 @@ I am an Associate Professor of Statistics (with tenure). I currently serve on th
 and generative modeling. Visit <b><span style="color: #00008B">Research</b> to explore the unique contributions of
 my work with collaborators and team members. <br> </p> -->
 
-My research focuses on statistics for trustworthy science, transforming purely algorithmic methods into honest, transparent, and replicable scientific knowledge with statistical guarantees. Toward this goal, my team develops novel methods to model complex data, draw principled inference after black-box selection, and rigorously evaluate black-box algorithms, often by harnessing modern AI. <br>
+My research focuses on statistics for trustworthy science, transforming purely algorithmic methods into honest, transparent, and replicable knowledge with statistical guarantees. Toward this goal, my team develops novel methods to model complex data, draw principled inference after black-box selection, and rigorously evaluate black-box algorithms, often by harnessing modern AI. <br>
 
 <!-- <p>My current research is funded through grants from both the National Science Foundation and the National Institutes of Health.</p> -->
 My work was recognized with the [CAREER Award](https://new.nsf.gov/funding/opportunities/faculty-early-career-development-program-career) for early-career faculty by the National Science Foundation in the 2023 funding cycle and the [Bernoulli Society's New Researcher Award](https://www.bernoullisociety.org/prizes/267-bernoulli-society-new-researcher-award) in Mathematical Statistics for 2025. I am an elected member of the [International Statistical Institute](https://www.isi-web.org) since 2021.  
