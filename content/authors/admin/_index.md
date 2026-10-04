@@ -88,7 +88,7 @@ I am an Associate Professor of Statistics (with tenure). I currently serve on th
 and generative modeling. Visit <b><span style="color: #00008B">Research</b> to explore the unique contributions of
 my work with collaborators and team members. <br> </p> -->
 
-My research focuses on <em>statistics for trustworthy science</em>: transforming purely algorithmic tools into honest, transparent, and replicable scientific knowledge with statistical guarantees. In particular, I am drawn to foundational problems in applied statistics, where I develop new methods grounded in first principles, often leveraging modern AI. <br>
+My research focuses on <em>statistics for trustworthy science</em>: transforming purely algorithmic tools into honest, transparent, and replicable scientific knowledge with statistical guarantees. In particular, I am drawn to foundational problems in data science, where I develop new methods grounded in first principles, often leveraging modern AI. <br>
 
 <!-- <p> For a quick view of my recent contributions, see the selected papers here.</p> -->
 
