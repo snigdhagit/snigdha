@@ -98,13 +98,18 @@ Ronan Perry, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Daniela Wi
 
 <br> 
 
+Sifan Liu, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
+   <b> Flexible Selective Inference with Flow-based Transport Maps </b>. Journal of the American Statistical Association (Accepted). 2026. [<a href="https://arxiv.org/pdf/2506.01150">arxiv</a>]
+
+<br>
+
 Yiling Huang, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, Guo Yu, and Jacob Bien.
-   <b> Reluctant Interaction Inference after Additive Modeling </b>. Journal of Machine Learning Research (Accepted). 2026.  [<a href="https://arxiv.org/pdf/2506.01219">arxiv</a>]
+   <b> Reluctant Interaction Inference after Additive Modeling </b>. Journal of Machine Learning Research. 2026.  [<a href="https://arxiv.org/pdf/2506.01219">arxiv</a>] [<a href="https://www.jmlr.org/papers/volume27/25-1344/25-1344.pdf">publication</a>]
    
 <br>
 
 Sifan Liu, <b><font color=#2B0539>Snigdha Panigrahi</font></b>, and Jake A. Soloff.
-   <b> Cross-Validation with Antithetic Gaussian Randomization.</b> Journal of the Royal Statistical Society Series B (Accepted). 2026. [<a href="https://arxiv.org/abs/2412.14423">arxiv</a>]
+   <b> Cross-Validation with Antithetic Gaussian Randomization.</b> Journal of the Royal Statistical Society Series B. 2026. [<a href="https://arxiv.org/abs/2412.14423">arxiv</a>] [<a href="https://academic.oup.com/jrsssb/article/88/5/1785/8677829">publication</a>]
    
   
    
@@ -130,11 +135,6 @@ Soham Bakshi, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
 
 <br>
 
-
-Sifan Liu, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
-   <b> Flexible Selective Inference with Flow-based Transport Maps </b>.  [<a href="https://arxiv.org/pdf/2506.01150">arxiv</a>]
-
-<br>
 
 
 Sofia Guglielmini, Gerda Claeskens, and <b><font color=#2B0539>Snigdha Panigrahi</font></b>.
